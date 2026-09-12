@@ -1,6 +1,18 @@
 # Technetalks
 
-Base reutilizável de engenharia com IA para trabalhar com **Codex, Claude Code e GitHub Copilot**. O produto Technetalks ainda está em descoberta; esta entrega configura o modo de trabalhar e de continuar o projeto entre sessões e máquinas.
+Organização do encontro de tecnologia de **17/10/2026, 10h30–17h**, no Gama/DF, com almoço às 12h30 e lanche. Base confirmada: **16–20 pessoas totais, participação gratuita e teto de R$ 500**, custeados igualmente por Arthur e Henrique.
+
+O repositório também contém o kit reutilizável de engenharia com **Codex, Claude Code e GitHub Copilot**, concluído em AI-001. O trabalho atual é AI-002, planejamento do evento.
+
+## Organizar o evento
+
+- [Plano mestre, prioridades, orçamento e roteiro do dia](docs/evento/PLANO_MESTRE.md)
+- [Pauta e checklist para a reunião de 12/09](docs/evento/PAUTA_REUNIAO_12-09.md)
+- [Questionário para VIRUS e Coatio](docs/evento/QUESTIONARIO_PALESTRANTES.md)
+- [Planilha: cronograma macro, atividades micro e orçamento](outputs/AI-002/planejamento-evento.xlsx)
+- [Boas práticas e fontes consultadas](docs/evento/REFERENCIAS_E_PRATICAS.md)
+
+DEC-007 registra o que o usuário confirmou. Distribuição de orçamento, prazos internos, apoio operacional e programação detalhada são propostas para a reunião; não representam compras, convites ou reservas executados.
 
 ## Retomar este projeto
 
@@ -41,6 +53,6 @@ Nos projetos gerados, o CLI fica em `tools/ai-kit/scripts/bootstrap.py`. Os arqu
 - [Contrato de estado, backlog e handoff](docs/agents/records.md)
 - [Decisões e escopo autorizado](DECISIONS.md)
 - [Fontes e compatibilidade](docs/agents/sources.md)
-- [Validação desta entrega](docs/validation/AI-001.md)
+- [Histórico de validação e entregas](WORKLOG.md)
 
 `AGENTS.md` contém as regras comuns. `CLAUDE.md` e `.github/copilot-instructions.md` adaptam os clientes. `.scratch/` é o tracker local versionado; `BACKLOG.md` mantém os IDs e status de execução.

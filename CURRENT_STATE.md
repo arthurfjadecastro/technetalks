@@ -1,10 +1,11 @@
 # Estado atual
 
-- Atualizado em: 2026-09-12T03:10:00-03:00
+- Atualizado em: 2026-09-12T13:55:00-03:00
 - Agente: Claude Code
-- Tarefa: AI-001 — Criar kit reutilizável de engenharia e continuidade entre assistentes.
-- Status: DONE
-- Autorização: DEC-001 para o escopo do kit e para commit/push no origin; confirmação do usuário nesta sessão para publicar e instalar o bootstrap no perfil pessoal.
+- Tarefa: AI-002 — Descobrir e estruturar a organização do evento Technetalks.
+- Status: READY_FOR_REVIEW
+- Autorização: DEC-006, DEC-007 e DEC-008 (commit/push em `origin/main`; repositório público; dados do projeto liberados para versionamento). Compras, convites, contratação e envio de mensagens seguem fora do escopo.
 - Arquivos em edição: nenhum
-- Próxima ação: aguardar autorização de escopo para AI-002; DONE encerra apenas AI-001.
-- Publicação: commit inicial publicado em `origin/main`, confirmado por consulta ao remoto. Bootstrap instalado no perfil pessoal e exercitado em projeto descartável.
+- Próxima ação: publicar AI-002 em `origin/main` e confirmar no remoto; depois Arthur e Henrique revisam o pacote e trazem o resultado da reunião/visita de 12/09.
+- Entrega: plano mestre, pauta, questionário, referências e planilha operacional em `outputs/AI-002/planejamento-evento.xlsx`, gerada por `scripts/evento/build-workbook.mjs`. Pacote de 109 KB.
+- Pendência fora do escopo: `.agents/skills/project-continuity-claude/` sem rastreamento, com `name: project-continuity-Codex`, parece resíduo do Codex; o adaptador válido está em `.claude/skills/`. Não foi alterado nem será versionado sem decisão.

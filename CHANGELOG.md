@@ -1,5 +1,11 @@
 # Changelog
 
+## Não publicado — AI-002 planejamento do evento
+
+- Base confirmada do encontro de 17/10/2026 registrada em DEC-006 e DEC-007; vocabulário do evento em CONTEXT.
+- `docs/evento/`: plano mestre, pauta da reunião de 12/09, questionário dos palestrantes, referências de boas práticas e guia de uso.
+- Planilha operacional `outputs/AI-002/planejamento-evento.xlsx` com premissas, 13 marcos, 60 atividades com dependências, orçamento com limite/cotação/gasto e roteiro do dia; gerador em `scripts/evento/`.
+
 ## 1.0.0 — Base de engenharia com IA
 
 - Kit portável para iniciar projetos com protocolo de continuidade compartilhado.

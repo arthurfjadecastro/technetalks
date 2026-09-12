@@ -12,12 +12,18 @@ Status: `[ ] NOT_STARTED`, `[~] IN_PROGRESS`, `[?] BLOCKED`, `[R] READY_FOR_REVI
 - Dependências: nenhuma.
 - Revisão 2026-09-12 (Claude Code): aprovada com correções. A1 — `validate .` falha sem AGENTS.md, CLAUDE.md, copilot-instructions.md e manifesto, e o CI executa esse comando; resolvido pela auto-aplicação. A2 — auto-aplicação duplicaria o runtime em `tools/ai-kit`; corrigido por auto-hospedagem (DEC-005). A3 — sem regeneração de inventário após editar assets; extraído para AI-003.
 
-## [ ] AI-002 — Descobrir o produto Technetalks
+## [R] AI-002 — Descobrir e estruturar a organização do evento Technetalks
 
-- Status: NOT_STARTED
-- Escopo: levantar público, problema, requisitos e primeiro incremento do produto.
-- Autorização: pendente; não iniciar por inferência de AI-001 concluída.
-- Aceite: escopo e plano aprovados pelo usuário.
+- Status: READY_FOR_REVIEW
+- Prioridade: P0; primeiro item aberto na ordem existente, agora autorizado pelo pedido de 2026-09-12.
+- Escopo: organizar o evento a partir do anexo; distinguir fatos/propostas/pendências; preparar plano mestre, cronograma macro, atividades micro, responsáveis sugeridos, dependências, riscos e perguntas para fechar as decisões.
+- Autorização: usuário autorizou entendimento, pesquisa, questionamento e planejamento nesta sessão. Não inclui compras, contratação, envio de convites ou publicação de dados de participantes.
+- Aceite: planejamento rastreável ao anexo, cronograma datado com premissas explícitas, checklist operacional editável, validação de coerência/prazos/tamanho; aprovação do usuário para consolidar decisões ainda pendentes.
+- Estimativa: pacote documental e planilha abaixo de 500 KB; sem mídia.
+- Riscos: orçamento de R$ 500 ainda sem cotações; nome do responsável pelo preparo, menu, equipamentos e equipe de apoio pendentes; visita técnica será em 12/09.
+- Dependências: decisões da reunião e respostas ao questionário dos palestrantes para fixar a programação executiva; cronograma e regras de palestra são propostas para revisão.
+- Base confirmada: DEC-007; 16–20 pessoas totais, 20 cadeiras, evento gratuito de 10h30–17h, almoço 12h30, dois palestrantes confirmados.
+- Entrega 2026-09-12 (Codex + Claude Code): plano mestre, pauta da reunião, questionário, referências e planilha `outputs/AI-002/planejamento-evento.xlsx` (13 marcos, 60 atividades EVT, orçamento, roteiro). Validada; aguarda revisão de Arthur e Henrique e o resultado da reunião de 12/09. Commit/push não autorizado em DECISIONS para AI-002.
 
 ## [ ] AI-003 — Regenerar inventário do kit
 
