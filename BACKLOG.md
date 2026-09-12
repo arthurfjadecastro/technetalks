@@ -2,9 +2,9 @@
 
 Status: `[ ] NOT_STARTED`, `[~] IN_PROGRESS`, `[?] BLOCKED`, `[R] READY_FOR_REVIEW`, `[x] DONE`.
 
-## [~] AI-001 — Kit reutilizável de engenharia com IA
+## [x] AI-001 — Kit reutilizável de engenharia com IA
 
-- Status: IN_PROGRESS
+- Status: DONE
 - Escopo autorizado: protocolo compartilhado, adaptadores Codex/Claude/Copilot, templates, skills genéricas, pacote Matt Pocock padrão, bootstrap, validação, documentação e commit/push para o origin existente.
 - Aceite: bootstrap preserva arquivos existentes; projeto gerado passa validação; skills com referências completas; testes de idempotência e conflitos; retomada documentada; publicação verificada ou bloqueio registrado com precisão.
 - Riscos: diferenças de descoberta entre clientes; permissões para instalação global e Git; indisponibilidade de rede.

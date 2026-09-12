@@ -1,10 +1,10 @@
 # Passagem de responsabilidade
 
-- Tarefa: AI-001 — Kit reutilizável de engenharia com IA.
-- Ponto atual: revisão concluída e kit aplicado ao próprio repositório; falta publicar.
-- Concluído: revisão técnica com três achados tratados, correção de auto-hospedagem (DEC-005) com teste próprio, auto-aplicação com `--adopt-records` criando 87 arquivos, instruções dos três assistentes e 26 skills instaladas.
-- Arquivos: ai-kit/scripts/bootstrap.py, tests/test_bootstrap.py, registros raiz, AGENTS.md, CLAUDE.md, CONTEXT.md, .github/, docs/agents/, .agents/skills/, .claude/skills/, .ai-kit.json.
-- Validações: 13 testes unittest aprovados; `validate` e `doctor` aprovados. Não exercitados: Linux, Python 3.10 e a descoberta de skills por Codex e Copilot, ausentes nesta máquina.
-- Falta: confirmar push com o usuário, instalar o bootstrap no perfil pessoal e verificar o resultado remoto.
-- Próxima ação exata: publicar AI-001 no origin e conferir o remoto; não iniciar AI-002.
-- Git: commit inicial preparado nesta sessão; push ainda não realizado.
+- Tarefa: AI-001 — Kit reutilizável de engenharia com IA. Encerrada.
+- Ponto atual: kit revisado, aplicado a este repositório, publicado em `origin/main` e disponível no perfil pessoal.
+- Concluído: revisão técnica com três achados tratados; correção de auto-hospedagem (DEC-005) com teste próprio; auto-aplicação preservando os registros existentes; commit inicial publicado e conferido no remoto; instalação pessoal exercitada em projeto descartável.
+- Arquivos: nenhum em edição.
+- Validações: 13 testes unittest aprovados; `validate` e `doctor` aprovados neste repositório e no projeto de teste; publicação confirmada por consulta ao remoto. Não exercitados: Linux e Python 3.10 fora da integração contínua, e a descoberta de skills pelos seletores de Codex e Copilot, ausentes nesta máquina.
+- Falta: nada em AI-001. AI-002 (descoberta do produto) e AI-003 (regeneração de inventário) aguardam autorização de escopo.
+- Próxima ação exata: aguardar o usuário definir o escopo de AI-002; não iniciar por inferência.
+- Git: `main` sincronizada com `origin/main`. Verificar o resultado da integração contínua no primeiro push.
