@@ -23,7 +23,7 @@ Status: `[ ] NOT_STARTED`, `[~] IN_PROGRESS`, `[?] BLOCKED`, `[R] READY_FOR_REVI
 - Riscos: orçamento de R$ 500 ainda sem cotações; nome do responsável pelo preparo, menu, equipamentos e equipe de apoio pendentes; visita técnica será em 12/09.
 - Dependências: decisões da reunião e respostas ao questionário dos palestrantes para fixar a programação executiva; cronograma e regras de palestra são propostas para revisão.
 - Base confirmada: DEC-007; 16–20 pessoas totais, 20 cadeiras, evento gratuito de 10h30–17h, almoço 12h30, dois palestrantes confirmados.
-- Entrega 2026-09-12 (Codex + Claude Code): plano mestre, pauta da reunião, questionário, referências e planilha `outputs/AI-002/planejamento-evento.xlsx` (13 marcos, 60 atividades EVT, orçamento, roteiro). Validada; aguarda revisão de Arthur e Henrique e o resultado da reunião de 12/09. Commit/push não autorizado em DECISIONS para AI-002.
+- Entrega 2026-09-12 (Codex + Claude Code): plano mestre, pauta da reunião, questionário, referências e planilha `outputs/AI-002/planejamento-evento.xlsx` (13 marcos, 60 atividades EVT, orçamento, roteiro). Validada e publicada em `origin/main` (8d06d2e, DEC-008); aguarda revisão de Arthur e Henrique e o resultado da reunião de 12/09.
 
 ## [ ] AI-003 — Regenerar inventário do kit
 
