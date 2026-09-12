@@ -1,0 +1,20 @@
+# {{PROJECT_NAME}}
+
+Projeto preparado com kit de engenharia e continuidade entre Codex, Claude Code e GitHub Copilot.
+
+## Começar
+
+Leia [AGENTS.md](AGENTS.md). Para retomar: “Continue a partir do estado persistido no repositório, lendo os documentos na ordem de AGENTS.md e respeitando a autorização registrada.”
+
+Execute `python tools/ai-kit/scripts/bootstrap.py validate .` para checar registros e recursos instalados; `doctor .` também mostra ferramentas e skills encontradas.
+
+## Produto e escopo
+
+O produto será definido na tarefa AI-001. O bootstrap AI-000 não autoriza implementar funcionalidades nem publicar este projeto.
+Registre fontes e critérios de aceite em DECISIONS e no backlog. Regras de documentação ou limites de entrega só se aplicam quando o projeto os adota explicitamente.
+
+## Fluxo de engenharia
+
+Discovery → especificação → tickets → escopo autorizado → implementação → revisão → correções → validação aplicável → entrega.
+
+Consulte [guia de agentes](docs/agents/workflow.md), [tracker](docs/agents/issue-tracker.md) e [contrato dos registros](docs/agents/records.md). Python 3.10+ é suficiente para o kit; dependências do produto serão definidas no seu escopo.

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI project kit manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "kit_version", "project_name", "created_at", "mattpocock", "files"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "kit_version": {"type": "string", "minLength": 1},
+    "project_name": {"type": "string", "minLength": 1},
+    "created_at": {"type": "string", "format": "date-time"},
+    "mattpocock": {"type": ["object", "null"]},
+    "files": {"type": "object", "minProperties": 1, "additionalProperties": {"type": "string", "pattern": "^[0-9a-f]{64}$"}}
+  }
+}
