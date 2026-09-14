@@ -86,3 +86,8 @@ Em 2026-09-14, o usuário pediu o melhor arranjo para trabalhar com Codex, GitHu
 - Configurações exclusivas de uma máquina (identidade Git, credencial, `xcode-select`) ficam documentadas em `docs/agents/workflow.md` e são aplicadas em cada máquina; não viajam pelo repositório.
 
 Não altera DEC-001 a DEC-009 nem autoriza AI-003.
+
+## DEC-011 — Commit e push permanentes
+
+Em 2026-09-14, depois de fechar o Excel, o usuário pediu para integrar a planilha, fazer commit e push "sempre". Fica autorizado, sem nova pergunta, commit e push em `origin/main` ao fim de cada entrega autorizada e ao integrar edições dos organizadores em arquivos do projeto (planilha, textos), seguindo o protocolo de DEC-010: pull antes, conferência do conteúdo e dos travamentos do Office, validação, push e `git ls-remote`.
+Não autoriza iniciar tarefas novas, `push --force`, reescrever histórico nem versionar arquivos abertos por outro programa ou de conteúdo não inspecionado.

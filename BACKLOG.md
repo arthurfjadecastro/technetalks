@@ -27,15 +27,16 @@ Status: `[ ] NOT_STARTED`, `[~] IN_PROGRESS`, `[?] BLOCKED`, `[R] READY_FOR_REVI
 - Retomada 2026-09-13 (Claude Code): ata da reunião de 12/09 recebida e salva em `docs/evento/ATA_REUNIAO_12-09.md`. Volta a IN_PROGRESS para esclarecer divergências, registrar DEC-009, atualizar o plano e simplificar a planilha a pedido de Arthur.
 - Entrega 2026-09-14 (Claude Code): DEC-009; plano mestre e questionário no novo roteiro; textos de divulgação, quiz e feedback; planilha reduzida a 4 abas e 32 tarefas (12 KB). Aguarda revisão dos organizadores e o preenchimento dos responsáveis "A definir".
 
-## [~] AI-004 — Padronizar o trabalho entre assistentes e máquinas
+## [x] AI-004 — Padronizar o trabalho entre assistentes e máquinas
 
-- Status: IN_PROGRESS
+- Status: DONE
 - Escopo: práticas para Codex, Copilot e Claude Code em Windows e macOS com pull/push alternados: normalização de texto e binários, ignores de sistema/Office, protocolo de sincronização e conflitos, correção da CI auto-hospedada, macOS na matriz de testes e limpeza dos resíduos locais do Codex.
 - Autorização: DEC-010, incluindo commit/push em `origin/main`.
 - Aceite: kit e repositório com os mesmos padrões; CI verde nas duas workflows com macOS; testes e `validate` aprovados; merge simultâneo de WORKLOG sem conflito demonstrado; passos de configuração de cada máquina documentados.
 - Riscos: alterar templates muda o inventário (sem comando de regeneração, AI-003); runner macOS com Python 3.10; configuração do Mac só pode ser feita nele.
 - Estimativa: uma sessão; alterações de texto e um ajuste pequeno no CLI com teste.
 - Dependências: nenhuma.
+- Entrega 2026-09-14 (Claude Code): kit 1.1.0 publicado em b2062dd; CI verde nas duas workflows, com macOS. Configuração local do Mac documentada para ser aplicada nele.
 
 ## [ ] AI-003 — Regenerar inventário do kit
 
