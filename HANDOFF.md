@@ -6,7 +6,8 @@
 - Arquivos: nenhum em edição.
 - Validações: comparação célula a célula da planilha com a versão anterior, prévia renderizada, links e `validate`. Detalhes na última entrada do WORKLOG.
 - Decidido depois (DEC-013): nome TECHNE Talks · Encontro nº 02, já alinhado nos textos; material de apoio até 21/09; ensaio no começo de outubro (gravação com roteiro até 03/10; ensaio com a tela, nº 9, em 04/10, interpretação a confirmar); Arthur envia os links; Arthur e Henrique acompanham as inscrições; restrição alimentar no formulário; limite de 20, porque organizadores e palestrantes também se inscrevem. Planilha com 40 tarefas.
-- Pendente com os organizadores: aplicar os ajustes de FORMULARIOS.md no forms.app e aprovar os três formulários até 16/09; preencher os responsáveis "A definir" restantes (arte e envio dos flyers, grupo, banner, brinde, quiz, lembrete).
+- DEC-014: inscrição refeita (versão 2) só com nome, WhatsApp e e-mail; perguntas de perfil e relacionamento no backlog do formulário de feedback (FORMULARIOS.md, seção Backlog; tarefa 28); restrição alimentar só nas próximas edições (tarefa 39 "Não se aplica").
+- Pendente com os organizadores: concluir a inscrição v2 no forms.app (obrigatórios, Brasil padrão, DDD, descrição e mensagem final que não aparecem na versão publicada, cores creme/azul-escuro/terracota, encerramento e limite de 20) e os ajustes dos palestrantes; aprovar os três formulários até 16/09; preencher os responsáveis "A definir" restantes (arte e envio dos flyers, grupo, banner, brinde, quiz, lembrete).
 - Planilha: editada à mão, uma máquina por vez. Não rode `scripts/evento/build_planilha.py`, que sobrescreve as edições. Em edições via openpyxl, atribua `cell.value` explicitamente e compare célula a célula com a versão anterior.
 - Mac: na próxima sessão, `git pull --ff-only` e a configuração única de `docs/agents/workflow.md`.
 - Fora do escopo: AI-003 sem autorização.

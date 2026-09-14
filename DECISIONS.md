@@ -114,3 +114,16 @@ Respostas de Arthur em 2026-09-14 às decisões pendentes de DEC-012:
 - **Inscrição:** incluir no formulário a pergunta de restrição alimentar, com intolerância à lactose e doença celíaca/glúten entre as opções. Arthur, Henrique, VIRUS e Coatio também se inscrevem como participantes, então o limite do formulário é **20**, o mesmo total do evento (DEC-009). Quem vier só como apoio e almoçar sem se inscrever reduz esse limite.
 
 Os três formulários continuam aguardando aprovação para envio e divulgação.
+
+## DEC-014 — Inscrição simplificada e backlog de formulários
+
+Em 2026-09-14, Arthur refez o formulário de inscrição (mesmo link, versão 2) para ser simples e rápido: só **nome completo, telefone/WhatsApp com DDD e e-mail, os três obrigatórios**, sem nenhuma outra pergunta ou etapa.
+
+- **Descrição:** "Tecnologia se aprende em boa companhia. Preencha seus dados para confirmar seu interesse no segundo encontro do TECHNE Talks e receber informações importantes sobre o evento e futuras edições."
+- **Mensagem após o envio:** "Obrigado pelo interesse! Seus dados foram registrados. Em breve, enviaremos as informações complementares do TECHNE Talks."
+- **Telefone:** Brasil (+55) como país padrão; se não for possível, a orientação "Selecione Brasil (+55) antes de informar o número".
+- **Estética:** fundo claro ou creme, tipografia elegante e legível, detalhes em azul-escuro e terracota, layout minimalista.
+- **Backlog, formulário de feedback e relacionamento:** área ou momento profissional, como conheceu, temas para próximos encontros, expectativa, participação no primeiro encontro, autorização de contato, avaliação geral, notas (palestras, dinâmica, alimentação, organização), momento favorito, sugestões, interesse em voltar e recomendação. É enviado no encerramento por QR code ou depois por e-mail/WhatsApp.
+- **Restrição alimentar:** sai desta edição e fica no backlog para os próximos eventos. Substitui o item correspondente de DEC-013; o limite de 20 inscrições continua.
+
+A inscrição segue aguardando aprovação para divulgação.

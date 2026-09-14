@@ -47,7 +47,7 @@ Cada palestra tem 45 minutos, perguntas incluídas. A proposta para os palestran
 
 ## 4. Divulgação e inscrições
 
-Tudo acontece no grupo do WhatsApp. Os textos estão em [DIVULGACAO.md](DIVULGACAO.md); arte e envio ficam com os organizadores. A inscrição é pelo [formulário online](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02), criado em 14/09 e **aguardando aprovação para divulgação**; os três formulários, com etapas e ajustes sugeridos, estão em [FORMULARIOS.md](FORMULARIOS.md).
+Tudo acontece no grupo do WhatsApp. Os textos estão em [DIVULGACAO.md](DIVULGACAO.md); arte e envio ficam com os organizadores. A inscrição é pelo [formulário online](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02), só com nome, WhatsApp e e-mail (DEC-014), refeito em 14/09 e **aguardando aprovação para divulgação**; os três formulários, com etapas e ajustes sugeridos, estão em [FORMULARIOS.md](FORMULARIOS.md).
 
 | Data proposta | Ação |
 |---|---|
@@ -69,7 +69,7 @@ A compra de comida só acontece **depois de 10/10**, com o quantitativo confirma
 
 - **Almoço:** lasanha, estrogonofe, arroz, batata palha, salada, refrigerantes e sucos.
 - **Lanche:** encomenda na padaria — pãezinhos, assados e café.
-- **Restrições:** o formulário de inscrição pergunta intolerância à lactose e doença celíaca/glúten. Lasanha, estrogonofe e pães têm glúten ou lactose; se alguém informar restrição, Henrique planeja uma opção segura, e para doença celíaca isso inclui evitar contaminação cruzada.
+- **Restrições:** a inscrição desta edição não pergunta restrição alimentar (DEC-014); a pergunta fica para as próximas. Lasanha, estrogonofe e pães têm glúten ou lactose.
 
 ## 6. Orçamento
 
@@ -89,7 +89,7 @@ Como a comida é comprada por último, o número confirmado em 10/10 é o moment
 
 ## 7. Sorteio e feedback
 
-Duas canecas sorteadas por um quiz com pontuação, acessado por QR code, e um formulário de feedback no fim. Textos em [SORTEIO_E_FEEDBACK.md](SORTEIO_E_FEEDBACK.md).
+Duas canecas sorteadas por um quiz com pontuação, acessado por QR code, e um formulário de feedback e relacionamento no fim, por QR code, ou depois por e-mail/WhatsApp. Textos em [SORTEIO_E_FEEDBACK.md](SORTEIO_E_FEEDBACK.md); itens de relacionamento no backlog de [FORMULARIOS.md](FORMULARIOS.md#backlog).
 
 ## 8. Riscos
 

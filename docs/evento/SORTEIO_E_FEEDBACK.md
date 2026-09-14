@@ -81,6 +81,8 @@ Se as perguntas 7 e 8 não ficarem prontas, removam as duas: o quiz funciona com
 
 ## Formulário de feedback
 
+> **Backlog (DEC-014):** este rascunho vira o formulário de feedback e relacionamento. Antes de montar, acrescente os itens de relacionamento listados em [FORMULARIOS.md](FORMULARIOS.md#backlog): área ou momento profissional, como conheceu, expectativa, participação no primeiro encontro, autorização de contato e recomendação. Envio no encerramento, por QR code, ou depois por e-mail/WhatsApp.
+
 **Introdução do formulário:**
 
 > Obrigado por participar do TECHNE Talks · Encontro nº 02! Leva 2 minutos e é anônimo. Suas respostas vão definir como será o próximo.

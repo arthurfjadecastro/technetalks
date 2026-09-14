@@ -10,6 +10,7 @@
 - Novos textos: grupo do WhatsApp, 4 flyers, lembrete e convite do fotógrafo (`DIVULGACAO.md`); quiz do sorteio e formulário de feedback (`SORTEIO_E_FEEDBACK.md`). Plano mestre e questionário atualizados.
 - Formulários online dos palestrantes e da inscrição (forms.app) documentados em `FORMULARIOS.md`, com etapas, revisão e status "aguardando aprovação" (DEC-012); link de inscrição nos textos de divulgação; Checklist com 38 tarefas e o status "Aguardando aprovação".
 - Nome público TECHNE Talks · Encontro nº 02 nos textos; material de apoio dos palestrantes até 21/09 e ensaio no começo de outubro; pergunta de restrição alimentar e limite de 20 inscrições (DEC-013); Checklist com 40 tarefas.
+- Inscrição simplificada para nome, WhatsApp e e-mail, com conferência da versão publicada; backlog do formulário de feedback e relacionamento; restrição alimentar adiada para as próximas edições (DEC-014).
 
 ## 1.1.0 — Várias máquinas e assistentes (AI-004)
 
