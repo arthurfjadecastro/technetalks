@@ -51,3 +51,7 @@ Validações executadas: asserções do gerador (roteiro contínuo das 10h30 às
 ## 2026-09-14T13:55:00-03:00 | AI-002 | Publicação bloqueada
 
 Commit a1640a1 criado com os 19 arquivos da entrega, com a mesma identidade dos commits anteriores passada só para o comando, já que esta máquina não tem `user.name`/`user.email` configurados. O push para `origin/main` falhou com "could not read Username for 'https://github.com'": não há credencial do GitHub nesta máquina. `git ls-remote` confirma o remoto ainda em 4ede1d3. A entrega existe apenas localmente até Arthur autenticar e enviar; o bloqueio e a condição de desbloqueio estão em CURRENT_STATE e HANDOFF.
+
+## 2026-09-14T14:10:00-03:00 | AI-002 | Publicação desbloqueada
+
+A pedido de Arthur, o assistente resolveu o bloqueio de publicação. Não havia chave SSH aceita pelo GitHub. O GitHub CLI 2.100.0 foi baixado para a pasta temporária da sessão, sem instalação no sistema, e autenticado pelo fluxo de dispositivo; Arthur autorizou no navegador a conta arthurfjadecastro. O token foi gravado no Keychain por `git credential approve`, sem ser exibido, para o helper `osxkeychain` do Git; nenhuma configuração global do Git foi alterada. Push de a1640a1 e 462940a para `origin/main` confirmado: `HEAD` e `git ls-remote` coincidem em 462940a. O `xcode-select` do sistema continua apontando para o Xcode inexistente; o assistente usa `DEVELOPER_DIR`.
