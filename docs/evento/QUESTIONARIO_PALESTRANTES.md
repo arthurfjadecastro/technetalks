@@ -1,8 +1,8 @@
-# Technetalks — questionário individual do palestrante
+# TECHNE Talks · Encontro nº 02 — questionário individual do palestrante
 
 **Formulários online criados em 14/09/2026 a partir deste texto, aguardando aprovação: [VIRUS](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) e [Coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio). Status, etapas e ajustes em [FORMULARIOS.md](FORMULARIOS.md).**
 
-**Versão atualizada em 14/09/2026 com o roteiro de DEC-009.** Technetalks é o nome de trabalho; validar o nome público antes do envio. Entregar uma cópia a cada palestrante. As propostas abaixo ainda dependem do acordo com cada um; o assistente não envia este documento.
+**Versão atualizada em 14/09/2026 com o roteiro de DEC-009.** Prazos e nome atualizados por DEC-013. Entregar uma cópia a cada palestrante. As propostas abaixo ainda dependem do acordo com cada um; o assistente não envia este documento.
 
 **De:** Arthur e Henrique. **Para:** Francisco Figueiredo, “VIRUS”, ou Matheus Henrique, “Coatio” — uma cópia por pessoa.
 
@@ -10,7 +10,7 @@
 
 ## O encontro
 
-Valeu por topar participar! O Technetalks será em **17/10/2026**, na casa do Henrique, no **Gama/DF**. A chegada é às **10h30**, a programação começa às **11h** e termina às **17h**. Será gratuito, com **11 a 20 pessoas no total**, incluindo organizadores e palestrantes. Teremos almoço às **12h30** e lanche à tarde. Arthur e Henrique compartilharão o endereço completo privadamente.
+Valeu por topar participar! O segundo encontro do TECHNE Talks será em **17/10/2026**, na casa do Henrique, no **Gama/DF**. A chegada é às **10h30**, a programação começa às **11h** e termina às **17h**. Será gratuito, com **11 a 20 pessoas no total**, incluindo organizadores e palestrantes. Teremos almoço às **12h30** e lanche à tarde. Arthur e Henrique compartilharão o endereço completo privadamente.
 
 ## Combinados propostos — vamos confirmar juntos
 
@@ -20,10 +20,9 @@ Cada palestra terá **45 minutos: 30 de conteúdo e 15 de perguntas**. A demonst
 | --- | --- |
 | VIRUS — IA no dia a dia | 17/10, das **14h às 14h45**; equipamento preparado das 13h30 às 13h45 |
 | Coatio — design thinking, UI/UX e CARANGA | 17/10, das **15h às 15h45**; equipamento preparado no intervalo das 14h45 |
-| Retorno das respostas | Até **21/09/2026**, para montar os flyers das palestras |
-| Fechamento de título e agenda | Até **23/09/2026**, em acordo com cada palestrante |
-| Materiais finais | Até **14/10/2026** |
-| Ensaio e teste técnico | **16/10/2026**, com horário e formato a combinar |
+| Respostas, título, agenda e material de apoio | Até **21/09/2026**, para montar os flyers das palestras |
+| Ensaio | Começo de outubro; gravação do ensaio com o roteiro até **03/10/2026** |
+| Teste com a tela escolhida | Começo de outubro, com data a combinar |
 
 A conversa deve priorizar aprendizado e troca de experiências. A apresentação do CARANGA pode explicar o piloto e as escolhas de design; compras, cadastro comercial ou divulgação não são condições para participar.
 
@@ -147,7 +146,7 @@ Considere **14h–14h45 para VIRUS** ou **15h–15h45 para Coatio**, em 17/10/20
 
 ### 14. Quais ajustes você precisa no calendário de preparação proposto?
 
-Retorno em 21/09, título e agenda em 23/09, materiais em 14/10 e ensaio em 16/10, todos de 2026. O horário do ensaio será combinado separadamente.
+Respostas, título, agenda e material de apoio em 21/09; ensaio no começo de outubro, com a gravação e o roteiro até 03/10, todos de 2026. O teste com a tela será combinado separadamente.
 
 > [ ] Essas datas funcionam  [ ] Preciso confirmar
 >

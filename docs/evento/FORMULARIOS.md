@@ -12,8 +12,8 @@
 
 1. **Revisar e ajustar** os pontos abaixo (Arthur, no forms.app).
 2. **Aprovar** (Arthur + Henrique), até 16/09. Enquanto isso, nenhum link é enviado nem divulgado.
-3. **Enviar** o link de cada palestrante em 16/09, com prazo de resposta em 21/09. **Divulgar** a inscrição no primeiro disparo do grupo, em 21/09, junto com o flyer 1.
-4. **Acompanhar**: respostas dos palestrantes até 21/09; inscrições uma vez por semana até 10/10, contando as vagas restantes (base do flyer 4, "vagas acabando").
+3. **Enviar** (Arthur) o link de cada palestrante em 16/09, com prazo de resposta e material de apoio em 21/09. **Divulgar** a inscrição no primeiro disparo do grupo, em 21/09, junto com o flyer 1. Arthur, Henrique, VIRUS e Coatio também se inscrevem.
+4. **Acompanhar** (Arthur e Henrique): respostas dos palestrantes até 21/09; inscrições uma vez por semana até 10/10, contando as vagas restantes (base do flyer 4, "vagas acabando").
 5. **Consolidar**: títulos e sinopses viram os flyers 2 e 3 ([DIVULGACAO.md](DIVULGACAO.md)); em 10/10 o total de inscritos vira o quantitativo da aba Cardápio.
 
 As respostas ficam no painel do forms.app. Na planilha e no repositório entram só totais e o que a organização precisa (títulos, sinopses, recursos técnicos), sem nomes, contatos ou restrições alimentares dos inscritos.
@@ -41,16 +41,25 @@ Revisão feita a partir dos dados públicos de cada formulário em 14/09.
 
 - [ ] O telefone está com país padrão Reino Unido (GB). Mudar para Brasil (+55).
 - [ ] Incluir uma descrição curta no início: sábado, 17/10, chegada às 10h30, Gama/DF (endereço enviado aos inscritos), gratuito, vagas limitadas, inscrições até 10/10.
-- [ ] Incluir "Tem alguma restrição alimentar?". O almoço tem lasanha e estrogonofe, e as proporções são fechadas depois de 10/10.
+- [ ] Incluir a pergunta de restrição alimentar (DEC-013). Texto sugerido, múltipla escolha:
+
+  > **Você tem alguma restrição alimentar?**
+  > ( ) Nenhuma · ( ) Intolerância à lactose · ( ) Doença celíaca (não pode glúten) · ( ) Sensibilidade ao glúten · ( ) Vegetariano(a) · ( ) Outra: ____
+  >
+  > *Se marcou alguma, conte o que precisamos saber para preparar sua refeição.* (resposta curta, opcional)
+
+  Doença celíaca exige evitar até traços de glúten, inclusive pela contaminação cruzada (mesma forma, utensílio ou óleo). Lasanha, estrogonofe e os pães da padaria costumam ter glúten, lactose ou os dois.
 - [ ] Incluir "Se veio por indicação, quem do grupo te indicou?". DEC-009 pede que quem não está no grupo venha com alguém que o conheça.
 - [ ] Incluir autorização de imagem, já que Guilherme Reis deve registrar o dia em fotos e vídeos.
-- [ ] Configurar o encerramento em 10/10 e, se o plano do forms.app permitir, um limite de respostas. São até 16 vagas: 20 pessoas no total, menos 2 organizadores e 2 palestrantes; descontem também quem vier como apoio.
+- [ ] Configurar o encerramento em 10/10 e, se o plano do forms.app permitir, o limite de **20 respostas**. Organizadores e palestrantes também se inscrevem (DEC-013); quem vier só como apoio e almoçar sem se inscrever reduz o limite.
 - [ ] "Como você conheceu" já tem a opção "Participação no primeiro encontro" e, logo depois, vem "Você participou do primeiro encontro?". Uma das duas basta.
 
-## Pontos a decidir
+## Decidido em 14/09 (DEC-013)
 
-1. **Nome público.** Os formulários usam "TECHNE Talks | Encontro nº 02". Os textos de divulgação e o feedback ainda dizem "Technetalks" e "primeiro Technetalks". Com a confirmação, os textos são alinhados.
-2. **Prazos dos palestrantes.** Os formulários pedem título, agenda e materiais até 21/09 e a gravação do ensaio, com roteiro, até 03/10. O plano tinha títulos em 21/09, slides em 14/10 e ensaio presencial em 16/10. Falta definir se os slides passam para 21/09 e se o ensaio de 16/10 continua.
+1. **Nome público:** TECHNE Talks · Encontro nº 02. Divulgação, questionário, quiz e feedback foram alinhados.
+2. **Prazos dos palestrantes:** título, agenda, sinopse e material de apoio até 21/09; ensaio no começo de outubro, com a gravação e o roteiro até 03/10, como já pedem os formulários.
+3. **Responsáveis:** Arthur envia os links aos palestrantes; Arthur e Henrique acompanham as inscrições.
+4. **Vagas:** limite de 20 inscrições, porque organizadores e palestrantes também se inscrevem.
 
 ## O que cada formulário pergunta
 

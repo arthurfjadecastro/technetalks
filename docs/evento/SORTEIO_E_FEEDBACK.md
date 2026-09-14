@@ -1,4 +1,4 @@
-# Technetalks — quiz do sorteio e formulário de feedback
+# TECHNE Talks · Encontro nº 02 — quiz do sorteio e formulário de feedback
 
 **Rascunho de 14/09/2026 · AI-002 · Base: DEC-009.** Conteúdo para montar dois formulários online, por exemplo no Google Forms. O assistente não publica formulários. Revisem as regras propostas antes de usar.
 
@@ -15,7 +15,7 @@
 
 **Campo obrigatório:** Seu nome (como você se apresentou hoje).
 
-As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a cada palestrante junto com os slides (até 14/10) ou escrevam a partir deles.
+As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a cada palestrante junto com o material de apoio (até 21/09) ou escrevam a partir deles.
 
 **1. Qual é o nome do aplicativo apresentado pelo Coatio?**
 - CARANGA ✅
@@ -71,7 +71,7 @@ As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a ca
 - Aceitar a primeira resposta sem ler
 - Nunca usar IA em nada
 
-**10. Quantas pessoas, no máximo, cabem neste primeiro encontro?**
+**10. Quantas pessoas, no máximo, cabem neste encontro?**
 - 11
 - 16
 - 20 ✅
@@ -83,7 +83,7 @@ Se as perguntas 7 e 8 não ficarem prontas, removam as duas: o quiz funciona com
 
 **Introdução do formulário:**
 
-> Obrigado por participar do primeiro Technetalks! Leva 2 minutos e é anônimo. Suas respostas vão definir como será o próximo.
+> Obrigado por participar do TECHNE Talks · Encontro nº 02! Leva 2 minutos e é anônimo. Suas respostas vão definir como será o próximo.
 
 **1. De 1 a 5, como foi o encontro no geral?** (escala 1–5, obrigatória)
 

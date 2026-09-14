@@ -1,8 +1,8 @@
-# Technetalks — plano mestre do encontro
+# TECHNE Talks · Encontro nº 02 — plano mestre
 
-**Atualizado em 14/09/2026 com o resultado da reunião de 12/09 · Tarefa AI-002 · Decisões em DEC-007 e DEC-009.**
+**Atualizado em 14/09/2026 com o resultado da reunião de 12/09 · Tarefa AI-002 · Decisões em DEC-007, DEC-009, DEC-012 e DEC-013.**
 
-O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar conexões úteis, com o jeito informal de um primeiro encontro. O controle do dia a dia fica na [planilha](../../outputs/AI-002/planejamento-evento.xlsx). Este plano resume o que foi decidido e o que falta.
+O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar conexões úteis, com o jeito informal de um encontro pequeno. Esta é a segunda edição do TECHNE Talks. O controle do dia a dia fica na [planilha](../../outputs/AI-002/planejamento-evento.xlsx). Este plano resume o que foi decidido e o que falta.
 
 ## 1. O que está fechado
 
@@ -11,12 +11,13 @@ O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar cone
 | Data | Sábado, 17/10/2026 |
 | Horário | Chegada divulgada às **10h30**; início às **11h**; fim às **17h** |
 | Local | Casa do Henrique, Gama/DF; endereço completo enviado aos inscritos |
-| Público | Mínimo de **11** e máximo de **20 pessoas no total**, contando Arthur, Henrique e os palestrantes |
+| Público | Mínimo de **11** e máximo de **20 pessoas no total**, contando Arthur, Henrique e os palestrantes, que também se inscrevem no formulário |
 | Entrada | Gratuita |
 | Inscrições | Encerram em **10/10**. Quem não está no grupo só entra com avaliação da organização, acompanhado de alguém do grupo, e também se inscreve |
 | Orçamento | **Previsão de R$ 500**, dividida igualmente entre Arthur e Henrique; balanço depois do evento |
 | Palestra 1 | Francisco Figueiredo, "VIRUS" — IA no dia a dia, 14h |
 | Palestra 2 | Matheus Henrique, "Coatio" — design thinking, UI/UX e o app CARANGA, em piloto, 15h |
+| Palestrantes | Título, sinopse e material de apoio até 21/09; ensaio no começo de outubro, com gravação e roteiro até 03/10 |
 | Mesa 360 | Conduzida por Arthur e Henrique, com fechamento e sorteio |
 | Fotos e vídeos | Guilherme Reis, pelo celular — a confirmar; Henrique faz o convite |
 | Decisores | Arthur + Henrique |
@@ -41,7 +42,7 @@ Cada palestra tem 45 minutos, perguntas incluídas. A proposta para os palestran
 
 - **Planta:** Henrique desenha e disponibiliza três versões — seca, com móveis, com móveis e pessoas — com os **20 lugares preenchidos**. Ordem a partir da tela: telas → sofá → 2 mesas com cadeiras → 2 mesas de plástico extras, se precisar. Quadro de vidro móvel. Lanche e café no cantinho embaixo da escada.
 - **Tela:** projetor e telão como principal, TV como plano B. Arthur e Henrique decidem **até 27/09**. Sem projetor garantido, a TV vira a principal.
-- **Teste:** notebook → cabo/adaptador → tela, com o material real, antes de 16/10.
+- **Teste:** notebook → cabo/adaptador → tela, com o material real, no começo de outubro, junto com o ensaio.
 - **Ventilação:** 2 ou 3 ventiladores, cruzados na sala.
 
 ## 4. Divulgação e inscrições
@@ -50,12 +51,13 @@ Tudo acontece no grupo do WhatsApp. Os textos estão em [DIVULGACAO.md](DIVULGAC
 
 | Data proposta | Ação |
 |---|---|
-| 16/09 | Aprovar os três formulários e enviar os dos palestrantes |
+| 16/09 | Aprovar os três formulários; Arthur envia os dos palestrantes |
 | até 21/09 | Adicionar as pessoas ao grupo |
 | 21/09 | Primeiro disparo: nome, foto e descrição do grupo + flyer 1 e abertura das inscrições |
 | 26/09 | Flyer 2 — palestra do VIRUS |
 | 01/10 | Flyer 3 — palestra do Coatio |
 | 06/10 | Flyer 4 — vagas acabando |
+| até 10/10 | Arthur e Henrique acompanham as inscrições toda semana (limite de 20) |
 | 10/10 | Inscrições encerram; quantitativo confirmado |
 | 15/10 | Lembrete aos inscritos com endereço e chegada às 10h30 |
 
@@ -67,10 +69,11 @@ A compra de comida só acontece **depois de 10/10**, com o quantitativo confirma
 
 - **Almoço:** lasanha, estrogonofe, arroz, batata palha, salada, refrigerantes e sucos.
 - **Lanche:** encomenda na padaria — pãezinhos, assados e café.
+- **Restrições:** o formulário de inscrição pergunta intolerância à lactose e doença celíaca/glúten. Lasanha, estrogonofe e pães têm glúten ou lactose; se alguém informar restrição, Henrique planeja uma opção segura, e para doença celíaca isso inclui evitar contaminação cruzada.
 
 ## 6. Orçamento
 
-R$ 500 é a previsão desta primeira edição, não um teto rígido. Os organizadores gastam e fecham o balanço depois, dividindo igualmente.
+R$ 500 é a previsão desta edição, não um teto rígido. Os organizadores gastam e fecham o balanço depois, dividindo igualmente.
 
 | Categoria | Valor anotado | Quando gastar |
 |---|---:|---|

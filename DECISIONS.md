@@ -103,3 +103,14 @@ Arthur criou em 14/09 três formulários no forms.app:
 - Inscrição: <https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02>
 
 Status: **criados, aguardando aprovação de Arthur e Henrique para envio e divulgação**. A inscrição passa a ser pelo formulário (decide a tarefa "link ou lista"). Os formulários usam o nome "TECHNE Talks | Encontro nº 02" e propõem aos palestrantes título, agenda e materiais até 21/09 e gravação do ensaio com roteiro até 03/10; nome público e esses prazos seguem como propostas até a aprovação. Revisão e ajustes sugeridos em `docs/evento/FORMULARIOS.md`.
+
+## DEC-013 — Nome, prazos dos palestrantes, responsáveis e inscrições
+
+Respostas de Arthur em 2026-09-14 às decisões pendentes de DEC-012:
+
+- **Nome público:** TECHNE Talks · Encontro nº 02. É o segundo encontro; "Technetalks" continua só como nome do repositório.
+- **Palestrantes:** material de apoio até 21/09, junto com título, agenda e sinopse. Ensaio no começo de outubro; os formulários pedem a gravação do ensaio com o roteiro até 03/10. Substitui materiais em 14/10 e ensaio em 16/10.
+- **Responsáveis:** Arthur envia os links aos palestrantes; Arthur e Henrique acompanham as inscrições.
+- **Inscrição:** incluir no formulário a pergunta de restrição alimentar, com intolerância à lactose e doença celíaca/glúten entre as opções. Arthur, Henrique, VIRUS e Coatio também se inscrevem como participantes, então o limite do formulário é **20**, o mesmo total do evento (DEC-009). Quem vier só como apoio e almoçar sem se inscrever reduz esse limite.
+
+Os três formulários continuam aguardando aprovação para envio e divulgação.
