@@ -42,7 +42,7 @@ Faça primeiro dry-run. Conflito impede escrita no destino; seus arquivos perman
 
 Reexecução idêntica é idempotente e preserva personalizações dos registros. Runtime e skills divergentes são recusados. Para atualizar uma versão: gere um projeto temporário com a versão nova, compare, integre as mudanças necessárias sob tarefa autorizada e regenere conscientemente o inventário dos arquivos alterados após revisão. Não existe atualização destrutiva automática nem parâmetro `--force`. Preserve o manifesto anterior no histórico Git.
 
-Na origem Technetalks, `ai-kit/` é o código-fonte. `tools/ai-kit/` e `.agents/skills/project-continuity/` são cópias de distribuição; uma alteração de fonte deve atualizar essas cópias e os hashes correspondentes. A CI detecta diferença de integridade, mas não avalia a intenção de um hash recalculado.
+Na origem Technetalks, `ai-kit/` é o código-fonte e também o runtime (DEC-005): não existe `tools/ai-kit/`, e a workflow chama `ai-kit/scripts/bootstrap.py`. `.agents/skills/project-continuity/` e os templates aplicados na raiz (`.gitattributes`, `.gitignore`, `.editorconfig`, workflow) são cópias de distribuição; uma alteração de fonte deve atualizar essas cópias e os hashes correspondentes em `.ai-kit.json`. Confirme com `init . --name <nome> --dry-run`, que deve terminar sem conflito e com 0 arquivos novos. A CI detecta diferença de integridade, mas não avalia a intenção de um hash recalculado.
 
 ## Usar no dia a dia
 
@@ -58,6 +58,8 @@ O objetivo de engenharia é reduzir ambiguidade e tornar o resultado verificáve
 ## Trocar de agente ou máquina
 
 Peça ao agente atual que conclua a etapa, registre HANDOFF e libere os arquivos. No próximo assistente, use o prompt do README. Ele lê o repositório, confere alterações e assume apenas o escopo autorizado. Etapas já validadas não precisam ser repetidas sem mudança, falha ou dúvida concreta.
+
+Entre máquinas (Windows, macOS, Linux), o remoto é o ponto de encontro: cada sessão começa com `git pull --ff-only` e termina com push conferido por `git ls-remote`. Regras em AGENTS.md; configuração de cada máquina e procedimento de conflito em [workflow](agents/workflow.md).
 
 Para paralelismo, distribua tarefas independentes. Reserve arquivos disjuntos ou worktrees Git separados e indique um integrador dos registros. A lista de edição de CURRENT_STATE é coordenação, não trava automática. Se dois agentes parecem ativos no mesmo arquivo, resolva a posse antes de editar.
 

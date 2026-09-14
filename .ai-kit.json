@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "kit_version": "1.0.0",
+  "kit_version": "1.1.0",
   "project_name": "Technetalks",
   "created_at": "2026-09-12T02:54:29-03:00",
   "mattpocock": {
@@ -36,9 +36,10 @@
     ]
   },
   "files": {
-    ".gitattributes": "d26cbce2b692bbfa7b3c6278f197b8149144c18b5ada556e7ac34080e0c6ea6c",
-    ".github/workflows/ai-continuity.yml": "38c8020d086ed5dd2d18f4c0b5764671106e4614269805e5d0c5cca662ad73f4",
-    ".gitignore": "cea2c59a9083c3290c6ab715d4a32038e2eb149e27d5d06658e90648f7802562",
+    ".editorconfig": "3f98ae7d1a00751db3e32bdb4b2b3f53df8417d08946469bae79db6fb6e15334",
+    ".gitattributes": "f76f44cc480ed46f35dc7242c182d6f30bbaa33e5ef864abb066894f63a49365",
+    ".github/workflows/ai-continuity.yml": "c89b81e2804fba4ec3f0806b37c92a9882748fcfb766782abfb659aaf061c171",
+    ".gitignore": "13b05ba30365dcd08897fe0e83ce15d2626b1c70f53c8b59e320f8861167e030",
     ".agents/skills/project-continuity/SKILL.md": "4968710d902a90e7a60a0f20964df407d5385124169795cefcf265f02eeb40f0",
     ".claude/skills/project-continuity-claude/SKILL.md": "2c2cb9136f81551b670c28909da88c6bbb51aae13fe0d1a45c8ee98340a4ed0f",
     ".agents/skills/MATTPOCOCK-LICENSE": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",

@@ -20,7 +20,7 @@ A planilha é gerada por `python scripts/evento/build_planilha.py` (requer `pip 
 
 ## Retomar este projeto
 
-> Continue a partir do estado persistido no repositório. Leia README.md, DECISIONS.md, CURRENT_STATE.md, BACKLOG.md, HANDOFF.md e pelo menos as duas últimas entradas de WORKLOG.md. Depois leia AGENTS.md e a instrução do seu assistente. Apresente em até dez linhas tarefa, estado, próxima ação, arquivos e bloqueios. Prossiga somente no escopo autorizado.
+> Continue a partir do estado persistido no repositório. Primeiro sincronize com `git pull --ff-only`. Leia README.md, DECISIONS.md, CURRENT_STATE.md, BACKLOG.md, HANDOFF.md e pelo menos as duas últimas entradas de WORKLOG.md. Depois leia AGENTS.md e a instrução do seu assistente. Apresente em até dez linhas tarefa, estado, próxima ação, arquivos e bloqueios. Prossiga somente no escopo autorizado.
 
 ## Criar outro projeto com o mesmo padrão
 
@@ -48,12 +48,12 @@ python ai-kit/scripts/bootstrap.py doctor .
 python -m unittest discover -s tests -v
 ```
 
-Nos projetos gerados, o CLI fica em `tools/ai-kit/scripts/bootstrap.py`. Os arquivos de continuidade são editáveis. Alterações em runtime e skills são detectadas pelo inventário; consulte o guia antes de atualizá-los.
+No macOS, use `python3`. Nos projetos gerados, o CLI fica em `tools/ai-kit/scripts/bootstrap.py`. Os arquivos de continuidade são editáveis. Alterações em runtime e skills são detectadas pelo inventário; consulte o guia antes de atualizá-los.
 
 ## Documentação
 
 - [Guia completo de instalação, uso e manutenção](docs/ai-kit.md)
-- [Fluxo de engenharia e seleção de skills](docs/agents/workflow.md)
+- [Fluxo de engenharia, seleção de skills e várias máquinas](docs/agents/workflow.md)
 - [Contrato de estado, backlog e handoff](docs/agents/records.md)
 - [Decisões e escopo autorizado](DECISIONS.md)
 - [Fontes e compatibilidade](docs/agents/sources.md)

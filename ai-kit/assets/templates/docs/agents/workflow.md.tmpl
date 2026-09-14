@@ -28,6 +28,31 @@ Um ticket deve entregar comportamento utilizável; prefira incrementos verticais
 
 Troca sequencial: agente A registra HANDOFF e libera os arquivos; agente B lê registros, confere diff e assume. Trabalho paralelo: tarefas independentes, arquivos disjuntos ou worktrees, um responsável pela integração; revisores podem operar somente leitura. A disponibilidade de subagentes varia por cliente. O protocolo também funciona com um único agente.
 
+## Várias máquinas
+
+As regras estão em AGENTS.md, seção **Máquinas e sincronização**. O repositório já normaliza texto em LF (`.gitattributes`), declara binários, soma entradas de WORKLOG no merge e ignora arquivos de sistema e travas do Office (`.gitignore`). O que é exclusivo de cada máquina precisa ser feito nela uma vez, no clone:
+
+```sh
+git config user.name "Seu nome"          # mesma identidade em todas as máquinas
+git config user.email "voce@exemplo.com"
+git config pull.rebase true              # `git pull` sem merge commits entre máquinas
+git config fetch.prune true
+```
+
+- **Windows:** Git for Windows com Git Credential Manager. `core.autocrlf` não interfere porque `.gitattributes` fixa LF. Python 3.10+ como `python`.
+- **macOS:** Command Line Tools (`xcode-select --install`). Se o `git` reclamar de um Xcode ausente, `sudo xcode-select --switch /Library/Developer/CommandLineTools`; sem sudo, prefixe os comandos com `DEVELOPER_DIR=/Library/Developer/CommandLineTools`. Credencial no Keychain (`osxkeychain`), por exemplo com `gh auth login`. Python 3.10+ como `python3`.
+- **Assistentes:** Codex lê AGENTS.md, Claude Code lê CLAUDE.md e Copilot lê `.github/copilot-instructions.md`; os três chegam ao mesmo protocolo e às skills de `.agents/skills/`. Ferramentas internas de um assistente (runtimes, caches, links para eles) ficam fora do repositório.
+
+**Conflito ao sincronizar:** rode `git pull --rebase`. Para cada arquivo em conflito:
+
+1. WORKLOG: a união já soma as entradas; mantenha a ordem cronológica, remova duplicidades e restaure a linha em branco entre entradas.
+2. CURRENT_STATE e HANDOFF: fique com a versão mais recente e incorpore o que a outra registrou.
+3. BACKLOG e DECISIONS: combine por ID; nunca reutilize nem renumere IDs. Se as duas máquinas criaram o mesmo ID, renumere o que ainda não foi publicado.
+4. Binários: escolha uma versão (`git checkout --theirs` ou `--ours` no arquivo) e reaplique à mão as mudanças da outra.
+5. Rode `validate .`, `git add` e `git rebase --continue`; depois push e `git ls-remote`.
+
+A skill `resolving-merge-conflicts` detalha o procedimento. Registre a reconciliação no WORKLOG.
+
 ## Encerrar
 
 Execute os testes aplicáveis e `validate .`. Registre evidências e limitações. Faça commit/push se autorizado para aquele remote e confirme o hash remoto. Se falhar, preserve o commit local e descreva em HANDOFF a correção exata; a próxima máquina ainda não recebeu esse trabalho.

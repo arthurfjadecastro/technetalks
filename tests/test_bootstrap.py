@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+import re
 import shutil
 import subprocess
 import sys
@@ -27,6 +28,11 @@ class CliFixture:
         return {p.relative_to(self.dest).as_posix(): p.read_bytes()
                 for p in self.dest.rglob('*') if p.is_file() and '__pycache__' not in p.parts}
 
+    def assert_ci_runs_installed_cli(self):
+        workflow = (self.dest / '.github/workflows/ai-continuity.yml').read_text(encoding='utf-8')
+        cli = re.search(r'python (\S+) validate', workflow).group(1)
+        self.assertTrue((self.dest / cli).is_file(), cli)
+
 
 class BootstrapTests(CliFixture, unittest.TestCase):
     def test_new_project_is_valid_and_runtime_survives_relocation(self):
@@ -35,6 +41,7 @@ class BootstrapTests(CliFixture, unittest.TestCase):
         self.assertIn('Projeto Ágil', (self.dest / 'README.md').read_text(encoding='utf-8'))
         result = self.run_cli('validate', self.dest)
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assert_ci_runs_installed_cli()
         local = self.dest / 'tools/ai-kit/scripts/bootstrap.py'
         result = subprocess.run([sys.executable, str(local), 'validate', str(self.dest)],
                                 capture_output=True, text=True, encoding='utf-8')
@@ -67,6 +74,7 @@ class BootstrapTests(CliFixture, unittest.TestCase):
                                 capture_output=True, text=True, encoding='utf-8')
         self.assertEqual(result.returncode, 0, result.stderr)
         self.assertFalse((self.dest / 'tools').exists())
+        self.assert_ci_runs_installed_cli()
         manifest = json.loads((self.dest / '.ai-kit.json').read_text(encoding='utf-8'))
         self.assertEqual([p for p in manifest['files'] if p.startswith('ai-kit/')], [])
         (kit / 'SKILL.md').write_bytes(b'Documentacao revisada\n')

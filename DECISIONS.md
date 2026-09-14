@@ -74,3 +74,15 @@ Fonte: ata de Arthur (`docs/evento/ATA_REUNIAO_12-09.md`) e respostas às pergun
 - **Planilha:** simplificar para o essencial.
 
 Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação. Datas internas dos flyers e responsáveis não citados na ata são propostas até o aceite dos organizadores.
+
+## DEC-010 — AI-004: várias máquinas e assistentes
+
+Em 2026-09-14, o usuário pediu o melhor arranjo para trabalhar com Codex, GitHub Copilot e Claude Code em máquinas Windows e macOS, com os dois dispositivos fazendo pull e push de forma sucessiva, e autorizou o que for necessário como boa prática. Abrange o kit (templates, CLI, testes, versão) e este repositório, a CI, a remoção de resíduos locais não versionados do Codex nesta máquina, configuração Git local do clone e commit/push em `origin/main`.
+
+- O remoto é o ponto de encontro: sessão começa com `git pull --ff-only` e termina com push conferido. Histórico publicado não é reescrito (`push --force` proibido).
+- Texto é UTF-8 e LF em todas as máquinas via `.gitattributes`; binários são declarados. WORKLOG, só de acréscimos, usa merge por união.
+- Arquivos binários editáveis (planilhas) são alterados por uma máquina de cada vez.
+- Scripts versionados não dependem de runtime privado de um assistente, links/junctions ou caminhos absolutos.
+- Configurações exclusivas de uma máquina (identidade Git, credencial, `xcode-select`) ficam documentadas em `docs/agents/workflow.md` e são aplicadas em cada máquina; não viajam pelo repositório.
+
+Não altera DEC-001 a DEC-009 nem autoriza AI-003.

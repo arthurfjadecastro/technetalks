@@ -8,3 +8,16 @@ __pycache__/
 !.env.example
 .claude/settings.local.json
 .codex/config.local.toml
+
+# Sistema operacional
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Travas de documentos abertos no Office/LibreOffice
+~$*
+.~lock.*#
+
+# Dependências locais; scripts versionados declaram as suas
+node_modules/

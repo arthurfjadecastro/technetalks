@@ -1,4 +1,20 @@
+# Texto em LF em Windows, macOS e Linux, independentemente de core.autocrlf.
 * text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binários nunca são convertidos nem fundidos linha a linha.
 *.png binary
 *.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
 *.pdf binary
+*.zip binary
+*.xlsx binary
+*.docx binary
+*.pptx binary
+
+# WORKLOG só recebe entradas novas: acréscimos de máquinas diferentes são somados no merge.
+WORKLOG.md merge=union

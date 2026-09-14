@@ -13,7 +13,7 @@ import sys
 from validation import validate
 
 KIT = Path(__file__).resolve().parents[1]
-VERSION = '1.0.0'
+VERSION = '1.1.0'
 RECORDS = {'README.md', 'AGENTS.md', 'CLAUDE.md', 'DECISIONS.md', 'CURRENT_STATE.md',
            'BACKLOG.md', 'HANDOFF.md', 'WORKLOG.md', 'CHANGELOG.md', 'CONTEXT.md',
            '.github/copilot-instructions.md'}
@@ -92,8 +92,8 @@ def claude_adapter(name: str, description: str) -> bytes:
             'Resolva scripts e referências a partir da pasta canônica.\n').encode('utf-8')
 
 
-def render_templates(name: str, timestamp: str) -> dict[str, bytes]:
-    values = {'PROJECT_NAME': name, 'TIMESTAMP': timestamp, 'TASK_ID': 'AI-000'}
+def render_templates(name: str, timestamp: str, runtime: str) -> dict[str, bytes]:
+    values = {'PROJECT_NAME': name, 'TIMESTAMP': timestamp, 'TASK_ID': 'AI-000', 'RUNTIME': runtime}
     result = {}
     for path, data in tree(KIT / 'assets/templates').items():
         text = data.decode('utf-8')
@@ -111,8 +111,8 @@ def init_project(args) -> int:
     timestamp = old.get('created_at', datetime.now().astimezone().isoformat(timespec='seconds'))
     if old and old.get('project_name') != args.name:
         raise ValueError('Nome difere da instalação existente; preserve o nome registrado')
-    files = render_templates(args.name, timestamp)
     runtime = KIT.relative_to(dest).as_posix() if KIT.is_relative_to(dest) else 'tools/ai-kit'
+    files = render_templates(args.name, timestamp, runtime)
     files.update(tree(KIT, runtime))
     files.update(tree(KIT / 'assets/skills', '.agents/skills'))
     files['.claude/skills/project-continuity-claude/SKILL.md'] = claude_adapter(

@@ -10,4 +10,4 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python tools/ai-kit/scripts/bootstrap.py validate .
+      - run: python ai-kit/scripts/bootstrap.py validate .

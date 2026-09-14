@@ -9,6 +9,14 @@
 - Planilha simplificada para 4 abas (checklist de 32 tarefas, roteiro, orçamento com balanço entre os organizadores, cardápio por cenário), gerada por `scripts/evento/build_planilha.py`; o gerador Node dependente do Codex e o guia da reunião foram removidos.
 - Novos textos: grupo do WhatsApp, 4 flyers, lembrete e convite do fotógrafo (`DIVULGACAO.md`); quiz do sorteio e formulário de feedback (`SORTEIO_E_FEEDBACK.md`). Plano mestre e questionário atualizados.
 
+## 1.1.0 — Várias máquinas e assistentes (AI-004)
+
+- Protocolo **Máquinas e sincronização** em AGENTS.md: pull `--ff-only` no início, push conferido ao pausar, sem `push --force`, binários editados por uma máquina de cada vez, scripts portáveis entre Windows e macOS.
+- `docs/agents/workflow.md`: configuração de cada máquina (identidade, `pull.rebase`, credenciais, Command Line Tools no macOS) e procedimento de conflito por tipo de registro.
+- `.gitattributes` declara Office e imagens como binários e soma entradas de WORKLOG no merge (`merge=union`); `.gitignore` cobre `.DS_Store`, `Thumbs.db`, travas do Office e `node_modules/`; novo `.editorconfig` (UTF-8, LF).
+- Correção: a workflow de continuidade chamava `tools/ai-kit/` também no modo auto-hospedado, onde o runtime fica em `ai-kit/`, e falhava em todo push desta origem. Os templates agora recebem o caminho real do runtime, com teste.
+- Testes do kit também em macOS na CI.
+
 ## 1.0.0 — Base de engenharia com IA
 
 - Kit portável para iniciar projetos com protocolo de continuidade compartilhado.
