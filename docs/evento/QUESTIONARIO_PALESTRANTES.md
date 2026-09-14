@@ -1,5 +1,7 @@
 # Technetalks — questionário individual do palestrante
 
+**Formulários online criados em 14/09/2026 a partir deste texto, aguardando aprovação: [VIRUS](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) e [Coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio). Status, etapas e ajustes em [FORMULARIOS.md](FORMULARIOS.md).**
+
 **Versão atualizada em 14/09/2026 com o roteiro de DEC-009.** Technetalks é o nome de trabalho; validar o nome público antes do envio. Entregar uma cópia a cada palestrante. As propostas abaixo ainda dependem do acordo com cada um; o assistente não envia este documento.
 
 **De:** Arthur e Henrique. **Para:** Francisco Figueiredo, “VIRUS”, ou Matheus Henrique, “Coatio” — uma cópia por pessoa.

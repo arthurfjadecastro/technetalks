@@ -1,6 +1,6 @@
 # Technetalks — textos de divulgação
 
-**Rascunho de 14/09/2026 · AI-002 · Base: DEC-009.** Textos para os organizadores revisarem, montarem a arte e enviarem no grupo do WhatsApp. O assistente não envia mensagens. Troquem "Technetalks" se o nome público for outro. Os trechos entre colchetes dependem das respostas dos palestrantes.
+**Rascunho de 14/09/2026 · AI-002 · Base: DEC-009.** Textos para os organizadores revisarem, montarem a arte e enviarem no grupo do WhatsApp. O assistente não envia mensagens. Troquem "Technetalks" se o nome público for outro. Os trechos entre colchetes dependem das respostas dos palestrantes. O link de inscrição já está nos textos, mas só pode ir para o grupo depois que o formulário for aprovado ([FORMULARIOS.md](FORMULARIOS.md)). Os formulários usam o nome "TECHNE Talks | Encontro nº 02"; confirmado o nome, estes textos serão alinhados.
 
 Cada flyer tem duas partes: o **texto da arte** (curto, para caber na imagem) e a **mensagem** que acompanha a imagem no grupo.
 
@@ -44,7 +44,7 @@ Cada flyer tem duas partes: o **texto da arte** (curto, para caber na imagem) e 
 > 🎁 Sorteio no final
 >
 > É gratuito, mas as vagas são limitadas: são no máximo 20 pessoas no total.
-> Inscrições até 10/10: [link ou forma de inscrição]
+> Inscrições até 10/10: https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02
 >
 > Quer trazer alguém que não está no grupo? Chama a gente antes. A pessoa vem com você e também precisa se inscrever.
 
@@ -65,7 +65,7 @@ Cada flyer tem duas partes: o **texto da arte** (curto, para caber na imagem) e 
 > Às 14h, o Francisco Figueiredo, o VIRUS, fala sobre **[título]**.
 > [Resumo de uma ou duas frases, a partir da sinopse do questionário.]
 >
-> Ainda dá tempo de garantir sua vaga: inscrições até 10/10 em [link].
+> Ainda dá tempo de garantir sua vaga: inscrições até 10/10 em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02.
 
 ## Flyer 3 — palestrante 2 (01/10)
 
@@ -84,7 +84,7 @@ Cada flyer tem duas partes: o **texto da arte** (curto, para caber na imagem) e 
 > Às 15h, o Matheus Henrique, o Coatio, fala sobre design thinking e UI/UX, e mostra na prática o CARANGA, aplicativo que está em piloto.
 > [Resumo de uma ou duas frases, a partir da sinopse do questionário.]
 >
-> Inscrições até 10/10 em [link].
+> Inscrições até 10/10 em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02.
 
 ## Flyer 4 — vagas acabando (06/10)
 
@@ -101,7 +101,7 @@ Cada flyer tem duas partes: o **texto da arte** (curto, para caber na imagem) e 
 > Faltam só [X] vagas e as inscrições fecham no sábado, 10/10.
 > Sábado, 17/10, chegada às 10h30, no Gama/DF. Gratuito, com almoço e lanche.
 >
-> Garanta a sua em [link]. Depois de 10/10 fechamos a lista para comprar a comida certinha.
+> Garanta a sua em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02. Depois de 10/10 fechamos a lista para comprar a comida certinha.
 
 ## Lembrete aos inscritos (15/10)
 

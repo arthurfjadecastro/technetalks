@@ -91,3 +91,15 @@ Não altera DEC-001 a DEC-009 nem autoriza AI-003.
 
 Em 2026-09-14, depois de fechar o Excel, o usuário pediu para integrar a planilha, fazer commit e push "sempre". Fica autorizado, sem nova pergunta, commit e push em `origin/main` ao fim de cada entrega autorizada e ao integrar edições dos organizadores em arquivos do projeto (planilha, textos), seguindo o protocolo de DEC-010: pull antes, conferência do conteúdo e dos travamentos do Office, validação, push e `git ls-remote`.
 Não autoriza iniciar tarefas novas, `push --force`, reescrever histórico nem versionar arquivos abertos por outro programa ou de conteúdo não inspecionado.
+
+## DEC-012 — Gestão contínua e formulários online
+
+Em 2026-09-14, o usuário definiu que o assistente faz a gestão do evento: tudo o que for informado na conversa atualiza, no mesmo momento, decisões, plano, documentos e a planilha `outputs/AI-002/planejamento-evento.xlsx`, com commit/push conforme DEC-011. As skills Matt Pocock são usadas quando o assistente julgar útil. AI-002 passa a cobrir a gestão até o fechamento do evento; cada rodada termina em READY_FOR_REVIEW, aguardando a próxima informação.
+
+Arthur criou em 14/09 três formulários no forms.app:
+
+- Palestrante VIRUS: <https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus>
+- Palestrante Coatio: <https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio>
+- Inscrição: <https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02>
+
+Status: **criados, aguardando aprovação de Arthur e Henrique para envio e divulgação**. A inscrição passa a ser pelo formulário (decide a tarefa "link ou lista"). Os formulários usam o nome "TECHNE Talks | Encontro nº 02" e propõem aos palestrantes título, agenda e materiais até 21/09 e gravação do ensaio com roteiro até 03/10; nome público e esses prazos seguem como propostas até a aprovação. Revisão e ajustes sugeridos em `docs/evento/FORMULARIOS.md`.

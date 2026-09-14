@@ -1,10 +1,10 @@
 # Estado atual
 
-- Atualizado em: 2026-09-14T16:40:00-03:00
+- Atualizado em: 2026-09-14T17:40:00-03:00
 - Agente: Claude Code (Windows)
-- Tarefa: AI-004 — Padronizar o trabalho entre assistentes e máquinas Windows/macOS.
-- Status: DONE
-- Autorização: DEC-010 para AI-004; DEC-011 para commit/push permanentes em `origin/main`.
+- Tarefa: AI-002 — Descobrir e estruturar a organização do evento Technetalks.
+- Status: READY_FOR_REVIEW
+- Autorização: DEC-006 a DEC-009 e DEC-012 (gestão contínua do evento pelo assistente); DEC-011 para commit/push. Envio de mensagens, publicação de formulários, compras e convites seguem com os organizadores.
 - Arquivos em edição: nenhum
-- Próxima ação: no Mac, aplicar uma vez a configuração de `docs/agents/workflow.md` (identidade, `pull.rebase`, `fetch.prune`, `xcode-select`). AI-002 segue READY_FOR_REVIEW: organizadores preenchem os responsáveis "A definir"; primeiro prazo em 16/09 (questionário aos palestrantes).
-- Publicação: AI-004 em b2062dd com as duas workflows verdes (continuidade e testes em Ubuntu, Windows e macOS, Python 3.10 e 3.14). Planilha com o Checklist ordenado por prazo integrada no commit deste registro.
+- Próxima ação: Arthur e Henrique revisam os três formulários com os ajustes de `docs/evento/FORMULARIOS.md` e aprovam até 16/09; respondem as duas decisões pendentes (nome público "TECHNE Talks · Encontro nº 02" e prazos dos palestrantes 21/09 e 03/10). Cada nova informação atualiza documentos e planilha (DEC-012).
+- Formulários: VIRUS, Coatio e inscrição criados em 14/09 no forms.app; aguardando aprovação para envio e divulgação.

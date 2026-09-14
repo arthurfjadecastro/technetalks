@@ -46,10 +46,11 @@ Cada palestra tem 45 minutos, perguntas incluídas. A proposta para os palestran
 
 ## 4. Divulgação e inscrições
 
-Tudo acontece no grupo do WhatsApp. Os textos estão em [DIVULGACAO.md](DIVULGACAO.md); arte e envio ficam com os organizadores.
+Tudo acontece no grupo do WhatsApp. Os textos estão em [DIVULGACAO.md](DIVULGACAO.md); arte e envio ficam com os organizadores. A inscrição é pelo [formulário online](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02), criado em 14/09 e **aguardando aprovação para divulgação**; os três formulários, com etapas e ajustes sugeridos, estão em [FORMULARIOS.md](FORMULARIOS.md).
 
 | Data proposta | Ação |
 |---|---|
+| 16/09 | Aprovar os três formulários e enviar os dos palestrantes |
 | até 21/09 | Adicionar as pessoas ao grupo |
 | 21/09 | Primeiro disparo: nome, foto e descrição do grupo + flyer 1 e abertura das inscrições |
 | 26/09 | Flyer 2 — palestra do VIRUS |
@@ -58,7 +59,7 @@ Tudo acontece no grupo do WhatsApp. Os textos estão em [DIVULGACAO.md](DIVULGAC
 | 10/10 | Inscrições encerram; quantitativo confirmado |
 | 15/10 | Lembrete aos inscritos com endereço e chegada às 10h30 |
 
-Os flyers 2 e 3 dependem do título e do resumo de cada palestra, pedidos no [questionário dos palestrantes](QUESTIONARIO_PALESTRANTES.md). Por isso as respostas precisam voltar até 21/09.
+Os flyers 2 e 3 dependem do título e do resumo de cada palestra, pedidos nos formulários dos palestrantes ([FORMULARIOS.md](FORMULARIOS.md); texto de referência em [QUESTIONARIO_PALESTRANTES.md](QUESTIONARIO_PALESTRANTES.md)). Por isso as respostas precisam voltar até 21/09.
 
 ## 5. Alimentação
 
