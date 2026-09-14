@@ -1,18 +1,22 @@
 # Technetalks
 
-Organização do encontro de tecnologia de **17/10/2026, 10h30–17h**, no Gama/DF, com almoço às 12h30 e lanche. Base confirmada: **16–20 pessoas totais, participação gratuita e teto de R$ 500**, custeados igualmente por Arthur e Henrique.
+Organização do encontro de tecnologia de **sábado, 17/10/2026**, no Gama/DF: chegada às 10h30, início às 11h, fim às 17h, com almoço e lanche. Base confirmada: **11 a 20 pessoas no total, participação gratuita e previsão de R$ 500**, custeada igualmente por Arthur e Henrique, com balanço depois do evento.
 
 O repositório também contém o kit reutilizável de engenharia com **Codex, Claude Code e GitHub Copilot**, concluído em AI-001. O trabalho atual é AI-002, planejamento do evento.
 
 ## Organizar o evento
 
-- [Plano mestre, prioridades, orçamento e roteiro do dia](docs/evento/PLANO_MESTRE.md)
-- [Pauta e checklist para a reunião de 12/09](docs/evento/PAUTA_REUNIAO_12-09.md)
+- [Plano mestre: decisões, roteiro, divulgação, alimentação e orçamento](docs/evento/PLANO_MESTRE.md)
+- [Planilha: checklist, roteiro, orçamento com balanço e cardápio por cenário](outputs/AI-002/planejamento-evento.xlsx)
+- [Textos do grupo do WhatsApp e dos 4 flyers](docs/evento/DIVULGACAO.md)
+- [Quiz do sorteio e formulário de feedback](docs/evento/SORTEIO_E_FEEDBACK.md)
 - [Questionário para VIRUS e Coatio](docs/evento/QUESTIONARIO_PALESTRANTES.md)
-- [Planilha: cronograma macro, atividades micro e orçamento](outputs/AI-002/planejamento-evento.xlsx)
+- [Ata da reunião de 12/09](docs/evento/ATA_REUNIAO_12-09.md) e [pauta usada nela](docs/evento/PAUTA_REUNIAO_12-09.md)
 - [Boas práticas e fontes consultadas](docs/evento/REFERENCIAS_E_PRATICAS.md)
 
-DEC-007 registra o que o usuário confirmou. Distribuição de orçamento, prazos internos, apoio operacional e programação detalhada são propostas para a reunião; não representam compras, convites ou reservas executados.
+DEC-007 e DEC-009 registram o que os organizadores decidiram. Datas de divulgação e responsáveis marcados "a definir" são propostas; nada disso representa compras, convites ou mensagens enviadas.
+
+A planilha é gerada por `python scripts/evento/build_planilha.py` (requer `pip install openpyxl`). Rodar de novo sobrescreve as edições feitas à mão; depois que começarem a preencher, editem o `.xlsx` diretamente.
 
 ## Retomar este projeto
 

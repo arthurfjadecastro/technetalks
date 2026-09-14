@@ -24,6 +24,8 @@ Status: `[ ] NOT_STARTED`, `[~] IN_PROGRESS`, `[?] BLOCKED`, `[R] READY_FOR_REVI
 - Dependências: decisões da reunião e respostas ao questionário dos palestrantes para fixar a programação executiva; cronograma e regras de palestra são propostas para revisão.
 - Base confirmada: DEC-007; 16–20 pessoas totais, 20 cadeiras, evento gratuito de 10h30–17h, almoço 12h30, dois palestrantes confirmados.
 - Entrega 2026-09-12 (Codex + Claude Code): plano mestre, pauta da reunião, questionário, referências e planilha `outputs/AI-002/planejamento-evento.xlsx` (13 marcos, 60 atividades EVT, orçamento, roteiro). Validada e publicada em `origin/main` (8d06d2e, DEC-008); aguarda revisão de Arthur e Henrique e o resultado da reunião de 12/09.
+- Retomada 2026-09-13 (Claude Code): ata da reunião de 12/09 recebida e salva em `docs/evento/ATA_REUNIAO_12-09.md`. Volta a IN_PROGRESS para esclarecer divergências, registrar DEC-009, atualizar o plano e simplificar a planilha a pedido de Arthur.
+- Entrega 2026-09-14 (Claude Code): DEC-009; plano mestre e questionário no novo roteiro; textos de divulgação, quiz e feedback; planilha reduzida a 4 abas e 32 tarefas (12 KB). Aguarda revisão dos organizadores e o preenchimento dos responsáveis "A definir".
 
 ## [ ] AI-003 — Regenerar inventário do kit
 

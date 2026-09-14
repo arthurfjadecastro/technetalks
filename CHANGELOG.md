@@ -5,6 +5,9 @@
 - Base confirmada do encontro de 17/10/2026 registrada em DEC-006 e DEC-007; vocabulário do evento em CONTEXT.
 - `docs/evento/`: plano mestre, pauta da reunião de 12/09, questionário dos palestrantes, referências de boas práticas e guia de uso.
 - Planilha operacional `outputs/AI-002/planejamento-evento.xlsx` com premissas, 13 marcos, 60 atividades com dependências, orçamento com limite/cotação/gasto e roteiro do dia; gerador em `scripts/evento/`.
+- Resultado da reunião de 12/09 em DEC-009 e na ata: chegada 10h30, início 11h, palestras à tarde (VIRUS 14h, Coatio 15h), 11 a 20 pessoas, R$ 500 como previsão com balanço posterior e comida comprada só depois de 10/10.
+- Planilha simplificada para 4 abas (checklist de 32 tarefas, roteiro, orçamento com balanço entre os organizadores, cardápio por cenário), gerada por `scripts/evento/build_planilha.py`; o gerador Node dependente do Codex e o guia da reunião foram removidos.
+- Novos textos: grupo do WhatsApp, 4 flyers, lembrete e convite do fotógrafo (`DIVULGACAO.md`); quiz do sorteio e formulário de feedback (`SORTEIO_E_FEEDBACK.md`). Plano mestre e questionário atualizados.
 
 ## 1.0.0 — Base de engenharia com IA
 

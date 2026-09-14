@@ -54,3 +54,23 @@ Propostas para revisão, ainda não decisões fechadas: 25 min de conteúdo + 15
 
 Em 2026-09-12, o usuário autorizou commit/push das entregas de AI-002 no remote existente `https://github.com/arthurfjadecastro/technetalks.git` (`main`). Declarou que o repositório é público e que todo e qualquer dado deste projeto pode ser versionado e publicado nele.
 Esta decisão substitui, apenas para o versionamento neste repositório, a restrição de DEC-006 sobre divulgação de endereço privado e dados pessoais. Continuam fora do escopo do assistente: envio de mensagens, convites, contratação e compras. Arquivos alheios à tarefa, como o resíduo sem rastreamento `.agents/skills/project-continuity-claude/`, não entram nos commits sem decisão própria.
+
+## DEC-009 — Resultado da reunião de 12/09
+
+Fonte: ata de Arthur (`docs/evento/ATA_REUNIAO_12-09.md`) e respostas às perguntas de conferência em 2026-09-14. Complementa DEC-007; onde houver conflito, vale esta decisão.
+
+- **Horário:** a divulgação pede chegada às 10h30; o evento começa de fato às 11h e vai até 17h.
+- **Roteiro:** 11h–12h30 recepção, check-in, apresentação do dia e dinâmicas de integração (aproximar quem estiver isolado e formar grupos); 12h30–14h almoço, com preparação do primeiro palestrante das 13h30 às 13h45; 14h–14h45 VIRUS; 14h45–15h intervalo e preparação; 15h–15h45 Coatio; 15h45–16h15 lanche; 16h15–17h Mesa 360 conduzida por Arthur e Henrique, fechamento e sorteio.
+- **Público:** mínimo de 11 e máximo de 20 pessoas no total, incluindo organizadores e palestrantes. Alimentação é dimensionada nos cenários de 11, 16 e 20.
+- **Inscrições:** encerram em 10/10/2026. Quem não está no grupo do WhatsApp só entra com avaliação da organização, acompanhado de alguém do grupo que o conheça, e também precisa se inscrever.
+- **Orçamento:** R$ 500 passa a ser **previsão**, não teto rígido. Os organizadores gastam nesta primeira edição e fecham o balanço depois; a divisão igual entre Arthur e Henrique (DEC-007) continua. Valores anotados por categoria: almoço 250, lanche 200, bebidas 70, café 30, banner 60, brinde 70 (soma R$ 680, acima da previsão; a planilha mostra a diferença).
+- **Ordem dos gastos:** primeiro banner e brinde. Alimentação só depois do quantitativo confirmado, uma semana antes do evento (encerramento das inscrições em 10/10).
+- **Alimentação:** almoço com lasanha, estrogonofe, arroz, batata palha, salada, refrigerantes e sucos; lanche encomendado na padaria (pãezinhos, assados, café). Henrique define as proporções por cenário.
+- **Espaço:** Henrique desenha e disponibiliza a planta em três versões (seca, com móveis, com móveis e pessoas), com 20 lugares preenchidos: telas → sofá → 2 mesas com cadeiras → 2 mesas de plástico extras, quadro de vidro móvel, lanche e café embaixo da escada. Ventilação com 2 ou 3 ventiladores cruzados.
+- **Tela:** projetor e telão como principal; TV como plano B. Arthur e Henrique decidem até 27/09; sem projetor garantido, a TV vira principal.
+- **Registro:** Guilherme Reis para fotos e vídeos pelo celular; Henrique faz o convite com o flyer. Até o aceite, fica "a confirmar".
+- **Divulgação:** pelo grupo do WhatsApp. Primeiro disparo muda nome, foto e descrição do grupo e envia o flyer 1. Sequência: divulgação, palestra 1, palestrante 2, vagas acabando. Claude redige os textos dos flyers, do quiz e do formulário de feedback; arte e envio ficam com os organizadores.
+- **Sorteio:** 2 canecas, com quiz por QR code que pontua.
+- **Planilha:** simplificar para o essencial.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação. Datas internas dos flyers e responsáveis não citados na ata são propostas até o aceite dos organizadores.

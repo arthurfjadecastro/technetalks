@@ -1,6 +1,6 @@
 # Technetalks — questionário individual do palestrante
 
-**Minuta para aprovação de Arthur e Henrique na reunião de 12/09/2026.** Technetalks é o nome de trabalho; validar o nome público antes do envio. Entregar individualmente somente após a aprovação. As propostas abaixo ainda dependem do acordo com cada palestrante; este documento não foi enviado nem publicado.
+**Versão atualizada em 14/09/2026 com o roteiro de DEC-009.** Technetalks é o nome de trabalho; validar o nome público antes do envio. Entregar uma cópia a cada palestrante. As propostas abaixo ainda dependem do acordo com cada um; o assistente não envia este documento.
 
 **De:** Arthur e Henrique. **Para:** Francisco Figueiredo, “VIRUS”, ou Matheus Henrique, “Coatio” — uma cópia por pessoa.
 
@@ -8,19 +8,18 @@
 
 ## O encontro
 
-Valeu por topar participar! O Technetalks será em **17/10/2026, das 10h30 às 17h**, na casa do Henrique, no **Gama/DF**. Será gratuito, com **16–20 pessoas no total**, incluindo organizadores e palestrantes. Teremos almoço previsto para **12h30** e lanche. Arthur e Henrique compartilharão o endereço completo privadamente.
+Valeu por topar participar! O Technetalks será em **17/10/2026**, na casa do Henrique, no **Gama/DF**. A chegada é às **10h30**, a programação começa às **11h** e termina às **17h**. Será gratuito, com **11 a 20 pessoas no total**, incluindo organizadores e palestrantes. Teremos almoço às **12h30** e lanche à tarde. Arthur e Henrique compartilharão o endereço completo privadamente.
 
 ## Combinados propostos — vamos confirmar juntos
 
-Cada espaço de palestra terá **45 minutos: 25 de conteúdo, 15 de perguntas e 5 de troca**. A demonstração, quando houver, entra nos 25 minutos de conteúdo. A proposta é o moderador avisar quando faltarem 5 minutos, encerrar o conteúdo no tempo combinado e organizar as perguntas. Os 5 minutos finais ficam para a troca entre atividades.
+Cada palestra terá **45 minutos: 30 de conteúdo e 15 de perguntas**. A demonstração, quando houver, entra nos 30 minutos de conteúdo. A proposta é o moderador avisar quando faltarem 5 minutos, encerrar o conteúdo no tempo combinado e organizar as perguntas. Depois da primeira palestra há 15 minutos de intervalo para trocar o equipamento.
 
 | Item | Proposta para ratificação |
 | --- | --- |
-| VIRUS — IA no dia a dia | 17/10, às **11h**; horário ainda não acordado com o palestrante |
-| Coatio — design thinking, UI/UX e CARANGA | 17/10, às **13h30**; horário ainda não acordado com o palestrante |
-| Entrega deste questionário | Depois da aprovação por Arthur e Henrique |
-| Retorno das respostas | Até **18/09/2026** |
-| Fechamento de título e agenda | Até **20/09/2026**, em acordo com cada palestrante |
+| VIRUS — IA no dia a dia | 17/10, das **14h às 14h45**; equipamento preparado das 13h30 às 13h45 |
+| Coatio — design thinking, UI/UX e CARANGA | 17/10, das **15h às 15h45**; equipamento preparado no intervalo das 14h45 |
+| Retorno das respostas | Até **21/09/2026**, para montar os flyers das palestras |
+| Fechamento de título e agenda | Até **23/09/2026**, em acordo com cada palestrante |
 | Materiais finais | Até **14/10/2026** |
 | Ensaio e teste técnico | **16/10/2026**, com horário e formato a combinar |
 
@@ -88,7 +87,7 @@ Pode marcar mais de um.
 >
 > [ ] Vídeo gravado  [ ] Exercício  [ ] Outro: _______________
 
-### 9. Como você gostaria de envolver o grupo durante os 25 minutos de conteúdo?
+### 9. Como você gostaria de envolver o grupo durante os 30 minutos de conteúdo?
 
 Pode ser uma pergunta rápida, atividade curta ou nenhuma interação nesse trecho.
 
@@ -98,7 +97,7 @@ Pode ser uma pergunta rápida, atividade curta ou nenhuma interação nesse trec
 
 > [ ] Concentrar nos 15 minutos de perguntas
 >
-> [ ] Aceitar intervenções breves durante o conteúdo, respeitando os 25 minutos
+> [ ] Aceitar intervenções breves durante o conteúdo, respeitando os 30 minutos
 >
 > [ ] Outra proposta: ______________________________________
 
@@ -132,13 +131,13 @@ Complete somente o que usar. Indique o que você leva e o que precisa da organiz
 
 ### 12. Como fica, para você, o horário proposto para sua palestra?
 
-Considere **11h para VIRUS** ou **13h30 para Coatio**, em 17/10/2026.
+Considere **14h–14h45 para VIRUS** ou **15h–15h45 para Coatio**, em 17/10/2026.
 
 > [ ] Consigo nesse horário  [ ] Preciso confirmar
 >
 > [ ] Proponho outro horário: _______________________________
 
-### 13. Como fica, para você, a divisão de 25 minutos de conteúdo + 15 de perguntas + 5 de troca?
+### 13. Como fica, para você, a divisão de 30 minutos de conteúdo + 15 de perguntas?
 
 > [ ] De acordo  [ ] Preciso confirmar
 >
@@ -146,7 +145,7 @@ Considere **11h para VIRUS** ou **13h30 para Coatio**, em 17/10/2026.
 
 ### 14. Quais ajustes você precisa no calendário de preparação proposto?
 
-Retorno em 18/09, título e agenda em 20/09, materiais em 14/10 e ensaio em 16/10, todos de 2026. O horário do ensaio será combinado separadamente.
+Retorno em 21/09, título e agenda em 23/09, materiais em 14/10 e ensaio em 16/10, todos de 2026. O horário do ensaio será combinado separadamente.
 
 > [ ] Essas datas funcionam  [ ] Preciso confirmar
 >

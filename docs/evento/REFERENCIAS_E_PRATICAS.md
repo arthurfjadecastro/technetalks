@@ -2,6 +2,8 @@
 
 **AI-002 · Pesquisa consultada em 12/09/2026 · Insumo para a reunião e visita de hoje.**
 
+> **Atualização de 14/09/2026:** a reunião mudou a base em [DEC-009](../../DECISIONS.md): chegada 10h30 e início 11h; 11 a 20 pessoas no total; R$ 500 como previsão, não teto, com a comida comprada só depois de 10/10. As práticas abaixo continuam válidas; os números citados são os de 12/09.
+
 A base confirmada em [DEC-007](../../DECISIONS.md) é: 17/10/2026, casa de Henrique no Gama/DF, 10h30–17h, almoço às 12h30 e lanche; participação gratuita, 16–20 pessoas totais, vinte cadeiras e teto de R$ 500. Há uma pessoa próxima para cozinhar sem cobrar mão de obra e dois palestrantes confirmados. O briefing prevê ausência de álcool. Nome do cozinheiro, menu, apoio, títulos detalhados e necessidades técnicas ainda precisam ser fechados.
 
 As cinco fontes abaixo fundamentam boas práticas. As aplicações e datas propostas são recomendações deste planejamento; não comprovam aceite de responsáveis, preços ou execução. Os guias britânicos HSE são usados como referência operacional proporcional, sem transferir exigências legais ao encontro no DF.
