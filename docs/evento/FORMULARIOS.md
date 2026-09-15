@@ -1,20 +1,20 @@
 # TECHNE Talks — formulários online
 
-**Criados por Arthur em 14/09/2026 no forms.app; inscrição refeita no mesmo dia (versão 2) · Status: aguardando aprovação de Arthur e Henrique para envio e divulgação · Base: [DEC-012](../../DECISIONS.md) a DEC-014.**
+**Criados por Arthur em 14/09/2026 no forms.app; inscrição refeita e divulgada no mesmo dia · Status: em uso desde o lançamento de 14/09 · Base: [DEC-012](../../DECISIONS.md) a DEC-015.**
 
 | Formulário | Link | Para quem | Status | Próximo passo |
 |---|---|---|---|---|
-| Palestrante VIRUS | [questionario-do-palestrante-virus](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) | Francisco Figueiredo | Criado, aguardando aprovação | Aprovar e enviar em 16/09 |
-| Palestrante Coatio | [questionario-do-palestrante-coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio) | Matheus Henrique | Criado, aguardando aprovação | Aprovar e enviar em 16/09 |
-| Inscrição (versão 2) | [inscricao-techne-talks-encontro-n-02](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02) | Público do grupo, organizadores e palestrantes | Refeito, aguardando aprovação | Concluir os ajustes, aprovar e divulgar em 21/09 |
+| Palestrante VIRUS | [questionario-do-palestrante-virus](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) | Francisco Figueiredo | Enviado em 14/09 | Cobrar título, sinopse e minibio até 21/09 |
+| Palestrante Coatio | [questionario-do-palestrante-coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio) | Matheus Henrique | Enviado em 14/09 | Cobrar título, sinopse e minibio até 21/09 |
+| Inscrição (versão 2) | [inscricao-techne-talks-encontro-n-02](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02) | Público do grupo, organizadores e palestrantes | Divulgado em 14/09 | Aplicar os ajustes pendentes com o formulário já em uso |
 
 ## Etapas
 
-1. **Revisar e ajustar** os pontos abaixo (Arthur, no forms.app).
-2. **Aprovar** (Arthur + Henrique), até 16/09. Enquanto isso, nenhum link é enviado nem divulgado.
-3. **Enviar** (Arthur) o link de cada palestrante em 16/09, com prazo de resposta e material de apoio em 21/09. **Divulgar** a inscrição no primeiro disparo do grupo, em 21/09, junto com o flyer 1. Arthur, Henrique, VIRUS e Coatio também se inscrevem.
-4. **Acompanhar** (Arthur e Henrique): respostas dos palestrantes até 21/09; inscrições uma vez por semana até 10/10, contando as vagas restantes (base do flyer 4, "vagas acabando").
-5. **Consolidar**: títulos e sinopses viram os flyers 2 e 3 ([DIVULGACAO.md](DIVULGACAO.md)); em 10/10 o total de inscritos vira o quantitativo da aba Cardápio.
+1. ~~Revisar e ajustar~~ / ~~Aprovar~~ — feito em 14/09: os três formulários foram aprovados na prática, com o envio aos palestrantes e a divulgação da inscrição no lançamento (DEC-015).
+2. **Ajustar com o formulário em uso** (Arthur): os pontos abaixo continuam abertos. Os três campos sem obrigatoriedade são o mais urgente, porque uma inscrição pode chegar sem telefone.
+3. **Cobrar** (Arthur): inscrição dos palestrantes até 19/09; questionário respondido até 21/09; rascunho do material até 28/09; gravação do ensaio até 03/10 (DEC-015). Textos em [COMUNICACAO.md](COMUNICACAO.md).
+4. **Acompanhar** (Arthur e Henrique): inscrições uma vez por semana até 10/10, contando as vagas restantes (base da peça 5, "últimas vagas").
+5. **Consolidar**: títulos e sinopses viram as peças 3 e 4 ([DIVULGACAO.md](DIVULGACAO.md)); em 10/10 o total de inscritos vira o quantitativo da aba Cardápio.
 
 As respostas ficam no painel do forms.app. Na planilha e no repositório entram só totais e o que a organização precisa (títulos, sinopses, recursos técnicos), sem nomes nem contatos dos inscritos.
 
@@ -58,6 +58,7 @@ Revisão feita a partir dos dados públicos em 14/09.
 
 - **DEC-013:** nome público TECHNE Talks · Encontro nº 02; título, agenda, sinopse e material de apoio até 21/09; ensaio no começo de outubro, com gravação e roteiro até 03/10; Arthur envia os links aos palestrantes; Arthur e Henrique acompanham as inscrições; limite de 20 inscrições, porque organizadores e palestrantes também se inscrevem.
 - **DEC-014:** inscrição só com nome, WhatsApp e e-mail; perguntas de perfil e relacionamento no backlog do formulário de feedback; restrição alimentar só nas próximas edições.
+- **DEC-015:** lançamento em 14/09 com os três formulários aprovados na prática; prazos dos palestrantes revistos (inscrição 19/09, questionário 21/09, rascunho do material 28/09, ensaio gravado 03/10); passo a passo de comunicação em [COMUNICACAO.md](COMUNICACAO.md).
 
 ## O que cada formulário pergunta
 
@@ -97,3 +98,4 @@ A inscrição da versão 1 já trazia opções para alguns desses itens, que pod
 ### Próximas edições
 
 - **Restrição alimentar na inscrição.** Texto sugerido, em múltipla escolha: "Você tem alguma restrição alimentar?" com as opções nenhuma, intolerância à lactose, doença celíaca (não pode glúten), sensibilidade ao glúten, vegetariano(a) e outra, mais o campo opcional "Se marcou alguma, conte o que precisamos saber". Doença celíaca exige evitar até traços de glúten, inclusive por contaminação cruzada.
+- **Restrição alimentar no lembrete**, como alternativa leve quando o formulário já estiver publicado sem a pergunta: uma linha no lembrete de D-2, "🥗 Tem alguma restrição alimentar? Avise a gente". Fica no radar de [COMUNICACAO.md](COMUNICACAO.md); não entra nesta edição (DEC-015).

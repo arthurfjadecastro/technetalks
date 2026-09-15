@@ -7,14 +7,16 @@ O repositório também contém o kit reutilizável de engenharia com **Codex, Cl
 ## Organizar o evento
 
 - [Plano mestre: decisões, roteiro, divulgação, alimentação e orçamento](docs/evento/PLANO_MESTRE.md)
-- [Planilha: checklist, roteiro, orçamento com balanço e cardápio por cenário](outputs/AI-002/planejamento-evento.xlsx)
-- [Textos do grupo do WhatsApp e dos 4 flyers](docs/evento/DIVULGACAO.md)
+- [Planilha: checklist, comunicação, roteiro, orçamento com balanço e cardápio por cenário](outputs/AI-002/planejamento-evento.xlsx)
+- [Passo a passo de comunicação, reutilizável em qualquer edição](docs/evento/COMUNICACAO.md)
+- [Textos do grupo do WhatsApp e das peças de divulgação](docs/evento/DIVULGACAO.md)
+- [Formulários online de inscrição e dos palestrantes](docs/evento/FORMULARIOS.md)
 - [Quiz do sorteio e formulário de feedback](docs/evento/SORTEIO_E_FEEDBACK.md)
 - [Questionário para VIRUS e Coatio](docs/evento/QUESTIONARIO_PALESTRANTES.md)
 - [Ata da reunião de 12/09](docs/evento/ATA_REUNIAO_12-09.md) e [pauta usada nela](docs/evento/PAUTA_REUNIAO_12-09.md)
 - [Boas práticas e fontes consultadas](docs/evento/REFERENCIAS_E_PRATICAS.md)
 
-DEC-007 e DEC-009 registram o que os organizadores decidiram. Datas de divulgação e responsáveis marcados "a definir" são propostas; nada disso representa compras, convites ou mensagens enviadas.
+DEC-007, DEC-009 e DEC-015 registram o que os organizadores decidiram. O encontro foi lançado no grupo do WhatsApp em 14/09, com as inscrições abertas. Datas e responsáveis marcados "a definir" são propostas; o assistente não envia mensagens, não compra e não convida.
 
 A planilha é gerada por `python scripts/evento/build_planilha.py` (requer `pip install openpyxl`). Rodar de novo sobrescreve as edições feitas à mão; depois que começarem a preencher, editem o `.xlsx` diretamente.
 

@@ -127,3 +127,23 @@ Em 2026-09-14, Arthur refez o formulário de inscrição (mesmo link, versão 2)
 - **Restrição alimentar:** sai desta edição e fica no backlog para os próximos eventos. Substitui o item correspondente de DEC-013; o limite de 20 inscrições continua.
 
 A inscrição segue aguardando aprovação para divulgação.
+
+## DEC-015 — Lançamento de 14/09 e mecanismo de comunicação
+
+Em 2026-09-14, Arthur e Henrique aprovaram as artes e os textos finais e **lançaram o encontro no grupo do WhatsApp**, uma semana antes da data proposta (21/09). O que foi executado:
+
+- **Nome do grupo:** `TΞKHNE Talks - 2ª Edição`, com o Ξ da identidade visual. O nome público nos textos e nas artes continua TECHNE Talks · Encontro nº 02 (DEC-013); as duas grafias convivem.
+- **Foto e descrição do grupo** trocadas pela logo e pelo texto integral registrado em `docs/evento/DIVULGACAO.md`.
+- **Grupo restrito a mensagens de admins**, de forma declaradamente temporária, para a primeira rodada de informação não se perder. A reabertura vira tarefa com data.
+- **Duas artes publicadas:** peça 1, convite, e peça 2, programação do dia. Substituem o flyer 1 único previsto em DEC-009. As peças de palestra passam a 3 e 4, e "vagas acabando" a 5.
+- **Endereço completo divulgado na arte** (Residencial Alvorada, Casa 18, Rua JK, 07, Ponte Alta Norte, Gama/DF). Cai a premissa de DEC-007 e DEC-009 de endereço só aos inscritos; o lembrete de 15/10 deixa de ser o primeiro contato com o endereço.
+- **Inscrição divulgada** com o link do forms.app: os três formulários estão aprovados na prática, encerrando a etapa de aprovação de DEC-012. Os ajustes pendentes do formulário (campos obrigatórios, Brasil +55, DDD, descrição, mensagem final, cores, encerramento e limite) continuam a fazer, agora com o formulário já em uso.
+- **Palestrantes não anunciados:** as duas artes dizem "Tema e convidado a divulgar". Os links dos questionários foram enviados a VIRUS e Coatio.
+
+Decisões novas:
+
+- **Mecanismo de comunicação reutilizável.** `docs/evento/COMUNICACAO.md` guarda a ordem padrão das mensagens, o gatilho de cada uma, o canal e o responsável, mais um **radar** dos assuntos que ainda vão precisar ser comunicados. A execução é acompanhada na aba **Comunicação** da planilha, marcada peça a peça. Próximas edições copiam o arquivo e trocam datas, nomes e temas.
+- **Restrição alimentar fica no backlog de comunicação.** Não entra na inscrição nem no lembrete desta edição, confirmando DEC-014. O risco permanece registrado: o cardápio tem glúten e lactose em quase tudo e ninguém foi perguntado.
+- **Prazos dos palestrantes, propostos até o aceite:** inscrição no formulário até **19/09**; título, sinopse e minibio até **21/09**, como em DEC-013; **rascunho inicial** do material de apresentação até **28/09**; versão final e gravação do ensaio com roteiro até **03/10**. Substitui, em DEC-013, o material de apoio completo em 21/09.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.

@@ -27,6 +27,7 @@ Status: `[ ] NOT_STARTED`, `[~] IN_PROGRESS`, `[?] BLOCKED`, `[R] READY_FOR_REVI
 - Retomada 2026-09-13 (Claude Code): ata da reunião de 12/09 recebida e salva em `docs/evento/ATA_REUNIAO_12-09.md`. Volta a IN_PROGRESS para esclarecer divergências, registrar DEC-009, atualizar o plano e simplificar a planilha a pedido de Arthur.
 - Entrega 2026-09-14 (Claude Code): DEC-009; plano mestre e questionário no novo roteiro; textos de divulgação, quiz e feedback; planilha reduzida a 4 abas e 32 tarefas (12 KB). Aguarda revisão dos organizadores e o preenchimento dos responsáveis "A definir".
 - Gestão contínua (DEC-012, desde 14/09): AI-002 cobre a gestão até o fechamento do evento; cada rodada termina em READY_FOR_REVIEW. Rodada de 14/09: formulários online documentados em `docs/evento/FORMULARIOS.md`, aguardando aprovação; DEC-013 com nome público, prazos dos palestrantes, responsáveis e limite de 20; DEC-014 com inscrição de três campos e backlog de feedback e relacionamento; Checklist com 40 tarefas.
+- Lançamento (DEC-015, 14/09): encontro anunciado no grupo do WhatsApp com grupo renomeado, descrição e logo novas, peças de convite e programação e inscrições abertas; questionários enviados aos palestrantes. Passo a passo de comunicação reutilizável em `docs/evento/COMUNICACAO.md` e nova aba Comunicação na planilha, com 34 peças; Checklist reduzido a 32 tarefas, sem as mensagens, que migraram para a nova aba. Prazos dos palestrantes revistos e propostos para aceite.
 
 ## [x] AI-004 — Padronizar o trabalho entre assistentes e máquinas
 

@@ -11,6 +11,10 @@
 - Formulários online dos palestrantes e da inscrição (forms.app) documentados em `FORMULARIOS.md`, com etapas, revisão e status "aguardando aprovação" (DEC-012); link de inscrição nos textos de divulgação; Checklist com 38 tarefas e o status "Aguardando aprovação".
 - Nome público TECHNE Talks · Encontro nº 02 nos textos; material de apoio dos palestrantes até 21/09 e ensaio no começo de outubro; pergunta de restrição alimentar e limite de 20 inscrições (DEC-013); Checklist com 40 tarefas.
 - Inscrição simplificada para nome, WhatsApp e e-mail, com conferência da versão publicada; backlog do formulário de feedback e relacionamento; restrição alimentar adiada para as próximas edições (DEC-014).
+- Lançamento do encontro em 14/09, uma semana antes do previsto (DEC-015): grupo do WhatsApp renomeado para `TΞKHNE Talks - 2ª Edição`, com logo e descrição novas e mensagens restritas a admins; peças de convite e de programação publicadas; inscrições abertas; questionários enviados a VIRUS e Coatio. Endereço completo passou a ser público na arte.
+- `docs/evento/COMUNICACAO.md`: passo a passo de comunicação reutilizável — ordem padrão das mensagens em seis fases, gatilho, canal e responsável de cada uma, radar do que ainda falta comunicar e o que trocar em outra edição.
+- Nova aba **Comunicação** na planilha, com 34 peças da preparação ao pós-evento; as mensagens saíram do Checklist, que ficou com 32 tarefas operacionais. Restaurada a linha de acerto do Orçamento, apagada em edição manual.
+- Textos novos: descrição do grupo, mensagem de lançamento, encerramento das inscrições, reabertura do grupo, confirmação de presença, bom dia do evento e as quatro mensagens privadas aos palestrantes.
 
 ## 1.1.0 — Várias máquinas e assistentes (AI-004)
 
