@@ -111,3 +111,11 @@ Planilha reorganizada em torno de uma regra: a aba Comunicação passa a ser don
 Prazos dos palestrantes revistos e propostos para aceite: inscrição no formulário até 19/09, questionário até 21/09, rascunho inicial do material até 28/09 e gravação do ensaio até 03/10. Substituem o material de apoio completo em 21/09 de DEC-013.
 
 Validações: comparação célula a célula da planilha antes e depois; 32 tarefas e 34 peças conferidas por leitura completa do arquivo salvo; formatação condicional, validação de status, filtro e painéis congelados recriados nas duas abas; linhas vazias residuais removidas. Limitações: a abertura no Excel não foi exercitada nesta máquina; a grafia do nome do grupo e os prazos dos palestrantes ainda dependem de confirmação; responsáveis antes "a definir" na divulgação foram atribuídos a Arthur e a Arthur + Henrique por inferência do que foi executado em 14/09, e precisam de aceite.
+
+## 2026-09-15T00:55:00-03:00 | AI-002 | Confirmações de 15/09
+
+Arthur respondeu às seis pendências abertas na rodada anterior; registradas em DEC-016. O nome do grupo foi padronizado com C, `TΞCHNE Talks - 2ª Edição`, encerrando a divergência que tinha passado despercebida. Os prazos dos palestrantes deixam de ser propostas: inscrição 19/09, questionário 21/09, rascunho do material 28/09, ensaio gravado 03/10. A reabertura do grupo foi antecipada de 21/09 para a noite de 16/09. Arthur confirmado como responsável pelas peças de divulgação; convite a Guilherme Reis mantido em 21/09.
+
+Decisão que muda o plano: os ajustes pendentes do forms.app não serão aplicados. Arthur mantém o formulário como está e faz o controle à mão — confere cada inscrição, conta as 20 vagas e encerra a lista em 10/10. As tarefas 36 e 41 passaram a "Não se aplica"; a tabela pedido × publicado de FORMULARIOS.md fica como referência para a próxima edição, não como pendência desta.
+
+Antes de editar, a planilha em disco foi comparada célula a célula com a versão publicada: nenhuma diferença, apesar de o Excel ter regravado o arquivo. A gravação das alterações ficou bloqueada por trava do Office (`~$planejamento-evento.xlsx`), e o script de aplicação foi guardado para rodar com o arquivo fechado. Documentos e registros foram atualizados normalmente.

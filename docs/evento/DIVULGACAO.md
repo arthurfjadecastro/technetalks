@@ -6,9 +6,9 @@ Cada peça tem duas partes: o **texto da arte** (curto, para caber na imagem) e 
 
 ## Grupo do WhatsApp — lançamento (14/09, publicado)
 
-**Nome do grupo:** `TΞKHNE Talks - 2ª Edição`
+**Nome do grupo:** `TΞCHNE Talks - 2ª Edição`
 
-Grafia aprovada pelos organizadores, com o Ξ da identidade visual. O nome público nos textos e nas artes continua **TECHNE Talks · Encontro nº 02** (DEC-013).
+A grafia foi padronizada com C em 15/09, alinhada ao nome público **TECHNE Talks · Encontro nº 02** (DEC-016). O Ξ da identidade visual continua.
 
 **Foto do grupo:** logo do TECHNE Talks, a mesma das artes.
 
@@ -191,7 +191,7 @@ Os palestrantes ainda não foram anunciados: as peças 3 e 4 fazem isso, quando 
 >
 > Se você se inscreveu e não vai mais conseguir ir, avisa a gente hoje: a vaga pode ser de outra pessoa.
 
-## Reabertura do grupo (21/09)
+## Reabertura do grupo (16/09, à noite)
 
 Enviar quando a primeira rodada de informação estiver absorvida, encerrando a fase só de admins.
 
@@ -243,7 +243,7 @@ Enviar junto com a peça 1.
 
 ## Palestrantes — mensagens privadas (Arthur)
 
-Os links dos questionários foram enviados em 14/09. As datas abaixo são propostas até o aceite de Arthur e Henrique (DEC-015).
+Os links dos questionários foram enviados em 14/09. As datas abaixo foram confirmadas por Arthur em 15/09 (DEC-016).
 
 ### Pedido de inscrição (até 19/09)
 

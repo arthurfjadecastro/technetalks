@@ -13,7 +13,7 @@ O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar cone
 | Local | Casa do Henrique — Residencial Alvorada, Casa 18, Rua JK, 07, Ponte Alta Norte, Gama/DF; endereço divulgado na arte do convite |
 | Público | Mínimo de **11** e máximo de **20 pessoas no total**, contando Arthur, Henrique e os palestrantes, que também se inscrevem no formulário |
 | Entrada | Gratuita |
-| Inscrições | Encerram em **10/10**. Quem não está no grupo só entra com avaliação da organização, acompanhado de alguém do grupo, e também se inscreve |
+| Inscrições | Encerram em **10/10**, com controle à mão de Arthur. Quem não está no grupo só entra com avaliação da organização, acompanhado de alguém do grupo, e também se inscreve |
 | Orçamento | **Previsão de R$ 500**, dividida igualmente entre Arthur e Henrique; balanço depois do evento |
 | Palestra 1 | Francisco Figueiredo, "VIRUS" — IA no dia a dia, 14h |
 | Palestra 2 | Matheus Henrique, "Coatio" — design thinking, UI/UX e o app CARANGA, em piloto, 15h |
@@ -55,15 +55,16 @@ O lançamento foi antecipado de 21/09 para **14/09** (DEC-015): nome, foto e des
 |---|---|
 | 14/09 ✓ | Lançamento: grupo renomeado, peças 1 e 2 e abertura das inscrições |
 | 14/09 ✓ | Questionários enviados a VIRUS e Coatio |
-| 19/09 | Palestrantes se inscrevem no formulário; ajustes pendentes do formulário aplicados |
-| 21/09 | Adicionar as pessoas ao grupo e **reabrir o grupo** para todos |
+| 16/09 | **Reabrir o grupo** para todos, à noite |
+| 19/09 | Palestrantes se inscrevem no formulário |
+| 21/09 | Adicionar as pessoas ao grupo |
 | 21/09 | Título, sinopse e minibio dos dois palestrantes |
 | 26/09 | Peça 3 — palestra do VIRUS |
 | 28/09 | Rascunho inicial do material de apresentação |
 | 01/10 | Peça 4 — palestra do Coatio |
 | 03/10 | Gravação do ensaio com o roteiro |
 | 06/10 | Peça 5 — últimas vagas |
-| até 10/10 | Arthur e Henrique acompanham as inscrições toda semana (limite de 20) |
+| até 10/10 | Arthur acompanha as inscrições à mão, contando as 20 vagas |
 | 10/10 | Inscrições encerram; quantitativo confirmado |
 | 12/10 | Confirmação de presença dos inscritos |
 | 15/10 | Lembrete com endereço, chegada às 10h30, o que levar e aviso de registro de imagem |

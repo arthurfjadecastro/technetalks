@@ -147,3 +147,16 @@ Decisões novas:
 - **Prazos dos palestrantes, propostos até o aceite:** inscrição no formulário até **19/09**; título, sinopse e minibio até **21/09**, como em DEC-013; **rascunho inicial** do material de apresentação até **28/09**; versão final e gravação do ensaio com roteiro até **03/10**. Substitui, em DEC-013, o material de apoio completo em 21/09.
 
 Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.
+
+## DEC-016 — Confirmações de 15/09
+
+Respostas de Arthur às pendências abertas em DEC-015:
+
+- **Nome do grupo:** grafia padronizada com C, alinhada ao nome público TECHNE Talks. O grupo passa a se chamar `TΞCHNE Talks - 2ª Edição`; o Ξ da identidade visual continua. Encerra a divergência TΞKHNE/TECHNE.
+- **Prazos dos palestrantes confirmados**, deixando de ser propostas: inscrição no formulário até **19/09**; título, sinopse e minibio até **21/09**; rascunho inicial do material até **28/09**; versão final e gravação do ensaio com roteiro até **03/10**.
+- **Formulário de inscrição fica como está.** Os ajustes pendentes do forms.app (campos obrigatórios, Brasil +55, DDD, descrição, mensagem final, cores, encerramento e limite de 20) não serão aplicados. Arthur faz o **controle à mão**: confere cada inscrição recebida, conta as 20 vagas e encerra a lista em 10/10. As tarefas 36 e 41 passam a "Não se aplica"; a tabela de conferência de FORMULARIOS.md continua como referência para a próxima edição.
+- **Reabertura do grupo:** noite de **16/09**, encerrando a fase só de admins.
+- **Responsáveis de divulgação confirmados:** Arthur, como estava atribuído por inferência na aba Comunicação.
+- **Convite a Guilherme Reis** mantido para 21/09, com a peça 1.
+
+Não altera o risco registrado em DEC-015 sobre restrição alimentar, que continua fora desta edição.

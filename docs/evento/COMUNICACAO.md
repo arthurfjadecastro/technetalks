@@ -34,7 +34,7 @@ D0 é o dia do evento. As datas da coluna "quando" são a referência que funcio
 | 2 | Cobrança de título, sinopse e minibio | Inscrição confirmada | D-26 | Privado |
 | 2 | Cobrança do rascunho inicial do material | Título recebido | D-19 | Privado |
 | 2 | Combinação do ensaio e da gravação com roteiro | Material em rascunho | D-14 | Privado |
-| 3 · Sustentação | Reabertura do grupo | Primeira rodada absorvida | D-26 | WhatsApp |
+| 3 · Sustentação | Reabertura do grupo | Primeira rodada absorvida | D-31 | WhatsApp |
 | 3 | Anúncio da palestra 1 | Título e sinopse recebidos | D-21 | WhatsApp |
 | 3 | Anúncio da palestra 2 | Título e sinopse recebidos | D-16 | WhatsApp |
 | 3 | Últimas vagas | Vagas em queda | D-11 | WhatsApp |
@@ -61,7 +61,7 @@ Assuntos que não estão em nenhuma mensagem escrita até agora. Entram quando t
 |---|---|---|
 | Restrição alimentar | **No backlog** (DEC-014 e DEC-015). Não foi perguntado na inscrição nem no lembrete desta edição | Lembrete de D-2 e inscrição, nas próximas edições |
 | Autorização de uso de imagem | A definir. Haverá fotos e vídeos | Lembrete de D-2 e abertura do dia |
-| Reabertura do grupo | A definir a data exata | Fase 3 |
+| Reabertura do grupo | Marcada para a noite de **16/09** (DEC-016) | Fase 3 |
 | Como chegar, estacionamento e transporte | A definir | Lembrete de D-2 |
 | Confirmação de presença na véspera | A definir o formato | Fase 4 |
 | O que fazer se desistir | Já pedido no lembrete: avisar para liberar a vaga | Lembrete de D-2 |
@@ -75,13 +75,13 @@ Assuntos que não estão em nenhuma mensagem escrita até agora. Entram quando t
 
 Lançamento antecipado de 21/09 para **14/09**, por decisão dos organizadores (DEC-015).
 
-- Nome, foto e descrição do grupo trocados; grupo restrito a admins.
+- Nome, foto e descrição do grupo trocados; grupo restrito a admins. O nome foi padronizado com C em 15/09: `TΞCHNE Talks - 2ª Edição`.
 - Mensagem de lançamento publicada com dois flyers: **convite** e **programação do dia**.
-- Link de inscrição divulgado.
+- Link de inscrição divulgado. O controle de vagas e o encerramento em 10/10 são feitos **à mão por Arthur**, sem configuração no formulário (DEC-016).
 - Questionários enviados a VIRUS e Coatio.
 - Os palestrantes **não** foram anunciados: os dois flyers dizem "Tema e convidado a divulgar".
 
-O que vem a seguir está na aba Comunicação da planilha, começando pelo pedido de inscrição aos palestrantes.
+A reabertura do grupo está marcada para a noite de **16/09**. O que vem depois está na aba Comunicação da planilha.
 
 ## Reaproveitando em outra edição
 
