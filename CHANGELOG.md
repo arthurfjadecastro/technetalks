@@ -16,6 +16,8 @@
 - Nova aba **Comunicação** na planilha, com 34 peças da preparação ao pós-evento; as mensagens saíram do Checklist, que ficou com 32 tarefas operacionais. Restaurada a linha de acerto do Orçamento, apagada em edição manual.
 - Textos novos: descrição do grupo, mensagem de lançamento, encerramento das inscrições, reabertura do grupo, confirmação de presença, bom dia do evento e as quatro mensagens privadas aos palestrantes.
 - Confirmações de 15/09 (DEC-016): nome do grupo padronizado com C (`TΞCHNE Talks - 2ª Edição`); prazos dos palestrantes fechados em 19/09, 21/09, 28/09 e 03/10; formulário de inscrição mantido como está, com vagas e encerramento controlados à mão; reabertura do grupo antecipada para a noite de 16/09.
+- Primeiro palestrante confirmado em 23/09 (DEC-017): respostas do Coatio registradas em `docs/evento/RESPOSTAS_PALESTRANTES.md`, novo arquivo. Tema corrigido de "design thinking e UI/UX" para os bastidores da construção do Caranga, com demonstração do piloto; nome público "Matheus Coatio"; projetor e HDMI como requisito.
+- Peça 4 escrita para sair **antes** da peça 3, sem numerar a palestra, porque o VIRUS ainda não respondeu; foto do palestrante tratada em p&b e recortada em 4:5; mensagens privadas novas de retorno ao Coatio e cobrança ao VIRUS. Aba Comunicação com 37 peças e a regra reutilizável de que os anúncios seguem quem responde, não a ordem do dia.
 
 ## 1.1.0 — Várias máquinas e assistentes (AI-004)
 

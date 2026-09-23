@@ -160,3 +160,26 @@ Respostas de Arthur às pendências abertas em DEC-015:
 - **Convite a Guilherme Reis** mantido para 21/09, com a peça 1.
 
 Não altera o risco registrado em DEC-015 sobre restrição alimentar, que continua fora desta edição.
+
+## DEC-017 — Respostas do Coatio e anúncio do primeiro convidado
+
+Em 2026-09-23, Matheus Coatio respondeu ao questionário (01h08, dois dias depois do prazo de 21/09) e enviou uma foto para a divulgação. As respostas na íntegra estão em `docs/evento/RESPOSTAS_PALESTRANTES.md`. O VIRUS ainda não respondeu.
+
+Fatos que substituem o que estava registrado:
+
+- **Nome público do palestrante:** **Matheus Coatio**, como ele pediu. Substitui "Matheus Henrique, 'Coatio'" de DEC-007 nos textos e nas peças.
+- **Tema:** deixa de ser "design thinking, UI/UX e o app CARANGA" (DEC-007 e DEC-009) e passa a ser a construção do Caranga do zero — validação com usuários reais, priorização com poucos recursos, erros e consistência. Título enviado: "Da ideia à realidade: aprendizados de quem está construindo".
+- **Formato:** slides, conversa e **demonstração do piloto** do Caranga, com exercício de 2 minutos no fim. Aceita 30 + 15 minutos e o horário de **15h–15h45**.
+- **Equipamento:** ele precisa de **projetor e cabo HDMI**, fornecidos pela organização, e não leva mais nada.
+- **Autorizações:** materiais aos participantes em canal privado, fotos e gravação — as duas últimas com divulgação pública **somente mediante aprovação dele**.
+
+Decisões de Arthur nesta rodada:
+
+- **Anunciar o Coatio agora, sem numerar a palestra.** O anúncio sai como convidado confirmado, não como "Palestra 2", para que a ausência do VIRUS não pareça desistência. O horário de 15h continua na peça e na programação já publicada. As peças mantêm o número do palestrante: a **peça 4** (Coatio) sai antes da **peça 3** (VIRUS), que espera as respostas dele.
+- **Título encurtado para "Da ideia à realidade: bastidores do Caranga"** (43 caracteres) nas peças. Os 59 caracteres enviados não cabem na arte e o formulário pedia 30. Como é reescrita da organização, **depende do aval do Coatio antes de publicar**.
+- **Foto tratada em preto e branco e recortada** em 4:5, para os post-its coloridos não competirem com a identidade visual. Arquivos em `outputs/AI-002/`. A publicação depende da aprovação dele, conforme a autorização que ele mesmo marcou.
+- **Entrega desta rodada:** textos, como em DEC-009. Arte e envio continuam com os organizadores.
+
+Pendências abertas por esta decisão: aval do Coatio ao título curto e à foto; confirmação dos prazos de 28/09 e 03/10, cujo campo ficou em branco no formulário; aviso a ele se a TV vencer a decisão de 27/09; plano B da demonstração; e a cobrança do questionário do VIRUS, agora atrasado.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.

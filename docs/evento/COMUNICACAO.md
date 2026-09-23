@@ -1,6 +1,6 @@
 # TECHNE Talks — passo a passo de comunicação
 
-**Criado em 14/09/2026 · AI-002 · Base: DEC-009, DEC-013 a DEC-015.** Este é o mecanismo padrão de comunicação de qualquer edição do TECHNE Talks: a ordem das mensagens, o gatilho de cada uma e quem envia. Muda pouco de uma edição para outra — basicamente datas, nomes e temas. O controle de execução fica na aba **Comunicação** da [planilha](../../outputs/AI-002/planejamento-evento.xlsx); os textos prontos ficam em [DIVULGACAO.md](DIVULGACAO.md).
+**Criado em 14/09/2026, atualizado em 23/09 · AI-002 · Base: DEC-009, DEC-013 a DEC-017.** Este é o mecanismo padrão de comunicação de qualquer edição do TECHNE Talks: a ordem das mensagens, o gatilho de cada uma e quem envia. Muda pouco de uma edição para outra — basicamente datas, nomes e temas. O controle de execução fica na aba **Comunicação** da [planilha](../../outputs/AI-002/planejamento-evento.xlsx); os textos prontos ficam em [DIVULGACAO.md](DIVULGACAO.md).
 
 O assistente escreve e mantém os textos. Enviar mensagens continua sendo dos organizadores.
 
@@ -53,6 +53,8 @@ D0 é o dia do evento. As datas da coluna "quando" são a referência que funcio
 
 **Duas peças que só existem porque a fase 1 fecha o grupo:** a restrição a admins e a reabertura. Se numa próxima edição o grupo ficar aberto desde o começo, as duas saem juntas.
 
+**Os anúncios de palestra seguem quem responde, não a ordem do dia.** O gatilho é "título e sinopse recebidos", e quem entrega primeiro é anunciado primeiro. Quando a ordem se inverte, o anúncio **não numera a palestra** — sai como "convidado confirmado" —, porque anunciar a palestra 2 antes da 1 faz parecer que a primeira caiu. O horário continua na peça, e a numeração da programação publicada não muda. Foi o que aconteceu na edição nº 02 (DEC-017).
+
 ## Radar — o que ainda vai precisar ser comunicado
 
 Assuntos que não estão em nenhuma mensagem escrita até agora. Entram quando tiverem decisão; alguns já têm lugar certo na ordem acima.
@@ -70,6 +72,9 @@ Assuntos que não estão em nenhuma mensagem escrita até agora. Entram quando t
 | Política de convidados de fora do grupo | Decidida (DEC-009), ainda não escrita como mensagem | Lançamento e sustentação |
 | Sem bebida alcoólica | Já está na descrição do grupo | Descrição e lembrete |
 | Onde ficarão fotos e materiais depois | A definir | Fase 6 |
+| Qual tela o palestrante vai encontrar | Decisão projetor × TV vence em **27/09**; o Coatio pediu projetor + HDMI e tem demonstração | Fase 2, privado |
+| Aprovação da foto e do título curto do palestrante | Ele autorizou divulgação **mediante aprovação**; o título de 43 caracteres é reescrita nossa | Fase 2, antes de publicar a peça |
+| Plano B da demonstração sem internet | Não foi perguntado no formulário online | Fase 2, privado |
 
 ## Edição nº 02 — o que já saiu
 
@@ -79,9 +84,10 @@ Lançamento antecipado de 21/09 para **14/09**, por decisão dos organizadores (
 - Mensagem de lançamento publicada com dois flyers: **convite** e **programação do dia**.
 - Link de inscrição divulgado. O controle de vagas e o encerramento em 10/10 são feitos **à mão por Arthur**, sem configuração no formulário (DEC-016).
 - Questionários enviados a VIRUS e Coatio.
-- Os palestrantes **não** foram anunciados: os dois flyers dizem "Tema e convidado a divulgar".
+- Os palestrantes **não** foram anunciados no lançamento: os dois flyers dizem "Tema e convidado a divulgar".
+- **23/09 — o Coatio respondeu ao questionário** (dois dias depois do prazo) e o VIRUS não. A peça 4 passa a sair antes da peça 3, sem numerar a palestra (DEC-017). A publicação depende de ele aprovar o título encurtado e a foto tratada.
 
-A reabertura do grupo está marcada para a noite de **16/09**. O que vem depois está na aba Comunicação da planilha.
+A reabertura do grupo estava marcada para a noite de **16/09**. O que vem depois está na aba Comunicação da planilha.
 
 ## Reaproveitando em outra edição
 

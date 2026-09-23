@@ -1,6 +1,6 @@
 # TECHNE Talks · Encontro nº 02 — plano mestre
 
-**Atualizado em 14/09/2026 com o lançamento publicado · Tarefa AI-002 · Decisões em DEC-007, DEC-009 e DEC-012 a DEC-015.**
+**Atualizado em 23/09/2026 com as respostas do Coatio · Tarefa AI-002 · Decisões em DEC-007, DEC-009 e DEC-012 a DEC-017.**
 
 O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar conexões úteis, com o jeito informal de um encontro pequeno. Esta é a segunda edição do TECHNE Talks. O controle do dia a dia fica na [planilha](../../outputs/AI-002/planejamento-evento.xlsx). Este plano resume o que foi decidido e o que falta.
 
@@ -15,8 +15,8 @@ O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar cone
 | Entrada | Gratuita |
 | Inscrições | Encerram em **10/10**, com controle à mão de Arthur. Quem não está no grupo só entra com avaliação da organização, acompanhado de alguém do grupo, e também se inscreve |
 | Orçamento | **Previsão de R$ 500**, dividida igualmente entre Arthur e Henrique; balanço depois do evento |
-| Palestra 1 | Francisco Figueiredo, "VIRUS" — IA no dia a dia, 14h |
-| Palestra 2 | Matheus Henrique, "Coatio" — design thinking, UI/UX e o app CARANGA, em piloto, 15h |
+| Palestra 1 | Francisco Figueiredo, "VIRUS" — IA no dia a dia, 14h. Título e sinopse **ainda não recebidos** |
+| Palestra 2 | **Matheus Coatio** — "Da ideia à realidade: aprendizados de quem está construindo", 15h. Bastidores da construção do Caranga, com demonstração do piloto. Confirmado em 23/09 (DEC-017); respostas em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md) |
 | Palestrantes | Inscrição no formulário até 19/09; título, sinopse e minibio até 21/09; rascunho do material até 28/09; versão final e gravação do ensaio com roteiro até 03/10 |
 | Mesa 360 | Conduzida por Arthur e Henrique, com fechamento e sorteio |
 | Fotos e vídeos | Guilherme Reis, pelo celular — a confirmar; Henrique faz o convite |
@@ -32,7 +32,7 @@ O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar cone
 | 12h30 | 14h00 | Almoço | Às 13h30–13h45 a equipe prepara o equipamento do VIRUS |
 | 14h00 | 14h45 | Palestra 1 — VIRUS | IA no dia a dia |
 | 14h45 | 15h00 | Intervalo | Troca de equipamento e preparação da palestra 2 |
-| 15h00 | 15h45 | Palestra 2 — Coatio | UI/UX e demonstração do CARANGA |
+| 15h00 | 15h45 | Palestra 2 — Matheus Coatio | Bastidores do Caranga, demonstração do piloto e exercício de 2 minutos no fim |
 | 15h45 | 16h15 | Lanche | Embaixo da escada, com café |
 | 16h15 | 17h00 | Mesa 360, fechamento e sorteio | Sugestão: Mesa 360 até 16h45; quiz, sorteio das 2 canecas e feedback até 17h |
 
@@ -42,6 +42,7 @@ Cada palestra tem 45 minutos, perguntas incluídas. A proposta para os palestran
 
 - **Planta:** Henrique desenha e disponibiliza três versões — seca, com móveis, com móveis e pessoas — com os **20 lugares preenchidos**. Ordem a partir da tela: telas → sofá → 2 mesas com cadeiras → 2 mesas de plástico extras, se precisar. Quadro de vidro móvel. Lanche e café no cantinho embaixo da escada.
 - **Tela:** projetor e telão como principal, TV como plano B. Arthur e Henrique decidem **até 27/09**. Sem projetor garantido, a TV vira a principal.
+- **O que o Coatio pediu:** **projetor e cabo HDMI**, fornecidos pela organização; ele não leva mais nada (DEC-017). Como a palestra dele tem demonstração do piloto, a tela é requisito, não conforto. Se a TV vencer a decisão de 27/09, avisar ele antes de fechar os slides — muda o tamanho do que dá para ler.
 - **Teste:** notebook → cabo/adaptador → tela, com o material real, no começo de outubro, junto com o ensaio.
 - **Ventilação:** 2 ou 3 ventiladores, cruzados na sala.
 
@@ -58,10 +59,13 @@ O lançamento foi antecipado de 21/09 para **14/09** (DEC-015): nome, foto e des
 | 16/09 | **Reabrir o grupo** para todos, à noite |
 | 19/09 | Palestrantes se inscrevem no formulário |
 | 21/09 | Adicionar as pessoas ao grupo |
-| 21/09 | Título, sinopse e minibio dos dois palestrantes |
-| 26/09 | Peça 3 — palestra do VIRUS |
+| 21/09 ⚠️ | Título, sinopse e minibio dos dois palestrantes — **só o Coatio entregou**, em 23/09; VIRUS atrasado |
+| 23/09 ✓ | Respostas do Coatio recebidas e registradas |
+| 24/09 | **Peça 4 — Matheus Coatio**, assim que ele aprovar o título curto e a foto |
+| 26/09 | Cobrar de novo o questionário do VIRUS |
+| 27/09 | Decidir projetor × TV e avisar o Coatio |
 | 28/09 | Rascunho inicial do material de apresentação |
-| 01/10 | Peça 4 — palestra do Coatio |
+| a definir | Peça 3 — palestra do VIRUS, quando as respostas dele chegarem |
 | 03/10 | Gravação do ensaio com o roteiro |
 | 06/10 | Peça 5 — últimas vagas |
 | até 10/10 | Arthur acompanha as inscrições à mão, contando as 20 vagas |
@@ -69,7 +73,7 @@ O lançamento foi antecipado de 21/09 para **14/09** (DEC-015): nome, foto e des
 | 12/10 | Confirmação de presença dos inscritos |
 | 15/10 | Lembrete com endereço, chegada às 10h30, o que levar e aviso de registro de imagem |
 
-As peças 3 e 4 dependem do título e do resumo de cada palestra, pedidos nos formulários dos palestrantes ([FORMULARIOS.md](FORMULARIOS.md); texto de referência em [QUESTIONARIO_PALESTRANTES.md](QUESTIONARIO_PALESTRANTES.md)). Por isso as respostas precisam voltar até 21/09. As duas artes já publicadas dizem "Tema e convidado a divulgar".
+As peças 3 e 4 dependem do título e do resumo de cada palestra, pedidos nos formulários dos palestrantes ([FORMULARIOS.md](FORMULARIOS.md); texto de referência em [QUESTIONARIO_PALESTRANTES.md](QUESTIONARIO_PALESTRANTES.md)). O Coatio respondeu em 23/09 e o VIRUS ainda não, então **a peça 4 sai antes da 3** e o anúncio não numera a palestra, para a ausência do VIRUS não parecer desistência (DEC-017). As peças mantêm o número do palestrante. As duas artes já publicadas continuam dizendo "Tema e convidado a divulgar".
 
 ## 5. Alimentação
 
@@ -103,11 +107,11 @@ Duas canecas sorteadas por um quiz com pontuação, acessado por QR code, e um f
 
 | Risco | Resposta |
 |---|---|
-| Sem projetor até 27/09 | TV passa a ser a tela principal |
+| Sem projetor até 27/09 | TV passa a ser a tela principal — e o Coatio precisa ser avisado, porque a palestra dele tem demonstração e ele pediu projetor + HDMI |
 | Poucos inscritos | Com 11 pessoas o evento acontece; comida dimensionada no cenário de 11 |
 | Mais interessados que vagas | Limite de 20 no total; convidados de fora passam pela avaliação da organização |
-| Demo do CARANGA ou internet falha | Palestrante leva capturas ou vídeo local |
-| Palestrante atrasa as respostas | As peças 3 e 4 saem com o tema, sem título |
+| Demo do CARANGA ou internet falha | Palestrante leva capturas ou vídeo local — **ainda não combinado com ele**; o formulário online não perguntou o plano B |
+| Palestrante atrasa as respostas | Aconteceu: o VIRUS passou de 21/09. O anúncio do Coatio vai sozinho, sem numerar a palestra, e a peça 3 espera |
 | Calor | Ventiladores cruzados testados no dia anterior |
 | Restrição alimentar não perguntada | Ter uma opção simples à mão (salada, arroz, fruta) e perguntar na chegada |
 

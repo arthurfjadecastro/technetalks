@@ -1,6 +1,10 @@
 # TECHNE Talks · Encontro nº 02 — questionário individual do palestrante
 
-**Formulários online criados em 14/09/2026 a partir deste texto, aguardando aprovação: [VIRUS](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) e [Coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio). Status, etapas e ajustes em [FORMULARIOS.md](FORMULARIOS.md).**
+**Formulários online criados em 14/09/2026 a partir deste texto e em uso desde então: [VIRUS](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) e [Coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio). Status, etapas e ajustes em [FORMULARIOS.md](FORMULARIOS.md).**
+
+**As respostas recebidas estão em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md).** O Coatio respondeu em 23/09; o VIRUS, ainda não.
+
+**Divergência a corrigir na próxima edição:** a pergunta 2 aqui pede o título "em até 80 caracteres", e o formulário online pediu **30**. O Coatio enviou 59 — dentro deste documento, fora do formulário. Trinta caracteres não dão para um título de palestra; 60 é um limite honesto, e a arte ganha uma versão curta combinada com o palestrante.
 
 **Versão atualizada em 14/09/2026 com o roteiro de DEC-009.** Prazos e nome atualizados por DEC-013. Entregar uma cópia a cada palestrante. As propostas abaixo ainda dependem do acordo com cada um; o assistente não envia este documento.
 

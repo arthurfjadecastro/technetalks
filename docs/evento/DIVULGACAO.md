@@ -1,6 +1,6 @@
 # TECHNE Talks · Encontro nº 02 — textos de divulgação
 
-**Atualizado em 14/09/2026 com o lançamento publicado · AI-002 · Base: DEC-009, DEC-013 a DEC-015.** Textos para os organizadores montarem a arte e enviarem no grupo do WhatsApp. O assistente não envia mensagens. Os trechos entre colchetes dependem das respostas dos palestrantes. A ordem das peças, os gatilhos e os responsáveis estão em [COMUNICACAO.md](COMUNICACAO.md); a execução é acompanhada na aba Comunicação da [planilha](../../outputs/AI-002/planejamento-evento.xlsx).
+**Atualizado em 23/09/2026 com as respostas do Coatio · AI-002 · Base: DEC-009, DEC-013 a DEC-017.** Textos para os organizadores montarem a arte e enviarem no grupo do WhatsApp. O assistente não envia mensagens. Os trechos entre colchetes dependem das respostas dos palestrantes. A ordem das peças, os gatilhos e os responsáveis estão em [COMUNICACAO.md](COMUNICACAO.md); a execução é acompanhada na aba Comunicação da [planilha](../../outputs/AI-002/planejamento-evento.xlsx).
 
 Cada peça tem duas partes: o **texto da arte** (curto, para caber na imagem) e a **mensagem** que acompanha a imagem no grupo.
 
@@ -126,45 +126,82 @@ O endereço completo passou a ser público nesta arte. O lembrete de 15/10 deixa
 > 17h00 Encerramento
 > 2026 · @TECHNETALKS
 
-Os palestrantes ainda não foram anunciados: as peças 3 e 4 fazem isso, quando os títulos chegarem.
+Esta arte foi publicada sem os palestrantes. A peça 4 anuncia o Coatio; a peça 3 espera o VIRUS. Quando os dois estiverem confirmados, dá para republicar a programação com os nomes — sugestão no fim desta seção de peças.
 
-## Peça 3 — palestra 1 (26/09)
+## Peça 4 — convidado confirmado: Matheus Coatio (23/09)
+
+**Esta peça sai antes da peça 3.** O Coatio respondeu ao questionário em 23/09 e o VIRUS ainda não; o anúncio não numera a palestra, para a ausência do outro convidado não parecer desistência (DEC-017). O horário de 15h continua o mesmo da programação publicada. Respostas completas em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md).
 
 **Texto da arte:**
 
 > **TECHNE TALKS · Nº 02 · 17/10**
-> Palestra 1 · 14h
-> **[Título da palestra do VIRUS]**
-> Francisco Figueiredo, "VIRUS"
-> IA no dia a dia
+> CONVIDADO CONFIRMADO
+> **Da ideia à realidade**
+> *bastidores do Caranga*
+> **MATHEUS COATIO** · designer e fundador do Caranga
+> 15h · Sábado, 17 de outubro · Gama/DF
+> INSCRIÇÕES ATÉ 10/10 · go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02 (QR code)
+> @TECHNETALKS
+
+O título completo que ele enviou tem 59 caracteres — "Da ideia à realidade: aprendizados de quem está construindo". A arte usa a versão curta de 43, que **ainda depende do aval dele** (DEC-017); enquanto não vier, a arte não sai.
+
+**Foto:** `outputs/AI-002/coatio-retrato-pb.jpg` — a que ele enviou, convertida para preto e branco e recortada em 4:5 (1080×1350). Os post-its coloridos do original competiam com a identidade das peças 1 e 2; em p&b a parede vira textura e sobra área limpa à esquerda para o texto. Há duas alternativas na mesma pasta: `-cor` (original recortado) e `-pb-quente` (tom sépia). **Publicar depende da aprovação do Coatio**, que autorizou divulgação pública só mediante aprovação.
 
 **Mensagem:**
 
-> Primeira palestra confirmada! 🤖
+> Temos convidado confirmado no TECHNE Talks · Encontro nº 02 🚀
 >
-> Às 14h, o Francisco Figueiredo, o VIRUS, fala sobre **[título]**.
+> Às 15h, **Matheus Coatio** — designer e fundador do Caranga — fala sobre *Da ideia à realidade: bastidores do Caranga*.
+>
+> Toda ideia parece simples no começo. O difícil é o que vem depois: validar com pessoas de verdade, priorizar com pouco recurso, errar, corrigir a rota e continuar quando o resultado ainda não apareceu.
+>
+> É disso que ele vem falar — sem romantização — mostrando os bastidores do Caranga, o app que está construindo para o universo automotivo: como a ideia surgiu, o que aprendeu na prática e quais erros cometeria de novo (e quais não).
+>
+> 🖥️ Vai ter demonstração do piloto.
+> 🎯 Não precisa de conhecimento prévio.
+> ✍️ E tem exercício no fim: cada pessoa sai com o primeiro passo concreto da própria ideia.
+>
+> Se você tem uma ideia guardada na gaveta, essa palestra é para você. 👀
+>
+> Ainda falta anunciar o outro convidado — vem por aí.
+>
+> 🎟️ Inscrições abertas até 10/10, 20 vagas no total:
+> https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02
+
+## Peça 3 — palestra do VIRUS (quando as respostas chegarem)
+
+Prevista para 26/09, **parada** até o VIRUS responder ao questionário; o prazo era 21/09. Sem título e sinopse, a peça não tem conteúdo. Os colchetes se preenchem com as respostas dele.
+
+**Texto da arte:**
+
+> **TECHNE TALKS · Nº 02 · 17/10**
+> CONVIDADO CONFIRMADO
+> **[Título da palestra do VIRUS]**
+> **FRANCISCO FIGUEIREDO**, "VIRUS"
+> [minibio em uma linha]
+> 14h · Sábado, 17 de outubro · Gama/DF
+> INSCRIÇÕES ATÉ 10/10 · go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02 (QR code)
+> @TECHNETALKS
+
+**Mensagem:**
+
+> E fechamos a programação do TECHNE Talks · Encontro nº 02 🤖
+>
+> Às 14h, **Francisco Figueiredo**, o VIRUS, fala sobre **[título]**.
 > [Resumo de uma ou duas frases, a partir da sinopse do questionário.]
+>
+> Com ele e o Matheus Coatio, o sábado 17/10 está completo: duas palestras, almoço, Mesa 360 e muita conversa.
 >
 > Ainda dá tempo de garantir sua vaga: inscrições até 10/10 em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02.
 
-## Peça 4 — palestra 2 (01/10)
+## Atualização da programação (opcional, quando os dois temas estiverem confirmados)
 
-**Texto da arte:**
+A peça 2 já publicada diz "tema e convidado a divulgar" nas duas palestras. Quando o VIRUS responder, vale republicar a programação com os nomes no lugar:
 
-> **TECHNE TALKS · Nº 02 · 17/10**
-> Palestra 2 · 15h
-> **[Título da palestra do Coatio]**
-> Matheus Henrique, "Coatio"
-> Design thinking, UI/UX e o app CARANGA
+> 14h00 Palestra 01 — [título], com Francisco Figueiredo, "VIRUS"
+> 15h00 Palestra 02 — Da ideia à realidade: bastidores do Caranga, com Matheus Coatio
 
-**Mensagem:**
-
-> Segunda palestra confirmada! 🎨
->
-> Às 15h, o Matheus Henrique, o Coatio, fala sobre design thinking e UI/UX, e mostra na prática o CARANGA, aplicativo que está em piloto.
-> [Resumo de uma ou duas frases, a partir da sinopse do questionário.]
->
-> Inscrições até 10/10 em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02.
+Republicar antes disso deixaria metade da arte ainda "a divulgar", e a peça 4 já cumpre esse papel.
 
 ## Peça 5 — últimas vagas (06/10)
 
@@ -272,3 +309,33 @@ Os links dos questionários foram enviados em 14/09. As datas abaixo foram confi
 > [Nome], vamos fechar o ensaio? Queremos testar notebook, cabo e tela com o material real no começo de outubro. Qual dia da semana de 29/09 a 03/10 funciona para você?
 >
 > E não esquece da gravação do ensaio com o roteiro até 03/10 — é o que garante que 30 minutos de conteúdo cabem em 30 minutos. 😅
+
+### Retorno ao Coatio (23/09)
+
+Enviar **antes** de publicar a peça 4: ela depende de duas aprovações dele. Cinco assuntos numa mensagem só porque todos tratam da mesma entrega.
+
+> Matheus, chegou tudo, valeu! 🙌 Sinopse redonda, e a ideia do exercício no fim ficou ótima.
+>
+> Cinco coisas rápidas antes de eu anunciar você no grupo:
+>
+> 1️⃣ O título completo não cabe na arte — são 59 caracteres. Para a peça eu encurtei para **"Da ideia à realidade: bastidores do Caranga"**, e o título inteiro entra na mensagem e na programação. Pode ser assim?
+>
+> 2️⃣ Sua foto eu converti para preto e branco e recortei mais fechado, para os post-its não brigarem com as cores do flyer. Te mando para você aprovar antes de subir.
+>
+> 3️⃣ Você deixou em branco a confirmação das datas: **rascunho do material até 28/09** e **versão final + gravação do ensaio com o roteiro até 03/10**. Fecha assim para você?
+>
+> 4️⃣ Projetor e HDMI: anotado. A gente decide até 27/09 entre projetor e TV, e te aviso qual vai ser — se virar TV, muda o tamanho do que dá para ler nos slides.
+>
+> 5️⃣ Como você vai demonstrar o piloto, já pensa num plano B sem internet (capturas ou um vídeo curto gravado). Se a rede cair no dia, o conteúdo segue.
+>
+> Vamo pra cima! 🚀
+
+### Cobrança ao VIRUS (atrasado desde 21/09)
+
+> Fala, VIRUS! O Coatio já mandou o questionário dele e eu vou anunciar a palestra no grupo nesta semana. 👀
+>
+> Falta só o seu para fechar a programação: título, sinopse e minibio. É rápido, uns 10 minutos: [questionário].
+>
+> Uma dúvida que ficou das primeiras conversas: quando você falou em "uso concorrente" de IA, o que exatamente você quis dizer? Não quis chutar um significado e escrever errado no flyer. 😄
+>
+> Consegue até [data]? Assim eu já solto o anúncio da sua palestra logo depois.
