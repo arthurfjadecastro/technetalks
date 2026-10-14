@@ -1,17 +1,18 @@
 # TECHNE Talks · Encontro nº 02 — quiz do sorteio e formulário de feedback
 
-**Rascunho de 14/09/2026 · AI-002 · Base: DEC-009.** Conteúdo para montar dois formulários online, por exemplo no Google Forms. O assistente não publica formulários. Revisem as regras propostas antes de usar.
+**Rascunho de 14/09/2026, atualizado em 14/10 · AI-002 · Base: DEC-009 e DEC-019.** Conteúdo para montar dois formulários online, por exemplo no Google Forms. O assistente não publica formulários. Revisem as regras propostas antes de usar.
 
 ## Como montar
 
 1. Crie um formulário para o quiz e ative o modo **teste** (no Google Forms: Configurações → "Transformar em teste"). Marque a resposta certa e 1 ponto em cada pergunta. Assim a pontuação sai automática.
 2. Crie outro formulário para o feedback, sem pontuação e sem coleta de e-mail.
 3. Gere um QR code para cada link (o Chrome tem a opção "Criar QR code" no menu de compartilhar; qualquer gerador serve) e mostre na tela ou imprima.
-4. Teste os dois pelo celular antes de 16/10.
+4. Teste os dois pelo celular antes de 16/10. Arthur monta os dois (DEC-018), com prazo até 14/10.
+5. O QR code do quiz aparece na Mesa 360; o do formulário de feedback e o do Pix aberto, na despedida, depois das 17h (DEC-019).
 
 ## Quiz do sorteio
 
-**Regra proposta:** o quiz abre às 16h45, depois da Mesa 360, e fica aberto por 5 minutos. Todos os presentes podem responder, menos organizadores e palestrantes. As 2 maiores pontuações ganham as canecas; em caso de empate, sorteio entre os empatados.
+**Regra proposta:** o quiz abre depois da dinâmica do sushi e da apresentação do Henrique, dentro da Mesa 360, e fica aberto por 5 minutos (os tempos ainda serão definidos, DEC-019). Todos os presentes podem responder, menos organizadores e palestrantes. As 2 maiores pontuações ganham as canecas; em caso de empate, sorteio entre os empatados.
 
 **Campo obrigatório:** Seu nome (como você se apresentou hoje).
 
@@ -35,11 +36,11 @@ As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a ca
 - Roda viva
 - Painel aberto
 
-**4. Qual foi o tema da palestra do VIRUS?**
-- IA no dia a dia ✅
-- Segurança de redes
-- Blockchain
-- Desenvolvimento de games
+**4. Qual foi o tema da palestra das 14h, do Jonatas?**
+- [tema da palestra do Jonatas] ✅
+- [alternativa]
+- [alternativa]
+- [alternativa]
 
 **5. No design thinking, o processo começa por…**
 - Escolher a tecnologia
@@ -53,7 +54,7 @@ As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a ca
 - O código do servidor
 - A velocidade da internet
 
-**7. [Pergunta sobre a palestra do VIRUS]**
+**7. [Pergunta sobre a palestra do Jonatas]**
 - [alternativa correta] ✅
 - [alternativa]
 - [alternativa]
@@ -93,10 +94,10 @@ Se as perguntas 7 e 8 não ficarem prontas, removam as duas: o quiz funciona com
 
 | Parte | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Recepção e integração | | | | | |
-| Palestra do VIRUS — IA no dia a dia | | | | | |
-| Palestra do Coatio — UI/UX e CARANGA | | | | | |
-| Mesa 360 | | | | | |
+| Recepção e dinâmica do amassador de batatas | | | | | |
+| Palestra do Jonatas | | | | | |
+| Palestra do Coatio — bastidores do Caranga | | | | | |
+| Mesa 360 e dinâmica do sushi | | | | | |
 | Almoço e lanche | | | | | |
 | Espaço (conforto, ventilação, som e imagem) | | | | | |
 
@@ -123,3 +124,9 @@ Se as perguntas 7 e 8 não ficarem prontas, removam as duas: o quiz funciona com
 - Agora não
 
 **9. Se quiser que a gente fale com você sobre a pergunta 8, deixe seu nome.** (opcional; é o único campo que identifica quem respondeu)
+
+## Pix aberto na despedida (a decidir)
+
+Depois das 17h, o QR code do formulário de feedback aparece junto com o **QR code do Pix aberto** (patron): a pessoa envia o valor que quiser, sem obrigação. Arthur já conversou com o Henrique, e falta decidir como será a dinâmica (DEC-019). A participação continua gratuita (DEC-007). Sugestão para o fim do formulário de feedback, a confirmar:
+
+> Quer ajudar o TECHNE Talks a continuar? Se quiser, qualquer valor ajuda a pagar a comida e os materiais dos próximos encontros. É totalmente opcional. [QR code do Pix]

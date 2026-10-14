@@ -1,11 +1,11 @@
 # Estado atual
 
-- Atualizado em: 2026-09-23T12:19:00-03:00
+- Atualizado em: 2026-10-14T02:35:00-03:00
 - Agente: Claude Code (Windows)
 - Tarefa: AI-002 — Descobrir e estruturar a organização do evento Technetalks.
 - Status: READY_FOR_REVIEW
-- Autorização: DEC-006 a DEC-009, DEC-012 (gestão contínua) e DEC-017 (rodada de 23/09); DEC-011 para commit/push. Envio de mensagens, compras e convites seguem com os organizadores.
+- Autorização: DEC-006 a DEC-009, DEC-012 (gestão contínua), DEC-017, DEC-018 (fechamento de 12/10) e DEC-019 (roteiro de 14/10); DEC-011 para commit/push. Envio de mensagens, compras e convites seguem com os organizadores.
 - Arquivos em edição: nenhum
-- Próxima ação: Arthur envia ao Coatio o retorno com as cinco perguntas (título curto, foto, prazos, tela e plano B) e cobra o questionário do VIRUS. A peça 4 só sai depois do aval do Coatio.
-- Rodada de 23/09 (DEC-017): Coatio respondeu ao questionário às 01h08, dois dias depois do prazo, e antes do VIRUS. Tema mudou de "design thinking e UI/UX" para os bastidores da construção do Caranga, com demonstração do piloto. Anúncio sai sem numerar a palestra; peça 4 antes da peça 3. Textos prontos em DIVULGACAO.md, respostas em RESPOSTAS_PALESTRANTES.md, foto tratada em outputs/AI-002/.
-- Não versionado por decisão: as três fotos do Coatio em `outputs/AI-002/coatio-retrato-*.jpg` ficam fora do commit até Arthur confirmar que podem ir para o repositório público, porque ele autorizou divulgação pública apenas mediante aprovação.
+- Próxima ação: Arthur envia ao chat os dados do Jonatas (nome completo, título, tema, sinopse, minibio e foto) para fechar a peça 3 e `RESPOSTAS_PALESTRANTES.md`, e informa o que aconteceu em 12 e 13/10: se a peça 3 e o aviso de encerramento saíram, o número final de inscritos, a retirada do projetor e a encomenda do lanche.
+- Rodada de 12 e 14/10 (DEC-018 e DEC-019): inscrições prorrogadas para 12/10, 23h59, com 17 inscritos às 20h; Jonatas no lugar do VIRUS; Junim Reis registra o dia; Agda prepara o almoço; roteiro com as dinâmicas do amassador de batatas e do sushi e a despedida depois das 17h com o Pix aberto.
+- Não versionado: `.agents/skills/project-continuity-claude/` é resíduo local alheio à tarefa (DEC-008) e não entra nos commits.

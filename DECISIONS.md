@@ -183,3 +183,67 @@ Decisões de Arthur nesta rodada:
 Pendências abertas por esta decisão: aval do Coatio ao título curto e à foto; confirmação dos prazos de 28/09 e 03/10, cujo campo ficou em branco no formulário; aviso a ele se a TV vencer a decisão de 27/09; plano B da demonstração; e a cobrança do questionário do VIRUS, agora atrasado.
 
 Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.
+
+## DEC-018 — Fechamento das inscrições e ajustes de 12/10
+
+Em 2026-10-12, no último dia de inscrições, Arthur percorreu o checklist item a item no chat e respondeu a cada pendência. Complementa DEC-009, DEC-016 e DEC-017; onde houver conflito, vale esta decisão.
+
+**Inscrições**
+
+- **Prazo:** o encerramento passa de 10/10 para **hoje, 12/10, às 23h59**. Arthur confirmou a data ao pedir o fechamento; o plano de DEC-009 marcava 10/10.
+- **Número:** 17 inscritos às 20h, contando Arthur, Henrique, Coatio e Jonatas. Restam 3 vagas dentro do limite de 20. Nenhum convidado de fora do grupo pediu entrada.
+- **Encerramento:** a lista fecha às 23h59, com aviso no grupo em disparo separado do anúncio do palestrante. A peça 5 (últimas vagas) deixa de existir; o aviso de encerramento a substitui.
+- **Quantitativo:** travado em **13/10**, com o número final. Almoço e lanche são dimensionados nele, e a encomenda do lanche passa de 12/10 para 13/10.
+- **Confirmação de presença:** mensagem privada a cada inscrito, hoje e ao longo da semana, junto com o lembrete.
+
+**Palestrantes**
+
+- **Jonatas substitui Francisco Figueiredo, "VIRUS"**, na palestra das 14h às 14h45. Jonatas está inscrito e, segundo Arthur, tem título, sinopse, minibio e foto; esses dados ainda não foram registrados no repositório. A cobrança ao VIRUS e a dúvida sobre "uso concorrente" (DEC-007) ficam sem objeto. Não foi dito se o VIRUS foi avisado da troca.
+- **A peça 3 passa a anunciar o Jonatas e precisa sair hoje.** O anúncio do Coatio já saiu, e o Jonatas ainda não foi anunciado.
+- **Coatio:** aprovou o título curto e a foto tratada, e a peça 4 foi publicada. Com a aprovação, as três fotos tratadas entram no repositório.
+- **Material e ensaio:** os dois palestrantes entregaram o material e ensaiaram. Os prazos de 28/09 e 03/10 estão cumpridos.
+
+**Espaço e equipamento**
+
+- **Tela:** o projetor foi emprestado ao Henrique, e a retirada é hoje ou amanhã, com um amigo dele. Arthur e Henrique decidem depois de retirá-lo; a TV segue como reserva. O teste notebook → tela e o aviso ao Coatio esperam essa retirada.
+- **Planta:** basta uma versão; as três de DEC-009 foram dispensadas.
+- **Mesas extras e ventiladores:** na véspera, 16/10.
+
+**Pessoas e alimentação**
+
+- **Registro do dia:** Junim Reis, confirmado. Substitui Guilherme Reis em DEC-009.
+- **Almoço:** Agda prepara, arranjo feito por Henrique. As proporções por cenário estão prontas.
+- **Lanche:** o pedido da padaria está levantado; a encomenda sai em 13/10 com o número final.
+- **Restrição alimentar:** segue fora desta edição, com o risco aceito (DEC-014 e DEC-015). Ninguém avisou por conta própria.
+
+**Compras**
+
+- **Banner:** a arte está pronta e Arthur negocia a impressão por **R$ 54,50, mais entrega ainda a definir**. A previsão era R$ 60. Arthur passa a ser o responsável; impressão e entrega até 15/10.
+- **Brinde:** foram feitas **4 canecas mágicas foscas de 325 ml, sublimadas, por R$ 209,00** (R$ 52,25 cada, com 5% de desconto): 2 para o sorteio, 1 de Arthur e 1 de Henrique. Retirada em 24/09. Substitui "2 canecas, R$ 70" de DEC-009 e deixa o brinde R$ 139 acima da previsão. Fica a decidir se as 2 canecas pessoais (R$ 104,50) entram no balanço dividido.
+- **Soma anotada:** R$ 813,50, sem a entrega do banner, contra a previsão de R$ 500. O balanço continua depois do evento, dividido igualmente (DEC-009).
+
+**Dinâmicas e backlog**
+
+- **Quiz do QR code e formulário de feedback:** nenhum está montado. Arthur monta os dois até 14/10.
+- **Pergunta de abertura da Mesa 360:** na véspera.
+- **Dinâmica de integração da recepção:** vai para o backlog, a ver depois.
+- **Backlog das dinâmicas de Arthur, sem data:** dinâmica de abertura do amassador de batatas; a dinâmica do sushi (texto de Arthur: "parágrafo de todos, parágrafo de IA", reflexão sobre não domínio, a IA como complemento e não para fazer por você); a dinâmica do psiquiatra ("prev ver relatório clinica", anotação a esclarecer); e o quiz do QR code, as dinâmicas e o formulário de feedback como um conjunto.
+- **Pix aberto:** QR code de Pix, qualquer valor, ao final do formulário de feedback e no encerramento do dia. Fica em backlog para debater com Henrique antes de qualquer uso. Não altera a participação gratuita de DEC-007.
+
+**Comunicação:** o grupo foi reaberto e os convidados foram adicionados.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.
+
+## DEC-019 — Roteiro do dia revisto em 14/10
+
+Em 2026-10-14, Arthur reviu o cronograma do dia. Complementa DEC-009 e DEC-018; onde houver conflito, vale esta decisão.
+
+- **Recepção (11h–12h30):** check-in, apresentação do dia (cronograma) e a **dinâmica do amassador de batatas**, conduzida por Arthur, para aproximar as pessoas e deixar o ambiente leve e divertido. Sai do backlog de DEC-018 e substitui a dinâmica de integração genérica de DEC-009 ("aproximar quem estiver isolado e formar grupos").
+- **Almoço (12h30–14h):** responsáveis Henrique e Arthur; Agda segue preparando (DEC-018). Das 13h30 às 13h45 a equipe prepara o equipamento do primeiro palestrante.
+- **Mesa 360 (16h15–17h):** **dinâmica do sushi**, sorteio, uma **apresentação do Henrique** e o fechamento. A dinâmica do sushi sai do backlog de DEC-018. O assunto e a duração da apresentação do Henrique, e o tempo de cada parte, **ainda não foram definidos**.
+- **Despedida (17h em diante):** o fim oficial **continua às 17h**, como divulgado. A despedida vem logo depois, informal, para quem quiser ficar, com o **QR code do Pix aberto** e o **QR code do formulário de feedback**.
+- **Pix aberto:** Arthur já conversou com o Henrique, e o Pix entra no roteiro. Falta decidir **como será a dinâmica**. Substitui o "backlog a debater" de DEC-018 e não altera a participação gratuita de DEC-007.
+- **Dinâmica do psiquiatra:** segue no backlog, sem data, com a anotação a esclarecer.
+- **Exercício de 2 minutos do Coatio:** é o exercício que ele propôs para o fim da palestra, dentro dos 45 minutos dele e antes das perguntas — cada pessoa escreve o primeiro passo concreto da própria ideia. Falta combinar com ele se é no papel ou no celular.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.

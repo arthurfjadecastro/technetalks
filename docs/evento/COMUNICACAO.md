@@ -63,17 +63,17 @@ Assuntos que não estão em nenhuma mensagem escrita até agora. Entram quando t
 |---|---|---|
 | Restrição alimentar | **No backlog** (DEC-014 e DEC-015). Não foi perguntado na inscrição nem no lembrete desta edição | Lembrete de D-2 e inscrição, nas próximas edições |
 | Autorização de uso de imagem | A definir. Haverá fotos e vídeos | Lembrete de D-2 e abertura do dia |
-| Reabertura do grupo | Marcada para a noite de **16/09** (DEC-016) | Fase 3 |
+| Reabertura do grupo | **Feita**, confirmada em 12/10 (DEC-018) | Fase 3 |
 | Como chegar, estacionamento e transporte | A definir | Lembrete de D-2 |
-| Confirmação de presença na véspera | A definir o formato | Fase 4 |
+| Confirmação de presença | **Decidido** (DEC-018): mensagem privada a cada inscrito, em 12/10 e ao longo da semana, junto com o lembrete | Fase 4 |
 | O que fazer se desistir | Já pedido no lembrete: avisar para liberar a vaga | Lembrete de D-2 |
 | Wi‑fi da casa | A definir se será divulgado | Abertura do dia |
 | Check-in na chegada | A definir se haverá lista | Fase 5 |
 | Política de convidados de fora do grupo | Decidida (DEC-009), ainda não escrita como mensagem | Lançamento e sustentação |
 | Sem bebida alcoólica | Já está na descrição do grupo | Descrição e lembrete |
 | Onde ficarão fotos e materiais depois | A definir | Fase 6 |
-| Qual tela o palestrante vai encontrar | Decisão projetor × TV vence em **27/09**; o Coatio pediu projetor + HDMI e tem demonstração | Fase 2, privado |
-| Aprovação da foto e do título curto do palestrante | Ele autorizou divulgação **mediante aprovação**; o título de 43 caracteres é reescrita nossa | Fase 2, antes de publicar a peça |
+| Qual tela o palestrante vai encontrar | Projetor emprestado ao Henrique; decidir depois de retirá-lo. O Coatio pediu projetor + HDMI e tem demonstração. Texto em DIVULGACAO.md | Fase 2, privado |
+| Aprovação da foto e do título curto do palestrante | **Resolvido** em 12/10: o Coatio aprovou os dois e a peça 4 foi publicada (DEC-018) | Fase 2, antes de publicar a peça |
 | Plano B da demonstração sem internet | Não foi perguntado no formulário online | Fase 2, privado |
 
 ## Edição nº 02 — o que já saiu
@@ -82,10 +82,12 @@ Lançamento antecipado de 21/09 para **14/09**, por decisão dos organizadores (
 
 - Nome, foto e descrição do grupo trocados; grupo restrito a admins. O nome foi padronizado com C em 15/09: `TΞCHNE Talks - 2ª Edição`.
 - Mensagem de lançamento publicada com dois flyers: **convite** e **programação do dia**.
-- Link de inscrição divulgado. O controle de vagas e o encerramento em 10/10 são feitos **à mão por Arthur**, sem configuração no formulário (DEC-016).
+- Link de inscrição divulgado. O controle de vagas e o encerramento são feitos **à mão por Arthur**, sem configuração no formulário (DEC-016). O encerramento passou de 10/10 para 12/10, 23h59 (DEC-018).
 - Questionários enviados a VIRUS e Coatio.
 - Os palestrantes **não** foram anunciados no lançamento: os dois flyers dizem "Tema e convidado a divulgar".
-- **23/09 — o Coatio respondeu ao questionário** (dois dias depois do prazo) e o VIRUS não. A peça 4 passa a sair antes da peça 3, sem numerar a palestra (DEC-017). A publicação depende de ele aprovar o título encurtado e a foto tratada.
+- **23/09 — o Coatio respondeu ao questionário** (dois dias depois do prazo) e o VIRUS não. A peça 4 passa a sair antes da peça 3, sem numerar a palestra (DEC-017). Ele aprovou o título encurtado e a foto tratada, e a peça foi publicada (DEC-018).
+- **12/10 — fechamento das inscrições** (DEC-018): 17 inscritos às 20h, 3 vagas livres. O **Jonatas substitui o VIRUS** e é anunciado pela peça 3 em disparo separado do aviso de encerramento; a peça 5 foi absorvida pelo aviso. Junim Reis registra o dia.
+- **14/10 — roteiro revisto** (DEC-019): dinâmica do amassador de batatas na recepção, dinâmica do sushi e apresentação do Henrique na Mesa 360, e despedida depois das 17h com os QR codes do feedback e do Pix aberto.
 
 A reabertura do grupo estava marcada para a noite de **16/09**. O que vem depois está na aba Comunicação da planilha.
 
@@ -98,3 +100,5 @@ Copie este arquivo e [DIVULGACAO.md](DIVULGACAO.md) e troque só:
 - o número da edição no nome do grupo e nas artes.
 
 Ficam iguais: a ordem das peças, os gatilhos, a divisão entre grupo e conversa privada, o radar e a regra de aprovação. O que mudou de uma edição para outra vale uma linha no WORKLOG, para a próxima começar melhor.
+
+**Aprendizados da edição nº 02, para a próxima:** (1) o palestrante que não responde no prazo precisa de um plano B antes da última semana — aqui o anúncio da segunda palestra ficou para cinco dias do evento; (2) uma troca de palestrante exige avisar o substituído antes do anúncio; (3) o prazo de inscrição deve estar escrito uma vez só e repetido igual nas peças, porque ele foi prorrogado e há textos publicados com a data antiga.

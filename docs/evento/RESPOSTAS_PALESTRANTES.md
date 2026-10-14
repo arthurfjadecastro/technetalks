@@ -44,7 +44,9 @@ Ele também enviou uma **foto** para a divulgação: selfie em ângulo baixo dia
 3. **A palestra tem demonstração do piloto**, o que torna a tela um requisito, não um conforto.
 4. **A minibio mistura terceira e primeira pessoa** ("Atua… e sou apaixonado"). Sugestão de ajuste, a confirmar com ele: *"Designer e fundador do Caranga. Há mais de 6 anos constrói jornadas digitais, movido por soluções que geram valor para as pessoas."*
 
-### Pendências com ele
+### Pendências com ele (situação em 12/10)
+
+Resolvidas em 12/10 (DEC-018): título curto e foto aprovados, anúncio publicado, rascunho, versão final e ensaio entregues. Em aberto: a tela (depende de retirar o projetor) e o plano B da demonstração. A tabela abaixo é o registro de 23/09.
 
 | Pendência | Por quê |
 |---|---|
@@ -56,6 +58,22 @@ Ele também enviou uma **foto** para a divulgação: selfie em ângulo baixo dia
 
 Mensagem pronta para Arthur enviar em [DIVULGACAO.md](DIVULGACAO.md#retorno-ao-coatio-2309).
 
-## Francisco Figueiredo, "VIRUS" — aguardando
+## Jonatas — substituiu o VIRUS (12/10)
 
-Não respondeu até 23/09/2026. Prazo era 21/09 (DEC-016). Sem as respostas, o anúncio da palestra dele (peça 3) não sai, e continua em aberto a pergunta **V1** do questionário: o que significa "uso concorrente", expressão que apareceu nas anotações iniciais e que ninguém interpretou por conta própria (DEC-007).
+**Jonatas fala às 14h, no lugar de Francisco Figueiredo, "VIRUS"** (DEC-018). Está inscrito no formulário. Segundo Arthur, ele tem título, sinopse, minibio e foto, e entregou material e ensaio. Esses dados **ainda não foram enviados ao repositório**; a tabela abaixo se preenche com eles e libera a peça 3 ([DIVULGACAO.md](DIVULGACAO.md#peça-3--palestra-do-jonatas-1210)).
+
+| Campo | Resposta |
+|---|---|
+| Nome completo | *a registrar* |
+| Título | *a registrar* |
+| Tema | *a registrar* |
+| Sinopse | *a registrar* |
+| Minibio | *a registrar* |
+| Formato e recursos | *a registrar; o roteiro pressupõe 30 min de conteúdo + 15 de perguntas* |
+| Fotos e gravação | *a registrar, com o uso permitido* |
+
+O pedido de esclarecimento sobre "uso concorrente" (DEC-007) fica sem objeto.
+
+## Francisco Figueiredo, "VIRUS" — substituído
+
+Não respondeu ao questionário até 23/09/2026 (prazo de 21/09, DEC-016) e foi substituído pelo Jonatas (DEC-018). Não foi registrado se ele foi avisado da troca.

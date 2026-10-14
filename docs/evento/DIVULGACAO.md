@@ -126,11 +126,13 @@ O endereço completo passou a ser público nesta arte. O lembrete de 15/10 deixa
 > 17h00 Encerramento
 > 2026 · @TECHNETALKS
 
-Esta arte foi publicada sem os palestrantes. A peça 4 anuncia o Coatio; a peça 3 espera o VIRUS. Quando os dois estiverem confirmados, dá para republicar a programação com os nomes — sugestão no fim desta seção de peças.
+Esta arte foi publicada sem os palestrantes. A peça 4 anunciou o Coatio; a peça 3 anuncia o Jonatas, que substituiu o VIRUS (DEC-018). Quando os dois estiverem confirmados, dá para republicar a programação com os nomes — sugestão no fim desta seção de peças.
 
-## Peça 4 — convidado confirmado: Matheus Coatio (23/09)
+## Peça 4 — convidado confirmado: Matheus Coatio (23/09, publicada)
 
-**Esta peça sai antes da peça 3.** O Coatio respondeu ao questionário em 23/09 e o VIRUS ainda não; o anúncio não numera a palestra, para a ausência do outro convidado não parecer desistência (DEC-017). O horário de 15h continua o mesmo da programação publicada. Respostas completas em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md).
+**Publicada.** O Coatio aprovou o título curto e a foto tratada, e o anúncio saiu (confirmado por Arthur em 12/10, DEC-018). O texto abaixo fica como registro e como modelo.
+
+**Esta peça sai antes da peça 3.** O Coatio respondeu ao questionário em 23/09 e o VIRUS não respondeu (depois foi substituído pelo Jonatas); o anúncio não numera a palestra, para a ausência do outro convidado não parecer desistência (DEC-017). O horário de 15h continua o mesmo da programação publicada. Respostas completas em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md).
 
 **Texto da arte:**
 
@@ -168,42 +170,47 @@ O título completo que ele enviou tem 59 caracteres — "Da ideia à realidade: 
 > 🎟️ Inscrições abertas até 10/10, 20 vagas no total:
 > https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02
 
-## Peça 3 — palestra do VIRUS (quando as respostas chegarem)
+## Peça 3 — palestra do Jonatas (12/10)
 
-Prevista para 26/09, **parada** até o VIRUS responder ao questionário; o prazo era 21/09. Sem título e sinopse, a peça não tem conteúdo. Os colchetes se preenchem com as respostas dele.
+**Jonatas substituiu o VIRUS** na palestra das 14h (DEC-018). Arthur tem o título, a sinopse, a minibio e a foto, mas os dados ainda não estão no repositório; os colchetes se preenchem com eles. O anúncio do Coatio já saiu, então esta peça **fecha a programação**. Sai em disparo separado do aviso de encerramento das inscrições.
 
 **Texto da arte:**
 
 > **TECHNE TALKS · Nº 02 · 17/10**
 > CONVIDADO CONFIRMADO
-> **[Título da palestra do VIRUS]**
-> **FRANCISCO FIGUEIREDO**, "VIRUS"
+> **[Título da palestra do Jonatas]**
+> **[NOME COMPLETO DO JONATAS]**
 > [minibio em uma linha]
 > 14h · Sábado, 17 de outubro · Gama/DF
-> INSCRIÇÕES ATÉ 10/10 · go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02 (QR code)
+> ÚLTIMAS HORAS: INSCRIÇÕES ATÉ 12/10, 23h59 · go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02 (QR code)
 > @TECHNETALKS
 
 **Mensagem:**
 
 > E fechamos a programação do TECHNE Talks · Encontro nº 02 🤖
 >
-> Às 14h, **Francisco Figueiredo**, o VIRUS, fala sobre **[título]**.
+> Às 14h, **[nome do Jonatas]** fala sobre **[título]**.
 > [Resumo de uma ou duas frases, a partir da sinopse do questionário.]
 >
 > Com ele e o Matheus Coatio, o sábado 17/10 está completo: duas palestras, almoço, Mesa 360 e muita conversa.
 >
-> Ainda dá tempo de garantir sua vaga: inscrições até 10/10 em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02.
+> As inscrições fecham hoje, 12/10, às 23h59: https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02.
 
-## Atualização da programação (opcional, quando os dois temas estiverem confirmados)
+## Atualização da programação (opcional, com os dois temas confirmados)
 
-A peça 2 já publicada diz "tema e convidado a divulgar" nas duas palestras. Quando o VIRUS responder, vale republicar a programação com os nomes no lugar:
+A peça 2 já publicada diz "tema e convidado a divulgar" nas duas palestras. Com o Jonatas e o Coatio confirmados, vale republicar a programação com os nomes no lugar, já com o roteiro revisto em DEC-019:
 
-> 14h00 Palestra 01 — [título], com Francisco Figueiredo, "VIRUS"
+> 11h00 Recepção, apresentação do dia e dinâmica do amassador de batatas
+> 12h30 Almoço
+> 14h00 Palestra 01 — [título], com [nome do Jonatas]
 > 15h00 Palestra 02 — Da ideia à realidade: bastidores do Caranga, com Matheus Coatio
+> 15h45 Lanche
+> 16h15 Mesa 360, sorteio e fechamento
+> 17h00 Fim oficial; despedida para quem quiser ficar
 
-Republicar antes disso deixaria metade da arte ainda "a divulgar", e a peça 4 já cumpre esse papel.
+## Peça 5 — últimas vagas (06/10, não usada)
 
-## Peça 5 — últimas vagas (06/10)
+**Não usada.** O aviso de encerramento abaixo a substituiu (DEC-018). Fica como modelo para a próxima edição.
 
 **Texto da arte:**
 
@@ -220,15 +227,29 @@ Republicar antes disso deixaria metade da arte ainda "a divulgar", e a peça 4 j
 >
 > Garanta a sua em https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02. Depois de 10/10 fechamos a lista para comprar a comida certinha.
 
-## Encerramento das inscrições (10/10)
+## Aviso de encerramento das inscrições (12/10, à noite)
+
+As inscrições foram prorrogadas de 10/10 para 12/10, 23h59 (DEC-018). Disparo separado da peça 3. Restavam 3 vagas às 20h de 12/10; confirme o número antes de enviar.
+
+> Última chamada! ⏳ As inscrições do TECHNE Talks · Encontro nº 02 fecham **hoje, 12/10, às 23h59**.
+>
+> Restam [X] vagas de 20. Sábado, 17/10, chegada às 10h30, no Gama/DF. Gratuito, com almoço e lanche.
+>
+> 🎟️ https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02
+>
+> Se você já se inscreveu e não vai mais conseguir ir, avisa a gente hoje: a vaga pode ser de outra pessoa.
+
+## Inscrições encerradas (13/10)
+
+Depois do fechamento, com o número final.
 
 > Inscrições encerradas! 🙌 Somos [X] pessoas no TECHNE Talks · Encontro nº 02.
 >
-> A partir de agora fechamos a lista para acertar comida, lugares e material. Quem se inscreveu recebe o lembrete com todos os detalhes na quinta.
+> A partir de agora fechamos a lista para acertar comida, lugares e material. Quem se inscreveu recebe o lembrete com todos os detalhes na quinta, 15/10.
 >
 > Se você se inscreveu e não vai mais conseguir ir, avisa a gente hoje: a vaga pode ser de outra pessoa.
 
-## Reabertura do grupo (16/09, à noite)
+## Reabertura do grupo (16/09, à noite — feita)
 
 Enviar quando a primeira rodada de informação estiver absorvida, encerrando a fase só de admins.
 
@@ -240,9 +261,9 @@ Enviar quando a primeira rodada de informação estiver absorvida, encerrando a 
 >
 > Quer trazer alguém que não está no grupo? Chama a gente antes. A pessoa vem com você e também precisa se inscrever.
 
-## Confirmação de presença (12/10)
+## Confirmação de presença (12/10 e ao longo da semana)
 
-Mensagem privada a cada inscrito, depois do encerramento.
+Mensagem privada a cada inscrito, enviada por Arthur e Henrique hoje e repetida ao longo da semana, junto com o lembrete (DEC-018).
 
 > Oi, [nome]! Estamos fechando a lista do TECHNE Talks de sábado, 17/10. Confirma para a gente que você vem? Só responder "confirmo". 😄 Se algo mudou, sem problema: avisa que a gente libera a vaga.
 
@@ -272,11 +293,11 @@ Na próxima edição, acrescentar aqui a linha de restrição alimentar (radar e
 >
 > Vem com fome e com vontade de conversar. Até já! 👊
 
-## Convite a Guilherme Reis (Henrique)
+## Convite ao Junim Reis (Henrique) — confirmado em 12/10
 
-Enviar junto com a peça 1.
+Junim Reis registra o dia e já confirmou (DEC-018); ele substitui Guilherme Reis. O texto abaixo é o convite original, como modelo.
 
-> Guilherme, vamos fazer o segundo encontro do TECHNE Talks no sábado, 17/10, das 10h30 às 17h, aqui em casa. Topa registrar o dia em fotos e vídeos pelo celular? Sem nada profissional, só para guardar os melhores momentos. Almoço e lanche garantidos!
+> Junim, vamos fazer o segundo encontro do TECHNE Talks no sábado, 17/10, das 10h30 às 17h, aqui em casa. Topa registrar o dia em fotos e vídeos pelo celular? Sem nada profissional, só para guardar os melhores momentos. Almoço e lanche garantidos!
 
 ## Palestrantes — mensagens privadas (Arthur)
 
@@ -330,7 +351,9 @@ Enviar **antes** de publicar a peça 4: ela depende de duas aprovações dele. C
 >
 > Vamo pra cima! 🚀
 
-### Cobrança ao VIRUS (atrasado desde 21/09)
+### Cobrança ao VIRUS (sem objeto)
+
+**Sem objeto.** O VIRUS foi substituído pelo Jonatas (DEC-018), e a dúvida sobre "uso concorrente" não precisa mais ser esclarecida. Fica como registro. Se a substituição ainda não foi conversada com ele, vale uma mensagem de Arthur antes da peça 3.
 
 > Fala, VIRUS! O Coatio já mandou o questionário dele e eu vou anunciar a palestra no grupo nesta semana. 👀
 >
@@ -339,3 +362,13 @@ Enviar **antes** de publicar a peça 4: ela depende de duas aprovações dele. C
 > Uma dúvida que ficou das primeiras conversas: quando você falou em "uso concorrente" de IA, o que exatamente você quis dizer? Não quis chutar um significado e escrever errado no flyer. 😄
 >
 > Consegue até [data]? Assim eu já solto o anúncio da sua palestra logo depois.
+
+### Aviso da tela e do exercício ao Coatio (depois de retirar o projetor)
+
+Enviar assim que o projetor emprestado ao Henrique for retirado e a tela estiver decidida (DEC-018 e DEC-019).
+
+> Matheus, fechamos a tela: [projetor e telão / TV]. Você leva só o notebook; o cabo HDMI [é nosso / confirmo o adaptador que precisa].
+>
+> Sobre o exercício de 2 minutos do fim: você prefere que cada pessoa escreva no papel (a gente deixa papel e caneta à mão) ou no celular?
+>
+> E o plano B da demonstração sem internet: capturas ou um vídeo curto gravado, guardado no notebook. 🙌

@@ -4,17 +4,17 @@
 
 | Formulário | Link | Para quem | Status | Próximo passo |
 |---|---|---|---|---|
-| Palestrante VIRUS | [questionario-do-palestrante-virus](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) | Francisco Figueiredo | Enviado em 14/09 | Cobrar título, sinopse e minibio até 21/09 |
-| Palestrante Coatio | [questionario-do-palestrante-coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio) | Matheus Henrique | Enviado em 14/09 | Cobrar título, sinopse e minibio até 21/09 |
+| Palestrante VIRUS | [questionario-do-palestrante-virus](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) | Francisco Figueiredo | Enviado em 14/09; **sem objeto**, o VIRUS foi substituído pelo Jonatas (DEC-018) | Nenhum |
+| Palestrante Coatio | [questionario-do-palestrante-coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio) | Matheus Coatio | Respondido em 23/09 | Nenhum |
 | Inscrição (versão 2) | [inscricao-techne-talks-encontro-n-02](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02) | Público do grupo, organizadores e palestrantes | Divulgado em 14/09, sem mais ajustes | Arthur controla vagas e encerramento à mão |
 
 ## Etapas
 
 1. ~~Revisar e ajustar~~ / ~~Aprovar~~ — feito em 14/09: os três formulários foram aprovados na prática, com o envio aos palestrantes e a divulgação da inscrição no lançamento (DEC-015).
-2. **Sem mais ajustes no forms.app** (DEC-016). Arthur decidiu manter o formulário como está e fazer o controle à mão: confere cada inscrição recebida, conta as 20 vagas e encerra a lista em 10/10. Campos obrigatórios, país padrão, DDD, descrição, mensagem final, cores, encerramento e limite ficam como estão. A tabela abaixo permanece como referência para a próxima edição.
+2. **Sem mais ajustes no forms.app** (DEC-016). Arthur decidiu manter o formulário como está e fazer o controle à mão: confere cada inscrição recebida, conta as 20 vagas e encerra a lista. O encerramento foi prorrogado de 10/10 para 12/10, 23h59 (DEC-018). Campos obrigatórios, país padrão, DDD, descrição, mensagem final, cores, encerramento e limite ficam como estão. A tabela abaixo permanece como referência para a próxima edição.
 3. **Cobrar** (Arthur): inscrição dos palestrantes até 19/09; questionário respondido até 21/09; rascunho do material até 28/09; gravação do ensaio até 03/10 (DEC-016). Textos em [COMUNICACAO.md](COMUNICACAO.md).
-4. **Acompanhar** (Arthur): inscrições uma vez por semana até 10/10, contando as vagas restantes (base da peça 5, "últimas vagas").
-5. **Consolidar**: títulos e sinopses viram as peças 3 e 4 ([DIVULGACAO.md](DIVULGACAO.md)); em 10/10 o total de inscritos vira o quantitativo da aba Cardápio.
+4. **Acompanhar** (Arthur): inscrições até 12/10, 23h59, contando as vagas restantes. Em 12/10 às 20h eram 17 inscritos, com 3 vagas livres (DEC-018). O aviso de encerramento substituiu a peça 5.
+5. **Consolidar**: títulos e sinopses viram as peças 3 e 4 ([DIVULGACAO.md](DIVULGACAO.md)); em 13/10 o total final de inscritos vira o quantitativo da aba Cardápio.
 
 As respostas ficam no painel do forms.app. Na planilha e no repositório entram só totais e o que a organização precisa (títulos, sinopses, recursos técnicos), sem nomes nem contatos dos inscritos.
 
