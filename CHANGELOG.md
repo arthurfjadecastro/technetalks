@@ -23,6 +23,7 @@
 - Inscrições fechadas em 20 e balanço 50/50 (DEC-020); véspera e dia do evento (DEC-021): TV como tela principal, banner entregue por R$ 69,90, Pix só dentro do formulário de feedback, check-in digital pelo QR do banner. Dados do Jonathan Moura ("O Estado da IA em 2026"; fotos sim, **gravação não autorizada**) em `RESPOSTAS_PALESTRANTES.md`.
 - Novos: `docs/evento/DIA_DO_EVENTO.md` e `docs/evento/DINAMICAS.md`. `SORTEIO_E_FEEDBACK.md` reescrito: quiz de 10 perguntas e formulário de feedback de 11 perguntas, com consentimento de contato. `DIVULGACAO.md` com o lembrete final no grupo, o lembrete aos palestrantes, o aviso da TV ao Coatio e a orientação ao Junim. Planilha com 40 tarefas no Checklist e 38 peças na Comunicação.
 - Roleta em HTML com quiz decide as 2 canecas (DEC-022), no lugar do quiz do forms.app, que saiu da edição; Mesa 360 com 10 minutos de roleta. Formulário de feedback e QR codes criados, QR do check-in testado, lembretes enviados. Defeito conhecido do botão "+ Adicionar pessoa" documentado. As exportações do forms.app e as planilhas da roleta ficam fora do commit (proteção local, porque o `.gitignore` é inventariado pelo kit).
+- Roleta: o defeito do botão "+ Adicionar pessoa" foi corrigido em 17/10 e testado; o aviso de DEC-022 deixou de valer. Vídeo `videofinaljuntao.mp4` comprimido de 114 MB para 17,8 MB (`videofinaljuntao_comprimido.mp4`) para caber no limite de 100 MB do GitHub.
 
 ## 1.1.0 — Várias máquinas e assistentes (AI-004)
 

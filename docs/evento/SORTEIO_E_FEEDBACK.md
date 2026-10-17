@@ -138,4 +138,4 @@ Arquivo: [roleta/TECHNE_Talks_Roleta_Sorteio.html](../../roleta/TECHNE_Talks_Rol
 
 **Tempo:** cada giro leva cerca de 8 segundos, mais a confirmação e a pergunta. Cada erro adiciona perto de um minuto; reserve folga e, se passar dos 10 minutos, encerre com um sorteio direto.
 
-**Defeito conhecido:** o botão "+ Adicionar pessoa" cria nomes sem identificador. Com 2 ou mais adicionados à mão, a roleta pode mostrar a pessoa errada. Importe pelo arquivo. A correção está em [DIA_DO_EVENTO.md](DIA_DO_EVENTO.md).
+**Adicionar pessoa à mão:** o botão "+ Adicionar pessoa" já aceita vários nomes (defeito de identificação corrigido em 17/10).

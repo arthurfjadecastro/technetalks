@@ -8,7 +8,7 @@
 - [x] **Banner** montado, com o QR code do check-in **testado** (17/10). Lista do painel do forms.app como reserva.
 - [ ] **Espaço:** mesas extras, ventiladores cruzados, planta dos 20 lugares, café e água. Mesas e ventiladores estão prontos desde 16/10.
 - [x] **Formulário de feedback** criado, com QR code; **QR code do check-in testado**. O quiz do forms.app saiu da edição (DEC-022).
-- [ ] **Roleta** aberta no navegador da TV, com a **lista do check-in importada** e organizadores e palestrantes desmarcados. Roteiro em [SORTEIO_E_FEEDBACK.md](SORTEIO_E_FEEDBACK.md). **Não usar "+ Adicionar pessoa" mais de uma vez** (defeito conhecido).
+- [ ] **Roleta** aberta no navegador da TV, com a **lista do check-in importada** e organizadores e palestrantes desmarcados. Roteiro em [SORTEIO_E_FEEDBACK.md](SORTEIO_E_FEEDBACK.md). O botão "+ Adicionar pessoa" já funciona com vários nomes (corrigido em 17/10).
 - [ ] **Quadro de vidro** e canetas para as dinâmicas. Papel e caneta para o exercício do Coatio, se ele preferir.
 - [ ] **Junim Reis orientado:** fotos podem; **não gravar áudio nem vídeo da palestra do Jonathan**. Texto em [DIVULGACAO.md](DIVULGACAO.md).
 - [x] **Coatio avisado de que a tela é a TV**, e os dois palestrantes lembrados de chegar até 12h45. Enviados (17/10, DEC-022).
@@ -45,15 +45,9 @@
 - **20/10:** reenviar o feedback a quem não respondeu; publicar fotos e materiais autorizados. O Jonathan autorizou fotos; o Coatio autorizou fotos e gravação, com divulgação pública **só mediante aprovação dele**.
 - **24/10:** fechar o balanço, tudo dividido **50/50** (DEC-020), com os comprovantes: banner R$ 69,90, 4 canecas R$ 209,00, almoço, lanche, bebidas e café; o Pix recebido abate o custo (DEC-021). Preencher "Pago por" na aba Orçamento. Registrar os aprendizados de comunicação da edição em [COMUNICACAO.md](COMUNICACAO.md).
 
-## Correção proposta para a roleta (opcional)
+## Roleta: defeito corrigido
 
-No arquivo `roleta/TECHNE_Talks_Roleta_Sorteio.html`, a função do botão "+ Adicionar pessoa" faz `people.push({name,checked:true,out:false})`, sem `id`. A roleta localiza a pessoa sorteada por `p.id===selectedId`, e vários nomes sem `id` coincidem com o primeiro da lista. A correção é incluir um `id` único:
-
-```
-people.push({id:Date.now()+Math.random(),name,checked:true,out:false})
-```
-
-Não foi aplicada: o arquivo é de Arthur e vai ao ar hoje. Sem a correção, importe a lista pelo arquivo e use o botão no máximo uma vez.
+O botão "+ Adicionar pessoa" criava nomes sem identificador e podia mostrar a pessoa errada no desafio. Foi corrigido em 17/10 (id único por pessoa) e testado com dois nomes adicionados à mão.
 
 ## Fica para depois do evento
 
