@@ -279,7 +279,7 @@ Mensagem privada a quem confirmou.
 > ☕ Chegada às 10h30 — começamos às 11h em ponto
 > 🍝 Almoço e lanche inclusos
 > 👕 Traje casual e confortável; traga o notebook se quiser
-> 📱 Traga o celular: vai ter quiz com sorteio no final
+> 📱 Traga o celular: vai ter sorteio de 2 canecas no final
 > 📷 Vamos registrar o dia em fotos e vídeos. Se você preferir não aparecer, é só avisar a gente na chegada.
 >
 > Se não puder mais ir, avisa a gente o quanto antes para liberar a vaga.
@@ -385,8 +385,8 @@ Arte e envio com Arthur. Texto da arte e mensagem para o grupo, no lugar do lemb
 > Sábado, 17 de outubro · Gama/DF
 > 10h30 Chegada · 11h Recepção e dinâmica de abertura · 12h30 Almoço
 > 14h Palestra: Jonathan · 15h Palestra: Matheus Coatio
-> 15h45 Lanche · 16h15 Mesa 360, quiz e sorteio · 17h Despedida
-> Leve o celular carregado: tem quiz com sorteio.
+> 15h45 Lanche · 16h15 Mesa 360 e sorteio · 17h Despedida
+> Leve o celular: o check-in e o feedback são por QR code.
 > @TECHNETALKS
 
 **Mensagem:**
@@ -402,10 +402,10 @@ Arte e envio com Arthur. Texto da arte e mensagem para o grupo, no lugar do lemb
 > 14h Palestra do Jonathan
 > 15h Palestra do Matheus Coatio
 > 15h45 Lanche
-> 16h15 Mesa 360, quiz e sorteio de 2 canecas
+> 16h15 Mesa 360 e sorteio de 2 canecas
 > 17h Despedida
 >
-> 📱 Traga o celular carregado: o quiz do sorteio é por QR code.
+> 📱 Traga o celular: o check-in e o feedback são por QR code.
 > 📷 Vamos registrar o dia em fotos e vídeos. Se preferir não aparecer, avise na chegada.
 > 🍝 Almoço e lanche inclusos.
 >

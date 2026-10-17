@@ -284,3 +284,19 @@ Respostas de Arthur em 16/10 e dados da planilha de respostas do Jonathan, lida 
 **Quiz e formulário de feedback** ainda não estavam prontos na véspera; o conteúdo de ambos foi entregue em `docs/evento/SORTEIO_E_FEEDBACK.md` para Arthur montar.
 
 Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.
+
+## DEC-022 — Roleta com quiz no lugar do quiz do forms.app (17/10)
+
+Respostas de Arthur em 17/10, antes do evento. Complementa DEC-009 e DEC-021; onde houver conflito, vale esta decisão.
+
+- **Quiz do forms.app removido da edição.** As 10 perguntas de `SORTEIO_E_FEEDBACK.md` e o sorteio por pontuação não serão usados.
+- **O sorteio das 2 canecas é uma roleta em HTML com quiz**, em `roleta/TECHNE_Talks_Roleta_Sorteio.html` (arquivo único, roda offline no navegador). A roleta sorteia uma pessoa entre os presentes marcados; a pessoa confirma presença e responde **uma pergunta de múltipla escolha** (20 perguntas de tecnologia, com a ordem das alternativas embaralhada). **Acertou: leva uma caneca. Errou ou ausente: sai da disputa e a roleta gira de novo.** Para quando saem 2 vencedores, e o resultado pode ser exportado em CSV.
+- **Tempo:** os 5 minutos do quiz foram para a roleta, que passa a ter **10 minutos** na Mesa 360 (sushi 15, apresentação do Henrique 10, roleta com quiz 10, fechamento 10 = 45).
+- **Lista de participantes:** a roleta importa Excel ou CSV e aceita colunas Nome, Sobrenome ou Nome completo. O arquivo de feedback **não comprova presença**: marcar à mão quem fez check-in. Organizadores e palestrantes devem ser **desmarcados** antes de girar.
+- **Formulário de feedback e QR codes** estão criados; o **QR code do check-in** foi testado.
+- **Comunicação:** o aviso da TV ao Coatio, o lembrete final no grupo e o lembrete aos palestrantes foram enviados. O bom dia sai na manhã de 17/10.
+- **Pós-evento e "Pago por":** ficam para depois do evento. Arthur pediu que o assistente traga o esquema pós-evento quando ele retomar a conversa: agradecimento no grupo, feedback e fotos autorizadas em 20/10 e balanço 50/50 em 24/10. O pagador de canecas, banner, lanche e almoço, o recebedor do Pix e os valores reais de almoço, lanche, bebidas e café também ficam para depois.
+- **Defeito conhecido da roleta:** o botão "+ Adicionar pessoa" cria nomes sem identificador. Com 2 ou mais nomes adicionados à mão, a roleta pode mostrar a pessoa errada no desafio. **Importe a lista pelo arquivo** e use o botão no máximo uma vez. Correção de uma linha proposta em `DIA_DO_EVENTO.md`.
+- **Dados pessoais:** a planilha da pasta `roleta/` e as exportações `forms-*.xlsx` têm nomes de pessoas e ficam fora do repositório. O `.gitignore` é um recurso inventariado pelo kit e sua alteração exige AI-003, não autorizada; por isso a proteção é local, em `.git/info/exclude` desta máquina, e quem trabalhar em outra máquina deve não versionar esses arquivos.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.

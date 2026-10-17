@@ -1,15 +1,15 @@
 # TECHNE Talks · Encontro nº 02 — quiz do sorteio e formulário de feedback
 
-**Versão de 16/10/2026 · AI-002 · Base: DEC-009, DEC-014, DEC-019 e DEC-020.** Conteúdo para montar dois formulários no forms.app, o mesmo serviço da inscrição. O assistente não publica formulários. Substitui o rascunho de 14/09, que ainda falava de design thinking, UX e VIRUS.
+**Versão de 17/10/2026 · AI-002 · Base: DEC-009, DEC-014, DEC-019, DEC-020 e DEC-022.** **O quiz do forms.app não será usado nesta edição: o sorteio das 2 canecas é uma roleta em HTML com quiz próprio (DEC-022).** A seção do quiz fica como reserva para a próxima edição; o formulário de feedback segue valendo. Conteúdo para montar dois formulários no forms.app, o mesmo serviço da inscrição. O assistente não publica formulários. Substitui o rascunho de 14/09, que ainda falava de design thinking, UX e VIRUS.
 
 ## Como montar
 
-1. Crie um formulário para o quiz, com modo teste e pontuação (1 ponto por pergunta certa).
-2. Crie outro para o feedback, sem pontuação.
-3. Gere um QR code para cada link. O do quiz aparece na Mesa 360 e o do feedback, na despedida, depois das 17h. O Pix **não** tem QR code à parte: fica dentro do formulário de feedback, na mensagem final (DEC-021).
+1. O quiz do forms.app não será montado nesta edição (DEC-022).
+2. Crie o formulário de feedback, sem pontuação. Já está criado.
+3. Gere o QR code do feedback, que aparece na despedida, depois das 17h. O sorteio roda na TV, sem QR code. O Pix **não** tem QR code à parte: fica dentro do formulário de feedback, na mensagem final (DEC-021).
 4. Teste os dois pelo celular antes de dormir. Deixe os três QR codes numa pasta só.
 
-## Quiz do sorteio
+## Quiz do forms.app (reserva, não usado nesta edição)
 
 **Regra proposta:** o quiz abre depois da dinâmica do sushi e da apresentação do Henrique, dentro da Mesa 360, e fica aberto por 5 minutos. Todos os presentes respondem, menos organizadores e palestrantes. As 2 maiores pontuações ganham as canecas; em caso de empate, sorteio entre os empatados.
 
@@ -121,3 +121,21 @@ Objetivo: em 2 minutos, medir o encontro (nota e recomendação), descobrir o qu
 ## Pix aberto (DEC-021)
 
 O QR code do Pix fica **só dentro do formulário de feedback**, na mensagem final, de forma sutil e individual. Não aparece na TV nem na despedida, para ninguém ser exposto a apontar a câmera em público. O dinheiro que entrar **abate o custo desta edição** antes da divisão 50/50. A participação continua gratuita (DEC-007). O recebedor da chave não foi informado: lançar na aba Orçamento, depois do evento, o total recebido e quem recebeu.
+
+## Roleta do sorteio (DEC-022)
+
+Arquivo: [roleta/TECHNE_Talks_Roleta_Sorteio.html](../../roleta/TECHNE_Talks_Roleta_Sorteio.html). Abre em qualquer navegador moderno, sem internet, e o botão "Telão" põe em tela cheia na TV.
+
+**Como roda (10 minutos na Mesa 360):**
+
+1. **Importar a lista** (Excel `.xlsx` ou `.csv`) com as colunas Nome e Sobrenome, ou Nome completo. Se a lista tiver uma coluna de presença ("check-in", "presença", "compareceu"), ela vem marcada; senão, marque à mão quem está presente.
+2. **Desmarcar organizadores e palestrantes** (Arthur, Henrique, Jonathan, Coatio) e quem já saiu do salão.
+3. **Girar a roleta.** Ela sorteia uma pessoa; ela confirma presença ("Presente" ou "Ausente: novo sorteio").
+4. A pessoa responde **uma pergunta** de múltipla escolha (20 de tecnologia, ordem embaralhada). **Acertou: leva uma caneca. Errou: sai da disputa e a roleta gira de novo.** Para com 2 vencedores.
+5. **Exportar o resultado** (CSV) para o registro.
+
+**Cuidados:** a roleta não sabe quem é organizador, então desmarque antes. O arquivo de feedback **não comprova check-in**; use a lista do check-in digital. Um nome entra uma só vez.
+
+**Tempo:** cada giro leva cerca de 8 segundos, mais a confirmação e a pergunta. Cada erro adiciona perto de um minuto; reserve folga e, se passar dos 10 minutos, encerre com um sorteio direto.
+
+**Defeito conhecido:** o botão "+ Adicionar pessoa" cria nomes sem identificador. Com 2 ou mais adicionados à mão, a roleta pode mostrar a pessoa errada. Importe pelo arquivo. A correção está em [DIA_DO_EVENTO.md](DIA_DO_EVENTO.md).

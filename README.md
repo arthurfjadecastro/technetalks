@@ -12,6 +12,7 @@ O repositório também contém o kit reutilizável de engenharia com **Codex, Cl
 - [Textos do grupo do WhatsApp e das peças de divulgação](docs/evento/DIVULGACAO.md)
 - [Formulários online de inscrição e dos palestrantes](docs/evento/FORMULARIOS.md)
 - [Dia do evento: folha de uma página para a manhã, o dia e o depois](docs/evento/DIA_DO_EVENTO.md)
+- [Roleta do sorteio das canecas, em HTML e offline](roleta/TECHNE_Talks_Roleta_Sorteio.html)
 - [Dinâmicas do dia: amassador de batatas, sushi e backlog](docs/evento/DINAMICAS.md)
 - [Quiz do sorteio e formulário de feedback](docs/evento/SORTEIO_E_FEEDBACK.md)
 - [Questionário para os palestrantes](docs/evento/QUESTIONARIO_PALESTRANTES.md) e as [respostas recebidas](docs/evento/RESPOSTAS_PALESTRANTES.md)

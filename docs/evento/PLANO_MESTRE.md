@@ -34,7 +34,7 @@ O objetivo é aproximar pessoas de tecnologia, trocar experiências e criar cone
 | 14h45 | 15h00 | Intervalo | Troca de equipamento e preparação da palestra 2 |
 | 15h00 | 15h45 | Palestra 2 — Matheus Coatio | Bastidores do Caranga, demonstração do piloto e, no fim, um exercício de 2 minutos em que cada pessoa escreve o primeiro passo concreto da própria ideia; depois, as perguntas |
 | 15h45 | 16h15 | Lanche | Embaixo da escada, com café |
-| 16h15 | 17h00 | Mesa 360, sorteio e fechamento | Dinâmica do sushi 15 min, apresentação do Henrique 10, quiz 5, sorteio das 2 canecas e resultado 5, fechamento 10 (DEC-021) |
+| 16h15 | 17h00 | Mesa 360, sorteio e fechamento | Dinâmica do sushi 15 min, apresentação do Henrique 10, roleta com quiz para sortear as 2 canecas 10, fechamento 10 (DEC-022) |
 | 17h00 | em diante | Despedida | Fim oficial às 17h, como divulgado. Depois, informal, para quem quiser ficar: QR code do formulário de feedback. O Pix aparece só dentro do formulário (DEC-021) |
 
 Cada palestra tem 45 minutos, perguntas incluídas. A proposta para os palestrantes é 30 de conteúdo e 15 de perguntas; a troca acontece no intervalo. Se algo atrasar, encurte a Mesa 360, não o almoço nem as palestras. A dinâmica do amassador de batatas e a do sushi entraram no roteiro em 14/10 (DEC-019); a do psiquiatra segue no backlog.
@@ -102,7 +102,7 @@ As 4 canecas são 2 do sorteio, 1 de Arthur e 1 de Henrique. **Todas entram no b
 
 ## 7. Sorteio e feedback
 
-Duas canecas sorteadas por um quiz com pontuação, acessado por QR code, dentro da Mesa 360. O formulário de feedback e relacionamento vem na despedida, depois das 17h, por QR code, ou depois por e-mail/WhatsApp. O **Pix aberto** (qualquer valor, voluntário) aparece só dentro do formulário de feedback, na arte que Arthur criou, de forma individual; o valor abate o custo desta edição (DEC-021). A participação continua gratuita. O conteúdo do quiz e do formulário está pronto em SORTEIO_E_FEEDBACK.md, e Arthur os monta. Textos em [SORTEIO_E_FEEDBACK.md](SORTEIO_E_FEEDBACK.md); itens de relacionamento no backlog de [FORMULARIOS.md](FORMULARIOS.md#backlog).
+Duas canecas sorteadas por uma **roleta em HTML com quiz**, na TV, dentro da Mesa 360: a roleta escolhe uma pessoa presente, que responde uma pergunta; quem acerta leva a caneca, quem erra sai da disputa (DEC-022). O quiz do forms.app saiu da edição. O formulário de feedback e relacionamento vem na despedida, depois das 17h, por QR code, ou depois por e-mail/WhatsApp. O **Pix aberto** (qualquer valor, voluntário) aparece só dentro do formulário de feedback, na arte que Arthur criou, de forma individual; o valor abate o custo desta edição (DEC-021). A participação continua gratuita. O formulário de feedback e os QR codes estão criados. A roleta fica em `roleta/` e o roteiro de uso em SORTEIO_E_FEEDBACK.md. Textos em [SORTEIO_E_FEEDBACK.md](SORTEIO_E_FEEDBACK.md); itens de relacionamento no backlog de [FORMULARIOS.md](FORMULARIOS.md#backlog).
 
 ## 8. Riscos
 
@@ -116,6 +116,7 @@ Duas canecas sorteadas por um quiz com pontuação, acessado por QR code, dentro
 | Calor | Ventiladores cruzados testados no dia anterior |
 | Mesa 360: tema do sushi e assunto do Henrique em aberto | Tempos fechados (15 + 10 + 5 + 5 + 10 = 45). Decidir o tema do sushi e o assunto do Henrique antes das 16h15; se faltar, encurtar a dinâmica |
 | Gravação da palestra do Jonathan | **Não autorizada.** Orientar o Junim antes das 14h: fotos sim, áudio e vídeo não |
+| Roleta: nomes adicionados à mão | Defeito conhecido: com 2 ou mais nomes por "+ Adicionar pessoa", a roleta pode mostrar a pessoa errada. Importar a lista pelo arquivo e desmarcar organizadores e palestrantes antes de girar (DEC-022) |
 | Check-in digital depende da rede | Testar o QR code do banner com o celular antes das 10h30; usar a lista do painel do forms.app como reserva |
 | Restrição alimentar não perguntada | Ter uma opção simples à mão (salada, arroz, fruta) e perguntar na chegada |
 

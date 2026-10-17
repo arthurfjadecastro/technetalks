@@ -6,14 +6,13 @@
 
 Quebra-gelo para aproximar as pessoas e deixar o ambiente leve e divertido, depois do check-in e da apresentação do dia. Arthur está montando o roteiro; em 16/10 estava quase pronto. Registrar aqui objetivo, passos, tempo e material quando ele fechar.
 
-## Mesa 360, 16h15–17h — tempos aceitos em 16/10
+## Mesa 360, 16h15–17h — tempos aceitos em 16/10 e revistos em 17/10
 
 | Parte | Minutos |
 |---|---:|
 | Dinâmica do sushi (15 min: 1 + 4 + 2 + 4 + 4) | 15 |
 | Apresentação do Henrique (assunto ainda a anunciar) | 10 |
-| Quiz do QR code | 5 |
-| Sorteio e resultado | 5 |
+| Roleta com quiz (sorteio das 2 canecas, DEC-022) | 10 |
 | Fechamento | 10 |
 | **Total** | **45** |
 
