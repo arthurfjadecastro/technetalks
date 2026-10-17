@@ -86,7 +86,7 @@ Lançamento antecipado de 21/09 para **14/09**, por decisão dos organizadores (
 - Questionários enviados a VIRUS e Coatio.
 - Os palestrantes **não** foram anunciados no lançamento: os dois flyers dizem "Tema e convidado a divulgar".
 - **23/09 — o Coatio respondeu ao questionário** (dois dias depois do prazo) e o VIRUS não. A peça 4 passa a sair antes da peça 3, sem numerar a palestra (DEC-017). Ele aprovou o título encurtado e a foto tratada, e a peça foi publicada (DEC-018).
-- **12/10 — fechamento das inscrições** (DEC-018): 17 inscritos às 20h, 3 vagas livres. O **Jonatas substitui o VIRUS** e é anunciado pela peça 3 em disparo separado do aviso de encerramento; a peça 5 foi absorvida pelo aviso. Junim Reis registra o dia.
+- **12/10 — fechamento das inscrições** (DEC-018): 17 inscritos às 20h, 3 vagas livres. O **Jonathan substitui o VIRUS** e é anunciado pela peça 3 em disparo separado do aviso de encerramento; a peça 5 foi absorvida pelo aviso. Junim Reis registra o dia.
 - **14/10 — roteiro revisto** (DEC-019): dinâmica do amassador de batatas na recepção, dinâmica do sushi e apresentação do Henrique na Mesa 360, e despedida depois das 17h com os QR codes do feedback e do Pix aberto.
 
 A reabertura do grupo estava marcada para a noite de **16/09**. O que vem depois está na aba Comunicação da planilha.

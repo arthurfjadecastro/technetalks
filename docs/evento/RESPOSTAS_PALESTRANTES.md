@@ -58,22 +58,35 @@ Resolvidas em 12/10 (DEC-018): título curto e foto aprovados, anúncio publicad
 
 Mensagem pronta para Arthur enviar em [DIVULGACAO.md](DIVULGACAO.md#retorno-ao-coatio-2309).
 
-## Jonatas — substituiu o VIRUS (12/10)
+## Jonathan Moura — respondido em 08/10/2026, 15h44
 
-**Jonatas fala às 14h, no lugar de Francisco Figueiredo, "VIRUS"** (DEC-018). Está inscrito no formulário. Segundo Arthur, ele tem título, sinopse, minibio e foto, e entregou material e ensaio. Esses dados **ainda não foram enviados ao repositório**; a tabela abaixo se preenche com eles e libera a peça 3 ([DIVULGACAO.md](DIVULGACAO.md#peça-3--palestra-do-jonatas-1210)).
+**Jonathan fala às 14h, no lugar de Francisco Figueiredo, "VIRUS"** (DEC-018). No formulário ele pediu o nome **Jonathan Moura**; "Jonatas" nos registros anteriores é o mesmo palestrante. Dados lidos da planilha de respostas em 17/10 (DEC-021), sem contato pessoal.
 
 | Campo | Resposta |
 |---|---|
-| Nome completo | *a registrar* |
-| Título | *a registrar* |
-| Tema | *a registrar* |
-| Sinopse | *a registrar* |
-| Minibio | *a registrar* |
-| Formato e recursos | *a registrar; o roteiro pressupõe 30 min de conteúdo + 15 de perguntas* |
-| Fotos e gravação | *a registrar, com o uso permitido* |
+| Nome na programação | **Jonathan Moura** |
+| Título | **"O Estado da IA em 2026"** |
+| Aprendizado principal | A IA já executa trabalho real. Quem trabalha com tecnologia ganha valor ao saber dirigir agentes, verificar o resultado e decidir o que vale fazer. Segurança, energia e geopolítica passam a definir os limites |
+| Conhecimento prévio | Nenhum |
+| Minibio | Principal Data & AI Lead (LATAM) na GFT e professor de pós-graduação em Engenharia de Dados, Big Data e Machine Learning Engineering no CEUB. Mestre em Computação e IA pela UnB, com extensão em computação de alto desempenho e formação de Sargento de Material Bélico no Exército, e mais de 10 anos em dados e machine learning |
+| Formato | Só slides; **sem demonstração** |
+| Envolvimento do público | Duas perguntas de mão levantada no início (quem usa agentes de IA todo dia; quem acha que a IA vai tirar o seu emprego), com a segunda retomada no bloco de empregos; pausas de 1 minuto, uma no meio e uma antes do fecho |
+| 30 + 15 minutos | De acordo |
+| Perguntas | **Somente ao final** |
+| Expressão do tema | "A IA já trabalha com a gente." |
+| Recursos | Notebook ou monitor/tela para os slides. A TV atende |
+| Horário 14h–14h45 | Sim |
+| Materiais aos participantes | Sim, em canal privado |
+| Fotos | **Autorizadas** |
+| Gravação em áudio ou vídeo | **NÃO autorizada** |
+| Informação adicional | Em português; baseada no relatório publicado em 8 de outubro de 2026. Os números sobre o Brasil vêm de reportagens públicas de 2025, e ele os atualiza antes do evento. Inclui percepções dele |
 
-O pedido de esclarecimento sobre "uso concorrente" (DEC-007) fica sem objeto.
+**Sinopse, íntegra:**
+
+> Um panorama do State of AI Report 2026, traduzido para quem trabalha com tecnologia. A palestra mostra onde está a corrida entre os laboratórios de IA, de onde vem a receita bilionária e o que isso exige de infraestrutura. Em seguida, trata de agentes, skills, memória e squads autônomas, do fim do SaaS tradicional e do auto-aperfeiçoamento recursivo da IA, com seus riscos. Passa por avanços em matemática, medicamentos e robótica, pelo que os dados dizem sobre empregos, e por soberania, guerra tecnológica e a posição do Brasil.
+
+**Regra para o dia:** ninguém grava áudio nem vídeo da palestra do Jonathan, inclusive quem faz o registro do dia. Fotos podem. As perguntas de mão levantada e as pausas de 1 minuto entram nos 30 minutos de conteúdo.
 
 ## Francisco Figueiredo, "VIRUS" — substituído
 
-Não respondeu ao questionário até 23/09/2026 (prazo de 21/09, DEC-016) e foi substituído pelo Jonatas (DEC-018). Não foi registrado se ele foi avisado da troca.
+Não respondeu ao questionário até 23/09/2026 (prazo de 21/09, DEC-016) e foi substituído pelo Jonathan Moura (DEC-018). Foi avisado da troca (14/10, DEC-020).

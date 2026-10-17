@@ -126,13 +126,13 @@ O endereço completo passou a ser público nesta arte. O lembrete de 15/10 deixa
 > 17h00 Encerramento
 > 2026 · @TECHNETALKS
 
-Esta arte foi publicada sem os palestrantes. A peça 4 anunciou o Coatio; a peça 3 anuncia o Jonatas, que substituiu o VIRUS (DEC-018). Quando os dois estiverem confirmados, dá para republicar a programação com os nomes — sugestão no fim desta seção de peças.
+Esta arte foi publicada sem os palestrantes. A peça 4 anunciou o Coatio; a peça 3 anuncia o Jonathan, que substituiu o VIRUS (DEC-018). Quando os dois estiverem confirmados, dá para republicar a programação com os nomes — sugestão no fim desta seção de peças.
 
 ## Peça 4 — convidado confirmado: Matheus Coatio (23/09, publicada)
 
 **Publicada.** O Coatio aprovou o título curto e a foto tratada, e o anúncio saiu (confirmado por Arthur em 12/10, DEC-018). O texto abaixo fica como registro e como modelo.
 
-**Esta peça sai antes da peça 3.** O Coatio respondeu ao questionário em 23/09 e o VIRUS não respondeu (depois foi substituído pelo Jonatas); o anúncio não numera a palestra, para a ausência do outro convidado não parecer desistência (DEC-017). O horário de 15h continua o mesmo da programação publicada. Respostas completas em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md).
+**Esta peça sai antes da peça 3.** O Coatio respondeu ao questionário em 23/09 e o VIRUS não respondeu (depois foi substituído pelo Jonathan); o anúncio não numera a palestra, para a ausência do outro convidado não parecer desistência (DEC-017). O horário de 15h continua o mesmo da programação publicada. Respostas completas em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md).
 
 **Texto da arte:**
 
@@ -170,17 +170,19 @@ O título completo que ele enviou tem 59 caracteres — "Da ideia à realidade: 
 > 🎟️ Inscrições abertas até 10/10, 20 vagas no total:
 > https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02
 
-## Peça 3 — palestra do Jonatas (12/10)
+## Peça 3 — palestra do Jonathan Moura (12/10, publicada)
 
-**Jonatas substituiu o VIRUS** na palestra das 14h (DEC-018). Arthur tem o título, a sinopse, a minibio e a foto, mas os dados ainda não estão no repositório; os colchetes se preenchem com eles. O anúncio do Coatio já saiu, então esta peça **fecha a programação**. Sai em disparo separado do aviso de encerramento das inscrições.
+**Publicada.** Arthur criou a arte e o texto (DEC-020); o que saiu é a versão dele. O texto abaixo é o modelo preenchido com os dados do formulário do Jonathan.
+
+**Jonathan Moura substituiu o VIRUS** na palestra das 14h (DEC-018). Dados em [RESPOSTAS_PALESTRANTES.md](RESPOSTAS_PALESTRANTES.md). O anúncio do Coatio já tinha saído, então esta peça **fechou a programação**, em disparo separado do aviso de encerramento das inscrições.
 
 **Texto da arte:**
 
 > **TECHNE TALKS · Nº 02 · 17/10**
 > CONVIDADO CONFIRMADO
-> **[Título da palestra do Jonatas]**
-> **[NOME COMPLETO DO JONATAS]**
-> [minibio em uma linha]
+> **O Estado da IA em 2026**
+> **JONATHAN MOURA**
+> Principal Data & AI Lead (LATAM) na GFT e professor de pós-graduação no CEUB
 > 14h · Sábado, 17 de outubro · Gama/DF
 > ÚLTIMAS HORAS: INSCRIÇÕES ATÉ 12/10, 23h59 · go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02 (QR code)
 > @TECHNETALKS
@@ -189,8 +191,8 @@ O título completo que ele enviou tem 59 caracteres — "Da ideia à realidade: 
 
 > E fechamos a programação do TECHNE Talks · Encontro nº 02 🤖
 >
-> Às 14h, **[nome do Jonatas]** fala sobre **[título]**.
-> [Resumo de uma ou duas frases, a partir da sinopse do questionário.]
+> Às 14h, **Jonathan Moura** — Principal Data & AI Lead (LATAM) na GFT e professor de pós-graduação no CEUB — fala sobre **O Estado da IA em 2026**.
+> Um panorama do State of AI Report 2026, traduzido para quem trabalha com tecnologia: agentes de IA, o que isso muda no trabalho e o que os dados dizem sobre empregos.
 >
 > Com ele e o Matheus Coatio, o sábado 17/10 está completo: duas palestras, almoço, Mesa 360 e muita conversa.
 >
@@ -198,11 +200,11 @@ O título completo que ele enviou tem 59 caracteres — "Da ideia à realidade: 
 
 ## Atualização da programação (opcional, com os dois temas confirmados)
 
-A peça 2 já publicada diz "tema e convidado a divulgar" nas duas palestras. Com o Jonatas e o Coatio confirmados, vale republicar a programação com os nomes no lugar, já com o roteiro revisto em DEC-019:
+A peça 2 já publicada diz "tema e convidado a divulgar" nas duas palestras. Com o Jonathan e o Coatio confirmados, vale republicar a programação com os nomes no lugar, já com o roteiro revisto em DEC-019:
 
 > 11h00 Recepção, apresentação do dia e dinâmica do amassador de batatas
 > 12h30 Almoço
-> 14h00 Palestra 01 — [título], com [nome do Jonatas]
+> 14h00 Palestra 01 — O Estado da IA em 2026, com Jonathan Moura
 > 15h00 Palestra 02 — Da ideia à realidade: bastidores do Caranga, com Matheus Coatio
 > 15h45 Lanche
 > 16h15 Mesa 360, sorteio e fechamento
@@ -353,7 +355,7 @@ Enviar **antes** de publicar a peça 4: ela depende de duas aprovações dele. C
 
 ### Cobrança ao VIRUS (sem objeto)
 
-**Sem objeto.** O VIRUS foi substituído pelo Jonatas (DEC-018), e a dúvida sobre "uso concorrente" não precisa mais ser esclarecida. Fica como registro. Se a substituição ainda não foi conversada com ele, vale uma mensagem de Arthur antes da peça 3.
+**Sem objeto.** O VIRUS foi substituído pelo Jonathan (DEC-018), e a dúvida sobre "uso concorrente" não precisa mais ser esclarecida. Fica como registro. Se a substituição ainda não foi conversada com ele, vale uma mensagem de Arthur antes da peça 3.
 
 > Fala, VIRUS! O Coatio já mandou o questionário dele e eu vou anunciar a palestra no grupo nesta semana. 👀
 >
@@ -363,12 +365,67 @@ Enviar **antes** de publicar a peça 4: ela depende de duas aprovações dele. C
 >
 > Consegue até [data]? Assim eu já solto o anúncio da sua palestra logo depois.
 
-### Aviso da tela e do exercício ao Coatio (depois de retirar o projetor)
+### Aviso da tela ao Coatio: a TV vai ser a tela (enviar hoje, 16/10)
 
-Enviar assim que o projetor emprestado ao Henrique for retirado e a tela estiver decidida (DEC-018 e DEC-019).
+O projetor emprestado ao Henrique não foi retirado, então a **TV vira a tela principal** (regra de DEC-009, confirmada por Arthur em 16/10). O Coatio pediu projetor e HDMI e tem demonstração do piloto: avisar hoje.
 
-> Matheus, fechamos a tela: [projetor e telão / TV]. Você leva só o notebook; o cabo HDMI [é nosso / confirmo o adaptador que precisa].
+> Matheus, mudança de tela para amanhã: o projetor não chegou, então a demonstração vai na **TV**, ligada por HDMI no seu notebook. 🙌
 >
-> Sobre o exercício de 2 minutos do fim: você prefere que cada pessoa escreva no papel (a gente deixa papel e caneta à mão) ou no celular?
+> Duas coisas que ajudam: deixa o app e os slides com **fonte e botões bem grandes**, porque texto pequeno some na TV; e deixa o **plano B sem internet** (capturas ou um vídeo curto) guardado no notebook.
 >
-> E o plano B da demonstração sem internet: capturas ou um vídeo curto gravado, guardado no notebook. 🙌
+> Chega até 13h? Almoçamos juntos e, às 13h45, testamos o cabo com o seu notebook, antes da sua palestra das 15h. E sobre o exercício de 2 minutos do fim: papel e caneta ou o celular de cada um?
+
+## Lembrete final no grupo, com o cronograma (16/10, à noite)
+
+Arte e envio com Arthur. Texto da arte e mensagem para o grupo, no lugar do lembrete privado de 15/10, que fica para quem não estiver no grupo.
+
+**Texto da arte:**
+
+> **TECHNE TALKS · Nº 02 · É AMANHÃ**
+> Sábado, 17 de outubro · Gama/DF
+> 10h30 Chegada · 11h Recepção e dinâmica de abertura · 12h30 Almoço
+> 14h Palestra: Jonathan · 15h Palestra: Matheus Coatio
+> 15h45 Lanche · 16h15 Mesa 360, quiz e sorteio · 17h Despedida
+> Leve o celular carregado: tem quiz com sorteio.
+> @TECHNETALKS
+
+**Mensagem:**
+
+> É amanhã! 🚀 TECHNE Talks · Encontro nº 02, sábado, 17/10.
+>
+> 📍 Residencial Alvorada, Casa 18 — Rua JK, 07, Ponte Alta Norte, Gama/DF
+> ⏰ Chegada a partir das 10h30. Começamos às 11h em ponto, então chegue cedo para o check-in e a dinâmica de abertura.
+>
+> 🗓️ O dia:
+> 11h Recepção e dinâmica de abertura
+> 12h30 Almoço
+> 14h Palestra do Jonathan
+> 15h Palestra do Matheus Coatio
+> 15h45 Lanche
+> 16h15 Mesa 360, quiz e sorteio de 2 canecas
+> 17h Despedida
+>
+> 📱 Traga o celular carregado: o quiz do sorteio é por QR code.
+> 📷 Vamos registrar o dia em fotos e vídeos. Se preferir não aparecer, avise na chegada.
+> 🍝 Almoço e lanche inclusos.
+>
+> Se não puder mais ir, avise agora para a gente liberar a vaga. Até amanhã! 👊
+
+## Lembrete aos palestrantes: chegar com antecedência (16/10, à noite)
+
+Mensagem privada de Arthur a Jonathan e Coatio. Chegar até 12h45 permite almoçar com o grupo e testar o equipamento na janela de 13h30 a 14h.
+
+> [Nome], é amanhã! 🎉 Sua palestra é às [14h / 15h], na TV, com 45 minutos: 30 de conteúdo e 15 de perguntas.
+>
+> Chega até **12h45**: almoçamos juntos e testamos notebook, cabo e tela com o seu material real às [13h30 / 13h45].
+>
+> Traz: notebook e carregador, adaptador de vídeo se o seu notebook precisar, o material também em pendrive ou na nuvem, e a versão offline da demonstração, se tiver.
+>
+> O dia: 11h recepção · 12h30 almoço · 14h Jonathan · 15h Matheus Coatio · 15h45 lanche · 16h15 Mesa 360 e sorteio · 17h despedida.
+
+## Orientação ao Junim Reis sobre o registro do dia (Arthur ou Henrique, 17/10)
+
+O Junim registra o dia em fotos e vídeos pelo celular. Cada palestrante autorizou de um jeito, e a regra tem de chegar a ele antes das 14h.
+
+> Junim, obrigado por registrar o dia! 🙌 Uma regra importante: o **Jonathan não autorizou gravação de áudio nem de vídeo da palestra dele** (14h). Pode fazer **fotos**, mas nada de filmar. O **Matheus Coatio** autorizou foto e vídeo (15h), mas qualquer divulgação pública precisa da aprovação dele. Recepção, almoço, lanche e Mesa 360 podem ser filmados normalmente. Quem pedir para não aparecer, respeite. Valeu!
+

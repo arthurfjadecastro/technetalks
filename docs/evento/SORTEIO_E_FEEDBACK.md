@@ -1,22 +1,19 @@
 # TECHNE Talks · Encontro nº 02 — quiz do sorteio e formulário de feedback
 
-**Rascunho de 14/09/2026, atualizado em 14/10 · AI-002 · Base: DEC-009 e DEC-019.** Conteúdo para montar dois formulários online, por exemplo no Google Forms. O assistente não publica formulários. Revisem as regras propostas antes de usar.
+**Versão de 16/10/2026 · AI-002 · Base: DEC-009, DEC-014, DEC-019 e DEC-020.** Conteúdo para montar dois formulários no forms.app, o mesmo serviço da inscrição. O assistente não publica formulários. Substitui o rascunho de 14/09, que ainda falava de design thinking, UX e VIRUS.
 
 ## Como montar
 
-1. Crie um formulário para o quiz e ative o modo **teste** (no Google Forms: Configurações → "Transformar em teste"). Marque a resposta certa e 1 ponto em cada pergunta. Assim a pontuação sai automática.
-2. Crie outro formulário para o feedback, sem pontuação e sem coleta de e-mail.
-3. Gere um QR code para cada link (o Chrome tem a opção "Criar QR code" no menu de compartilhar; qualquer gerador serve) e mostre na tela ou imprima.
-4. Teste os dois pelo celular antes de 16/10. Arthur monta os dois (DEC-018), com prazo até 14/10.
-5. O QR code do quiz aparece na Mesa 360; o do formulário de feedback e o do Pix aberto, na despedida, depois das 17h (DEC-019).
+1. Crie um formulário para o quiz, com modo teste e pontuação (1 ponto por pergunta certa).
+2. Crie outro para o feedback, sem pontuação.
+3. Gere um QR code para cada link. O do quiz aparece na Mesa 360 e o do feedback, na despedida, depois das 17h. O Pix **não** tem QR code à parte: fica dentro do formulário de feedback, na mensagem final (DEC-021).
+4. Teste os dois pelo celular antes de dormir. Deixe os três QR codes numa pasta só.
 
 ## Quiz do sorteio
 
-**Regra proposta:** o quiz abre depois da dinâmica do sushi e da apresentação do Henrique, dentro da Mesa 360, e fica aberto por 5 minutos (os tempos ainda serão definidos, DEC-019). Todos os presentes podem responder, menos organizadores e palestrantes. As 2 maiores pontuações ganham as canecas; em caso de empate, sorteio entre os empatados.
+**Regra proposta:** o quiz abre depois da dinâmica do sushi e da apresentação do Henrique, dentro da Mesa 360, e fica aberto por 5 minutos. Todos os presentes respondem, menos organizadores e palestrantes. As 2 maiores pontuações ganham as canecas; em caso de empate, sorteio entre os empatados.
 
 **Campo obrigatório:** Seu nome (como você se apresentou hoje).
-
-As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a cada palestrante junto com o material de apoio (até 21/09) ou escrevam a partir deles.
 
 **1. Qual é o nome do aplicativo apresentado pelo Coatio?**
 - CARANGA ✅
@@ -30,103 +27,97 @@ As perguntas 7 e 8 dependem do conteúdo das palestras. Peçam uma pergunta a ca
 - 15h
 - 16h15
 
-**3. Como se chama a conversa em que todo mundo participou no fim do dia?**
+**3. Como se chama a conversa em grupo no fim do dia?**
 - Mesa redonda
 - Mesa 360 ✅
 - Roda viva
 - Painel aberto
 
-**4. Qual foi o tema da palestra das 14h, do Jonatas?**
-- [tema da palestra do Jonatas] ✅
-- [alternativa]
-- [alternativa]
-- [alternativa]
-
-**5. No design thinking, o processo começa por…**
-- Escolher a tecnologia
-- Entender as pessoas e o problema ✅
-- Desenhar o logotipo
-- Programar o protótipo
-
-**6. UX (experiência do usuário) trata principalmente de…**
-- Cores e fontes da tela
-- Como é a experiência completa da pessoa ao usar o produto ✅
-- O código do servidor
-- A velocidade da internet
-
-**7. [Pergunta sobre a palestra do Jonatas]**
-- [alternativa correta] ✅
-- [alternativa]
-- [alternativa]
-- [alternativa]
-
-**8. [Pergunta sobre a palestra do Coatio]**
-- [alternativa correta] ✅
-- [alternativa]
-- [alternativa]
-- [alternativa]
-
-**9. Uma boa prática ao usar IA generativa no trabalho é…**
-- Colar dados sensíveis de clientes para ter respostas melhores
-- Revisar a resposta antes de usar ✅
-- Aceitar a primeira resposta sem ler
-- Nunca usar IA em nada
-
-**10. Quantas pessoas, no máximo, cabem neste encontro?**
+**4. Quantas pessoas, no máximo, cabiam neste encontro?**
 - 11
 - 16
 - 20 ✅
 - 30
 
-Se as perguntas 7 e 8 não ficarem prontas, removam as duas: o quiz funciona com 8 perguntas.
+**5. Segundo o Coatio, tirar uma ideia do papel depende mais de…**
+- Ter o plano perfeito antes de começar
+- Começar pequeno, testar com pessoas reais e ajustar a rota ✅
+- Ter muito dinheiro
+- Esperar o momento certo
+
+**6. O que o Coatio pediu que cada pessoa fizesse no exercício final?**
+- Escrever o primeiro passo concreto da semana ✅
+- Desenhar um logotipo
+- Montar um plano de negócios
+- Gravar um vídeo de apresentação
+
+**7. Na dinâmica do sushi, qual é a ordem recomendada para usar a IA?**
+- Primeiro você pensa e responde; depois a IA complementa e você a questiona ✅
+- Perguntar à IA primeiro e copiar a resposta
+- Deixar a IA decidir quando houver dúvida
+- Usar a IA só quando não souber nada do assunto
+
+**8. Uma boa prática ao usar IA generativa no trabalho é…**
+- Colar dados sensíveis de clientes para ter respostas melhores
+- Revisar a resposta antes de usar ✅
+- Aceitar a primeira resposta sem ler
+- Nunca usar IA em nada
+
+**9. Segundo o Jonathan, em que quem trabalha com tecnologia ganha valor hoje?**
+- Digitar mais rápido do que a IA
+- Saber dirigir agentes de IA, verificar o resultado e decidir o que vale fazer ✅
+- Evitar o uso de IA no trabalho
+- Decorar a documentação das ferramentas
+
+**10. Em que relatório se baseia a palestra do Jonathan?**
+- State of AI Report 2026 ✅
+- Relatório Anual da OCDE sobre Trabalho
+- Censo Brasileiro de Tecnologia
+- Índice Global de Startups
+
+O quiz fica com 10 perguntas. Se precisar encurtar, tire as perguntas 2 e 4, que são as mais simples.
 
 ## Formulário de feedback
 
-> **Backlog (DEC-014):** este rascunho vira o formulário de feedback e relacionamento. Antes de montar, acrescente os itens de relacionamento listados em [FORMULARIOS.md](FORMULARIOS.md#backlog): área ou momento profissional, como conheceu, expectativa, participação no primeiro encontro, autorização de contato e recomendação. Envio no encerramento, por QR code, ou depois por e-mail/WhatsApp.
+Objetivo: em 2 minutos, medir o encontro (nota e recomendação), descobrir o que a comunidade quer e quem ela é, e deixar uma base de contato **consentida** para as próximas edições, para apoio e para patrocínio. Quase tudo é clique; só as duas primeiras perguntas são obrigatórias.
 
-**Introdução do formulário:**
+**Introdução:**
 
-> Obrigado por participar do TECHNE Talks · Encontro nº 02! Leva 2 minutos e é anônimo. Suas respostas vão definir como será o próximo.
+> Obrigado por estar no TECHNE Talks · Encontro nº 02! Leva 2 minutos e ajuda a decidir como será o próximo. Só as duas primeiras perguntas são obrigatórias. Seus dados de contato só são usados se você deixar.
 
-**1. De 1 a 5, como foi o encontro no geral?** (escala 1–5, obrigatória)
+**O encontro de hoje**
 
-**2. Dê uma nota de 1 a 5 para cada parte:** (grade, opcional)
+1. **De 1 a 5, como foi o encontro no geral?** (obrigatória)
+2. **De 0 a 10, o quanto você recomendaria o TECHNE Talks a um amigo?** (obrigatória; base do NPS)
+3. **O que mais valeu a pena?** (até 2): Palestra do Jonathan · Palestra do Matheus Coatio · Mesa 360 · Dinâmicas (amassador de batatas e sushi) · Conversas e networking · Almoço e lanche · O espaço
+4. **O que tornaria o próximo ainda melhor?** (resposta curta, opcional)
 
-| Parte | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| Recepção e dinâmica do amassador de batatas | | | | | |
-| Palestra do Jonatas | | | | | |
-| Palestra do Coatio — bastidores do Caranga | | | | | |
-| Mesa 360 e dinâmica do sushi | | | | | |
-| Almoço e lanche | | | | | |
-| Espaço (conforto, ventilação, som e imagem) | | | | | |
+**O próximo encontro**
 
-**3. O horário de 10h30 às 17h funcionou para você?**
-- Estava bom
-- Longo demais
-- Poderia ser mais longo
+5. **Que temas você quer ver?** (até 3): IA no dia a dia · Produto e startups · Design e UX · Carreira em tecnologia · Dados · Desenvolvimento de software · Negócios, vendas e marketing · Outro
+6. **Os encontros têm custo (comida, espaço, materiais). Que contribuição voluntária por pessoa você acharia justa?** Prefiro gratuito · Até R$ 20 · R$ 20 a 50 · R$ 50 a 100 · Depende da programação
 
-**4. O que você mais gostou?** (resposta curta)
+**Sobre você** (opcional; mostra quem é a comunidade)
 
-**5. O que podemos melhorar no próximo?** (parágrafo)
+7. **Seu momento profissional:** Estudante · Início de carreira · Profissional de tecnologia · Liderança ou gestão · Fundador(a) ou empreendedor(a) · Outro
+8. **Como você conheceu o TECHNE Talks?** Convite direto · Grupo de WhatsApp · Indicação de amigo · Redes sociais · Já participei da edição nº 1
 
-**6. Você viria de novo?**
-- Sim
-- Talvez
-- Não
+**Continuar em contato**
 
-**7. Que tema você gostaria de ver no próximo encontro?** (resposta curta)
+9. **Quer fazer parte?** (múltipla): Palestrar · Ajudar na organização · Indicar um palestrante · Apoiar ou patrocinar · Divulgar na minha rede · Só participar
+10. **Deixe seu contato** (opcional): nome e WhatsApp ou e-mail.
+    - ☐ *Autorizo o TECHNE Talks a entrar em contato sobre as próximas edições. Posso pedir para sair a qualquer momento.* (obrigatória se a pessoa preencher o contato)
+11. **Uma frase sobre o encontro** (opcional).
+    - ☐ *Autorizo usar esta frase, com meu primeiro nome, na divulgação.*
 
-**8. Quer ajudar no próximo — palestrando, organizando ou indicando alguém?** (opcional)
-- Quero palestrar
-- Quero ajudar na organização
-- Tenho uma indicação
-- Agora não
+**Fim do formulário**, na mensagem de agradecimento, a arte do **Pix aberto** que Arthur criou, qualquer valor, opcional. A pessoa paga individualmente, no próprio celular, sem ninguém apontar a câmera em público (DEC-021). Texto sugerido:
 
-**9. Se quiser que a gente fale com você sobre a pergunta 8, deixe seu nome.** (opcional; é o único campo que identifica quem respondeu)
+> Obrigado! 🙌 Se quiser ajudar o TECHNE Talks, qualquer valor ajuda a pagar a comida e os materiais deste encontro. É totalmente opcional. [arte com o QR code do Pix]
 
-## Pix aberto na despedida (a decidir)
+**Por que estas perguntas:** a 1 e a 2 medem a satisfação e dão o NPS; a 3 diz o que repetir; a 5 e a 6 orientam a programação e o modelo de custeio; a 7 e a 8 mostram o perfil e o canal que traz gente, que é o que um apoiador pergunta primeiro; a 9 e a 10 formam a lista de contato com consentimento. Os dados pessoais ficam no painel do forms.app, nunca no repositório.
 
-Depois das 17h, o QR code do formulário de feedback aparece junto com o **QR code do Pix aberto** (patron): a pessoa envia o valor que quiser, sem obrigação. Arthur já conversou com o Henrique, e falta decidir como será a dinâmica (DEC-019). A participação continua gratuita (DEC-007). Sugestão para o fim do formulário de feedback, a confirmar:
+**Ficaram de fora, para a próxima edição ou para um segundo envio:** área principal de atuação, formato preferido, frequência ideal, dia e horário preferidos, se foi a primeira vez, e nota por parte do evento. O backlog de relacionamento de [FORMULARIOS.md](FORMULARIOS.md#backlog) continua valendo para esses itens.
 
-> Quer ajudar o TECHNE Talks a continuar? Se quiser, qualquer valor ajuda a pagar a comida e os materiais dos próximos encontros. É totalmente opcional. [QR code do Pix]
+## Pix aberto (DEC-021)
+
+O QR code do Pix fica **só dentro do formulário de feedback**, na mensagem final, de forma sutil e individual. Não aparece na TV nem na despedida, para ninguém ser exposto a apontar a câmera em público. O dinheiro que entrar **abate o custo desta edição** antes da divisão 50/50. A participação continua gratuita (DEC-007). O recebedor da chave não foi informado: lançar na aba Orçamento, depois do evento, o total recebido e quem recebeu.

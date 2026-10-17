@@ -4,7 +4,7 @@
 
 | Formulário | Link | Para quem | Status | Próximo passo |
 |---|---|---|---|---|
-| Palestrante VIRUS | [questionario-do-palestrante-virus](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) | Francisco Figueiredo | Enviado em 14/09; **sem objeto**, o VIRUS foi substituído pelo Jonatas (DEC-018) | Nenhum |
+| Palestrante VIRUS | [questionario-do-palestrante-virus](https://go.forms.app/arthurdecastro/questionario-do-palestrante-virus) | Francisco Figueiredo | Enviado em 14/09; **sem objeto**, o VIRUS foi substituído pelo Jonathan (DEC-018) | Nenhum |
 | Palestrante Coatio | [questionario-do-palestrante-coatio](https://go.forms.app/arthurdecastro/questionario-do-palestrante-coatio) | Matheus Coatio | Respondido em 23/09 | Nenhum |
 | Inscrição (versão 2) | [inscricao-techne-talks-encontro-n-02](https://go.forms.app/arthurdecastro/inscricao-techne-talks-encontro-n-02) | Público do grupo, organizadores e palestrantes | Divulgado em 14/09, sem mais ajustes | Arthur controla vagas e encerramento à mão |
 

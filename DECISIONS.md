@@ -247,3 +247,40 @@ Em 2026-10-14, Arthur reviu o cronograma do dia. Complementa DEC-009 e DEC-018; 
 - **Exercício de 2 minutos do Coatio:** é o exercício que ele propôs para o fim da palestra, dentro dos 45 minutos dele e antes das perguntas — cada pessoa escreve o primeiro passo concreto da própria ideia. Falta combinar com ele se é no papel ou no celular.
 
 Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.
+
+## DEC-020 — Inscrições fechadas em 20, balanço 50/50 e situação de 14/10
+
+Respostas de Arthur em 2026-10-14 às pendências de DEC-018 e DEC-019, registradas em 16/10. Complementa DEC-018; onde houver conflito, vale esta decisão.
+
+- **Inscrições:** fecharam com **20 inscritos, lotado**. O número final substitui os 17 de 12/10 às 20h, e o cenário de compra é o de **20 pessoas**.
+- **Comunicação:** a peça 3 (Jonatas) e o aviso de encerramento **saíram**. Arthur criou a arte e o texto da peça 3. Os dados do Jonatas não foram enviados ao repositório.
+- **Lanche:** encomendado.
+- **Projetor:** em 14/10 ainda não tinha sido retirado nem testado; a decisão da tela e o aviso ao Coatio seguiam pendentes.
+- **VIRUS:** foi avisado da troca.
+- **Balanço:** tudo é dividido **50/50 depois do evento**, e as **2 canecas pessoais entram** no balanço (as 4 canecas, R$ 209,00). Resolve a pendência de DEC-018. Pela soma anotada de R$ 813,50, sem a entrega do banner, cada parte seria de R$ 406,75; os valores reais substituem as previsões à medida que forem lançados.
+
+Pendente nesta decisão: quem pagou as canecas e o lanche, e se Agda e Junim Reis estão entre os 20 inscritos ou se almoçam fora da contagem.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.
+
+## DEC-021 — Véspera e dia do evento (16 e 17/10)
+
+Respostas de Arthur em 16/10 e dados da planilha de respostas do Jonathan, lida em 17/10. Complementa DEC-018 a DEC-020; onde houver conflito, vale esta decisão.
+
+**Palestrante da palestra 1.** O nome que ele pediu para a programação é **Jonathan Moura**; "Jonatas" nos registros anteriores é o mesmo palestrante. Título: **"O Estado da IA em 2026"**, baseado no State of AI Report 2026. Formato: só slides, sem demonstração, perguntas somente ao final. Fotos autorizadas, materiais aos participantes em canal privado autorizados, e **a gravação em áudio ou vídeo da palestra NÃO é autorizada**. Ninguém grava a palestra dele, inclusive quem faz o registro do dia. O Coatio autorizou fotos e gravação, com divulgação pública mediante aprovação dele.
+
+**Tela e equipamento.** O projetor não foi retirado, então a **TV é a tela principal** (regra de DEC-009). O Coatio deve ser avisado; o teste de notebook, cabo e TV acontece no dia, às 13h30 com o Jonathan e às 13h45 com o Coatio, e os dois chegam até 12h45.
+
+**Material.** O banner chegou: R$ 54,90 mais R$ 15,00 de entrega, **R$ 69,90**. Mesas extras, ventiladores e compras do almoço estão prontos. A Agda ajudou no almoço e **não estará presente**; o Junim Reis está entre os 20 inscritos. O lanche, encomendado para 20, é retirado perto das 15h; o responsável não foi informado.
+
+**Check-in** digital: QR code no banner leva a um formulário do forms.app, com a lista do painel como reserva.
+
+**Mesa 360 (16h15–17h):** dinâmica do sushi 15 min, apresentação do Henrique 10, quiz 5, sorteio e resultado 5, fechamento 10. O assunto da apresentação do Henrique segue a anunciar.
+
+**Dinâmica do sushi:** a IA vem **depois** das pessoas. Antes do evento guarda-se a resposta da IA sobre um tema da área do grupo; no evento o grupo responde primeiro, e compara-se. O tema ficou em aberto, em backlog por último, e deve ser decidido antes das 16h15. A dinâmica do amassador de batatas estava quase pronta.
+
+**Pix aberto:** a arte criada por Arthur vai **só dentro do formulário de feedback**, de forma individual; **não** aparece na TV nem na despedida. O valor recebido **abate o custo desta edição** antes da divisão 50/50. O recebedor não foi informado. Substitui, em DEC-019, o QR code do Pix na despedida.
+
+**Quiz e formulário de feedback** ainda não estavam prontos na véspera; o conteúdo de ambos foi entregue em `docs/evento/SORTEIO_E_FEEDBACK.md` para Arthur montar.
+
+Continuam fora do escopo do assistente: envio de mensagens, convites, compras e contratação.

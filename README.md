@@ -11,12 +11,14 @@ O repositório também contém o kit reutilizável de engenharia com **Codex, Cl
 - [Passo a passo de comunicação, reutilizável em qualquer edição](docs/evento/COMUNICACAO.md)
 - [Textos do grupo do WhatsApp e das peças de divulgação](docs/evento/DIVULGACAO.md)
 - [Formulários online de inscrição e dos palestrantes](docs/evento/FORMULARIOS.md)
+- [Dia do evento: folha de uma página para a manhã, o dia e o depois](docs/evento/DIA_DO_EVENTO.md)
+- [Dinâmicas do dia: amassador de batatas, sushi e backlog](docs/evento/DINAMICAS.md)
 - [Quiz do sorteio e formulário de feedback](docs/evento/SORTEIO_E_FEEDBACK.md)
 - [Questionário para os palestrantes](docs/evento/QUESTIONARIO_PALESTRANTES.md) e as [respostas recebidas](docs/evento/RESPOSTAS_PALESTRANTES.md)
 - [Ata da reunião de 12/09](docs/evento/ATA_REUNIAO_12-09.md) e [pauta usada nela](docs/evento/PAUTA_REUNIAO_12-09.md)
 - [Boas práticas e fontes consultadas](docs/evento/REFERENCIAS_E_PRATICAS.md)
 
-DEC-007, DEC-009, DEC-015, DEC-017, DEC-018 e DEC-019 registram o que os organizadores decidiram. O encontro foi lançado no grupo do WhatsApp em 14/09; o Coatio confirmou a palestra dele em 23/09; as inscrições fecharam em 12/10, com 17 inscritos às 20h, e o Jonatas substituiu o VIRUS. Datas e responsáveis marcados "a definir" são propostas; o assistente não envia mensagens, não compra e não convida.
+DEC-007, DEC-009, DEC-015, DEC-017, DEC-018 e DEC-019 registram o que os organizadores decidiram. O encontro foi lançado no grupo do WhatsApp em 14/09; o Coatio confirmou a palestra dele em 23/09; as inscrições fecharam em 12/10, com 17 inscritos às 20h, e o Jonathan substituiu o VIRUS. Datas e responsáveis marcados "a definir" são propostas; o assistente não envia mensagens, não compra e não convida.
 
 A planilha é gerada por `python scripts/evento/build_planilha.py` (requer `pip install openpyxl`). Rodar de novo sobrescreve as edições feitas à mão; depois que começarem a preencher, editem o `.xlsx` diretamente.
 
